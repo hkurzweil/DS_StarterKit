@@ -13,9 +13,11 @@
 
     <!-- Include chapters -->
     <xi:include href="./ch-intro-datascience.ptx" />
+    <xi:include href="./ch-overcoming-data-anxiety.ptx" />
     
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
+    
     
   </book>
 </pretext>
