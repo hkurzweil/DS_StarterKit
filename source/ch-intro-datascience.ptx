@@ -64,13 +64,13 @@
       To deepen your understanding of data science in education, watch this panel discussion featuring educators and data science experts who share their insights on implementing data science in K-12 classrooms. Pay attention to the practical strategies they discuss and the challenges they've overcome.
     </p>
     
-    <!-- Replace YOUR_VIDEO_URL with your actual video URL -->
-    <video xml:id="video-panel-discussion" youtube="YOUR_VIDEO_URL">
-      <title>Data Science in K-12 Education: A Panel Discussion</title>
-      <description>
-        A panel of educators and data science experts discuss practical approaches to integrating data science in K-12 classrooms, sharing success stories, challenges, and actionable strategies for teachers.
-      </description>
-    </video>
+    <p>
+      <url href="YOUR_GOOGLE_DRIVE_VIDEO_LINK" visual="YOUR_GOOGLE_DRIVE_VIDEO_LINK">Panel Discussion: Data Science in K-12 Education</url>
+    </p>
+    
+    <p>
+      <em>Note: This panel discussion features educators and data science experts discussing practical approaches to integrating data science in K-12 classrooms, sharing success stories, challenges, and actionable strategies for teachers.</em>
+    </p>
     
     <p>
       As you watch, consider how the panelists' experiences might relate to your own teaching context. What resonates with your current practice? What challenges do they mention that you might face? What opportunities do you see for your students?
@@ -86,39 +86,31 @@
         <p>
           Think about your current teaching practice and respond to the following prompts. There are no right or wrong answers—this is about understanding where you are now and where you'd like to go.
         </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Describe a recent lesson or activity where your students worked with information or data (this could be as simple as counting, measuring, or researching facts). What did students do with that information?
+              </p>
+            </li>
+            <li>
+              <p>
+                What questions do your students naturally ask about their world? List 2-3 questions that come up regularly in your classroom.
+              </p>
+            </li>
+            <li>
+              <p>
+                How comfortable do you feel with technology and data tools? Rate yourself on a scale of 1-5 and explain your reasoning.
+              </p>
+            </li>
+            <li>
+              <p>
+                What excites you most about the possibility of incorporating data science thinking into your teaching? What concerns you most?
+              </p>
+            </li>
+          </ol>
+        </p>
       </statement>
-      
-      <task>
-        <statement>
-          <p>
-            Describe a recent lesson or activity where your students worked with information or data (this could be as simple as counting, measuring, or researching facts). What did students do with that information?
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            What questions do your students naturally ask about their world? List 2-3 questions that come up regularly in your classroom.
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            How comfortable do you feel with technology and data tools? Rate yourself on a scale of 1-5 and explain your reasoning.
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            What excites you most about the possibility of incorporating data science thinking into your teaching? What concerns you most?
-          </p>
-        </statement>
-      </task>
     </exercise>
 
     <exercise xml:id="ex-data-literacy-skills">
@@ -127,39 +119,31 @@
         <p>
           Review the following data literacy skills and identify where they might already exist in your curriculum or where you could incorporate them.
         </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                <em>Asking investigative questions:</em> Where in your curriculum do students already ask questions that could be answered with data? How might you encourage more data-focused questions?
+              </p>
+            </li>
+            <li>
+              <p>
+                <em>Collecting and organizing information:</em> What opportunities do students have to gather and organize data in your classroom? How could you expand these opportunities?
+              </p>
+            </li>
+            <li>
+              <p>
+                <em>Identifying patterns:</em> In what contexts do your students look for patterns? How could you help them develop stronger pattern recognition skills?
+              </p>
+            </li>
+            <li>
+              <p>
+                <em>Communicating findings:</em> How do your students currently share what they've learned? What new formats could you introduce for data communication?
+              </p>
+            </li>
+          </ol>
+        </p>
       </statement>
-      
-      <task>
-        <statement>
-          <p>
-            <em>Asking investigative questions:</em> Where in your curriculum do students already ask questions that could be answered with data? How might you encourage more data-focused questions?
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            <em>Collecting and organizing information:</em> What opportunities do students have to gather and organize data in your classroom? How could you expand these opportunities?
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            <em>Identifying patterns:</em> In what contexts do your students look for patterns? How could you help them develop stronger pattern recognition skills?
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            <em>Communicating findings:</em> How do your students currently share what they've learned? What new formats could you introduce for data communication?
-          </p>
-        </statement>
-      </task>
     </exercise>
 
     <exercise xml:id="ex-student-questions">
@@ -168,31 +152,26 @@
         <p>
           Over the next week, keep a record of questions your students ask that could potentially be answered with data. Use this space to brainstorm how you might turn one of these questions into a data science investigation.
         </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                List 3-5 questions your students have asked recently that sparked your curiosity.
+              </p>
+            </li>
+            <li>
+              <p>
+                Choose one question that interests you most. What kind of data might help answer this question? Where could you and your students find this data?
+              </p>
+            </li>
+            <li>
+              <p>
+                How could you involve students in collecting, analyzing, or interpreting data related to this question?
+              </p>
+            </li>
+          </ol>
+        </p>
       </statement>
-      
-      <task>
-        <statement>
-          <p>
-            List 3-5 questions your students have asked recently that sparked your curiosity.
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            Choose one question that interests you most. What kind of data might help answer this question? Where could you and your students find this data?
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            How could you involve students in collecting, analyzing, or interpreting data related to this question?
-          </p>
-        </statement>
-      </task>
     </exercise>
   </section>
 
@@ -209,31 +188,26 @@
         <p>
           Quick wins are small changes that can have a big impact. These are low-risk ways to begin integrating data science thinking without requiring major curriculum overhauls or new technology.
         </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Think of an upcoming lesson or unit. How could you add a simple data collection or analysis component? For example, students could survey classmates, measure objects, count occurrences, or research statistics online.
+              </p>
+            </li>
+            <li>
+              <p>
+                What's one question you could pose to your students that would require them to gather evidence or data to answer? How would they share their findings?
+              </p>
+            </li>
+            <li>
+              <p>
+                How could you incorporate more "why" and "what if" questions into your teaching? These questions often lead naturally to data investigations.
+              </p>
+            </li>
+          </ol>
+        </p>
       </statement>
-      
-      <task>
-        <statement>
-          <p>
-            Think of an upcoming lesson or unit. How could you add a simple data collection or analysis component? For example, students could survey classmates, measure objects, count occurrences, or research statistics online.
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            What's one question you could pose to your students that would require them to gather evidence or data to answer? How would they share their findings?
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            How could you incorporate more "why" and "what if" questions into your teaching? These questions often lead naturally to data investigations.
-          </p>
-        </statement>
-      </task>
     </exercise>
 
     <exercise xml:id="ex-cross-curricular-connections">
@@ -242,31 +216,26 @@
         <p>
           Data science thrives on interdisciplinary connections. Consider how you might connect different subject areas through data-focused investigations.
         </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                If you teach multiple subjects, identify a topic or theme that appears in more than one area. How could students use data to explore this topic from multiple perspectives?
+              </p>
+            </li>
+            <li>
+              <p>
+                If you teach a single subject, think about connections to other disciplines. How does your subject area connect to science, social studies, mathematics, or language arts through data?
+              </p>
+            </li>
+            <li>
+              <p>
+                How could you collaborate with colleagues in other subject areas to create a shared data science investigation?
+              </p>
+            </li>
+          </ol>
+        </p>
       </statement>
-      
-      <task>
-        <statement>
-          <p>
-            If you teach multiple subjects, identify a topic or theme that appears in more than one area. How could students use data to explore this topic from multiple perspectives?
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            If you teach a single subject, think about connections to other disciplines. How does your subject area connect to science, social studies, mathematics, or language arts through data?
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            How could you collaborate with colleagues in other subject areas to create a shared data science investigation?
-          </p>
-        </statement>
-      </task>
     </exercise>
 
     <exercise xml:id="ex-action-planning">
@@ -275,39 +244,31 @@
         <p>
           Based on your reflections in this chapter, create a concrete action plan for incorporating data science thinking into your practice.
         </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                <em>This week:</em> What's one small step you'll take this week to begin integrating data science thinking? Be specific about what you'll do and when.
+              </p>
+            </li>
+            <li>
+              <p>
+                <em>This month:</em> What's a slightly larger goal you'd like to accomplish within the next month? This might involve planning a lesson, trying a new activity, or having a conversation with a colleague.
+              </p>
+            </li>
+            <li>
+              <p>
+                <em>This semester/year:</em> What's your bigger vision for incorporating data science in your teaching? What would success look like for you and your students?
+              </p>
+            </li>
+            <li>
+              <p>
+                <em>Support needed:</em> What resources, training, or support would help you achieve these goals? How might you access this support?
+              </p>
+            </li>
+          </ol>
+        </p>
       </statement>
-      
-      <task>
-        <statement>
-          <p>
-            <em>This week:</em> What's one small step you'll take this week to begin integrating data science thinking? Be specific about what you'll do and when.
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            <em>This month:</em> What's a slightly larger goal you'd like to accomplish within the next month? This might involve planning a lesson, trying a new activity, or having a conversation with a colleague.
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            <em>This semester/year:</em> What's your bigger vision for incorporating data science in your teaching? What would success look like for you and your students?
-          </p>
-        </statement>
-      </task>
-      
-      <task>
-        <statement>
-          <p>
-            <em>Support needed:</em> What resources, training, or support would help you achieve these goals? How might you access this support?
-          </p>
-        </statement>
-      </task>
     </exercise>
 
     <p>

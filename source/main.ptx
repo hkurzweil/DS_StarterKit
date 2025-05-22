@@ -13,10 +13,9 @@
 
     <!-- Include chapters -->
     <xi:include href="./ch-intro-datascience.ptx" />
-
-
+    
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
-
+    
   </book>
 </pretext>
