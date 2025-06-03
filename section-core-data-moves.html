@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US" dir="ltr">
+<!--******************************************-->
+<!--*  Authored with PreTeXt                 *-->
+<!--*  pretextbook.org                       *-->
+<!--*  Theme: denver                         *-->
+<!--*  Palette:                              *-->
+<!--******************************************-->
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>The Six Core Data Moves</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+<link href="_static/pretext/css/theme.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/ol-markers.css" rel="stylesheet" type="text/css">
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
+  },
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
+  },
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
+  },
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "_static/pretext/js/lib"
+    }
+  },
+  "startup": {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  }
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="Data Science Starter Kit">
+<meta property="book:author" content="You">
+<script src="_static/pretext/js/lib/jquery.min.js"></script><script src="_static/pretext/js/lib/jquery.sticky.js"></script><script src="_static/pretext/js/lib/jquery.espy.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><script src="_static/pretext/js/user_preferences.js"></script><!--** eBookCongig is necessary to configure interactive       **-->
+<!--** Runestone components to run locally in reader's browser **-->
+<!--** No external communication:                              **-->
+<!--**     log level is 0, Runestone Services are disabled     **-->
+<script type="text/javascript">
+eBookConfig = {};
+eBookConfig.useRunestoneServices = false;
+eBookConfig.host = 'http://127.0.0.1:8000';
+eBookConfig.course = 'PTX_Course_Title_Here';
+eBookConfig.basecourse = 'PTX_Base_Course';
+eBookConfig.isLoggedIn = false;
+eBookConfig.email = '';
+eBookConfig.isInstructor = false;
+eBookConfig.logLevel = 0;
+eBookConfig.username = '';
+eBookConfig.readings = null;
+eBookConfig.activities = null;
+eBookConfig.downloadsEnabled = false;
+eBookConfig.allow_pairs = false;
+eBookConfig.enableScratchAC = false;
+eBookConfig.build_info = "";
+eBookConfig.python3 = null;
+eBookConfig.runestone_version = '7.7.3';
+eBookConfig.jobehost = '';
+eBookConfig.proxyuri_runs = '';
+eBookConfig.proxyuri_files = '';
+eBookConfig.enable_chatcodes =  false;
+</script>
+<!--*** Runestone Services ***-->
+<script src="_static/prefix-runtime.107bf2d9be20d9c4.bundle.js"></script><script src="_static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="_static/prefix-runestone.c7bf407f76a97812.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-723.3bccd435914aa0ff.css">
+<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.5bdeacdba067a0e3.css">
+<script src="_static/pretext/js/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><script src="_static/pretext/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script>
+</head>
+<body class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner"><div class="title-container">
+<h1 class="heading"><a href="my-great-book.html"><span class="title">Data Science Starter Kit</span> <span class="subtitle">A Step-by-Step Guide to Implementing Data Science in K-12 Classrooms</span></a></h1>
+<p class="byline">You</p>
+</div></div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><div class="ptx-navbar-contents">
+<button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
+</div>
+<h2 class="search-results-heading">Search Results: </h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
+</div>
+</div>
+<span class="nav-other-controls"><button id="embed-button" class="embed-button button" title="Embed this page"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe86f;</span><span class="name">Embed</span></button><div class="embed-popup hidden" id="embed-popup">
+<p>Copy the code below to embed this page in your own website or LMS page.</p>
+<div class="embed-code-container">
+<textarea class="embed-code-textbox" id="embed-code-textbox" readonly aria-label="textbox"><iframe src="https://example.com/embed" width="100%" height="1000"></iframe></textarea><button class="copy-embed-button button" id="copy-embed-button" title="Copy embed code"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe14d;</span><span class="name">Copy</span></button>
+</div>
+</div>
+<button id="light-dark-button" class="light-dark-button button" title="Dark Mode"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe51c;</span><span class="name">Dark Mode</span></button></span><span class="treebuttons"><a class="previous-button button" href="section-what-are-data-moves.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="chapter-data-moves.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="section-data-moves-in-practice.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
+</div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\N}{\mathbb N} \newcommand{\Z}{\mathbb Z} \newcommand{\Q}{\mathbb Q} \newcommand{\R}{\mathbb R}
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth2 focused" data-preexpanded-levels="0" data-max-levels="2"><ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-frontmatter"><div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-intro-datascience.html" class="internal"><span class="codenumber">1</span> <span class="title">Understanding Data Science in K-12 Education</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-what-is-data-science.html" class="internal"><span class="title">What is Data Science?</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-data-science-in-k12.html" class="internal"><span class="title">Data Science in K-12 Education</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-panel-discussion1.html" class="internal"><span class="title">Expert Perspectives: Panel Discussion</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-reflection-activities.html" class="internal"><span class="title">Reflection and Self-Assessment</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-applications-to-practice.html" class="internal"><span class="title">Applications to Your Teaching Practice</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-learning-progressions.html" class="internal"><span class="codenumber">2</span> <span class="title">Understanding Data Science Learning Progressions</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-five-strands.html" class="internal"><span class="title">The Five Strands of Data Science Learning</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-five-strands.html#subsec-strand-a" class="internal"><span class="title">Strand A: Data Literacy and Responsibility</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-five-strands.html#subsec-strand-b" class="internal"><span class="title">Strand B: Creation and Curation</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-five-strands.html#subsec-strand-c" class="internal"><span class="title">Strand C: Analysis and Modeling Techniques</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-five-strands.html#subsec-strand-d" class="internal"><span class="title">Strand D: Interpreting Problems and Results</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-five-strands.html#subsec-strand-e" class="internal"><span class="title">Strand E: Visualization and Communication</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-strands-together.html" class="internal"><span class="title">How the Strands Work Together</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-progressions-reflection.html" class="internal"><span class="title">Reflection and Self-Assessment</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-applications-teaching.html" class="internal"><span class="title">Applications to Your Teaching</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-overcoming-anxiety.html" class="internal"><span class="codenumber">3</span> <span class="title">Overcoming Anxiety and Building Confidence</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-reframing-expertise.html" class="internal"><span class="title">Reframing What "Expertise" Means</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-skills-you-already-have.html" class="internal"><span class="title">The Data Science Skills You’re Already Using</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-power-of-learning-together.html" class="internal"><span class="title">The Power of Learning Alongside Your Students</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-starting-small-building-confidence.html" class="internal"><span class="title">Starting Small and Building Confidence</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-panel-discussion2.html" class="internal"><span class="title">Expert Perspectives: Panel Discussion</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-reflection-and-application.html" class="internal"><span class="title">Reflection and Application: Embracing the Learning Journey</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter contains-active">
+<div class="toc-title-box"><a href="chapter-data-moves.html" class="internal"><span class="codenumber">4</span> <span class="title">Data Moves: Transforming Data for Analysis</span></a></div>
+<ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section-what-are-data-moves.html" class="internal"><span class="title">What Are Data Moves?</span></a></div></li>
+<li class="toc-item toc-section contains-active">
+<div class="toc-title-box"><a href="section-core-data-moves.html" class="internal"><span class="title">The Six Core Data Moves</span></a></div>
+<ul class="structural toc-item-list active">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-core-data-moves.html#subsection-filtering" class="internal"><span class="title">Filtering: Focusing Your Data</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-core-data-moves.html#subsection-grouping" class="internal"><span class="title">Grouping: Organizing for Comparison</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-core-data-moves.html#subsection-summarizing" class="internal"><span class="title">Summarizing: Creating Aggregate Measures</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-core-data-moves.html#subsection-calculating" class="internal"><span class="title">Calculating: Creating New Attributes</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-core-data-moves.html#subsection-merging" class="internal"><span class="title">Merging and Joining: Combining Datasets</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-core-data-moves.html#subsection-making-hierarchy" class="internal"><span class="title">Making Hierarchy: Restructuring Data Relationships</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="section-data-moves-in-practice.html" class="internal"><span class="title">Data Moves in Practice</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-data-moves-in-practice.html#subsection-choosing-moves" class="internal"><span class="title">Choosing Appropriate Data Moves</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-data-moves-in-practice.html#subsection-ethical-considerations" class="internal"><span class="title">Ethical Considerations in Data Moves</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="section-tools-for-data-moves.html" class="internal"><span class="title">Digital Tools for Data Moves</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-tools-for-data-moves.html#subsection-tool-categories" class="internal"><span class="title">Categories of Data Analysis Tools</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-tools-for-data-moves.html#subsection-reproducibility" class="internal"><span class="title">Reproducibility and Documentation</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="section-beyond-core-moves.html" class="internal"><span class="title">Beyond the Core Moves</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-beyond-core-moves.html#subsection-data-cleaning-moves" class="internal"><span class="title">Data Cleaning Moves</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-beyond-core-moves.html#subsection-advanced-moves" class="internal"><span class="title">Advanced Analytical Moves</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-exercises"><div class="toc-title-box"><a href="exercises-data-moves.html" class="internal"><span class="title">Chapter Exercises</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-backmatter"><div class="toc-title-box"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="section-core-data-moves"><h2 class="heading hide-type">
+<span class="type">Section</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">The Six Core Data Moves</span>
+</h2>
+<section class="introduction" id="section-core-data-moves-2"><div class="para" id="section-core-data-moves-2-1">Research has identified six fundamental data moves that appear consistently across data analysis contexts. These moves can be combined and applied in various orders to transform data for specific analytical purposes.</div></section><section class="subsection" id="subsection-filtering"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">Filtering: Focusing Your Data</span>
+</h3>
+<div class="para" id="subsection-filtering-2">
+<dfn class="terminology">Filtering</dfn> creates a subset of data by removing cases that don’t meet specific criteria. Filtering serves two main purposes: scoping (removing irrelevant data) and slicing (reducing complexity to gain insight).</div>
+<details id="example-filtering-temperature" class="example example-like born-hidden-knowl"><summary class="knowl__link"><h4 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">18</span><span class="period">.</span><span class="space"> </span><span class="title">Temperature Data Filtering.</span>
+</h4></summary><article class="example example-like knowl__content"><div class="para" id="example-filtering-temperature-2">Consider a dataset with 17,500 temperature measurements taken every 30 minutes throughout 2000. Plotting all data points shows a general relationship between air and soil temperature, but filtering to show only one day (May 19, 2000) reveals a clear diurnal pattern that was hidden in the full dataset.</div></article></details><div class="para logical" id="subsection-filtering-4">
+<div class="para"><em class="emphasis">Learning Progression Connections:</em></div>
+<ul class="disc" id="subsection-filtering-4-2">
+<li id="subsection-filtering-4-2-1"><div class="para" id="p-derived-subsection-filtering-4-2-1">Processing and Transformation (B.1.3): “Filter data based on groups or subsets relevant to the problem”</div></li>
+<li id="subsection-filtering-4-2-2"><div class="para" id="p-derived-subsection-filtering-4-2-2">Identifying Patterns (C.2.3): Using filtering to reveal relationships and trends</div></li>
+<li id="subsection-filtering-4-2-3"><div class="para" id="p-derived-subsection-filtering-4-2-3">Sense-making with Visualizations (E.1.1): Creating visualizations to summarize complex ideas</div></li>
+</ul>
+</div>
+<article class="activity project-like" id="activity-filtering-practice"><h4 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span><span class="space"> </span><span class="title">Filtering Practice.</span>
+</h4>
+<div class="para logical" id="activity-filtering-practice-2-1">
+<div class="para">Using a dataset of student survey responses about technology use:</div>
+<ol class="decimal" id="activity-filtering-practice-2-1-1">
+<li id="activity-filtering-practice-2-1-1-1"><div class="para" id="p-derived-activity-filtering-practice-2-1-1-1">Filter to show only high school students</div></li>
+<li id="activity-filtering-practice-2-1-1-2"><div class="para" id="p-derived-activity-filtering-practice-2-1-1-2">Filter to show only responses from the last month</div></li>
+<li id="activity-filtering-practice-2-1-1-3"><div class="para" id="p-derived-activity-filtering-practice-2-1-1-3">Combine filters to show high school students from the last month who use social media daily</div></li>
+</ol>
+<div class="para">Discuss how each filter changes what patterns you can observe.</div>
+</div></article></section><section class="subsection" id="subsection-grouping"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">Grouping: Organizing for Comparison</span>
+</h3>
+<div class="para" id="subsection-grouping-2">
+<dfn class="terminology">Grouping</dfn> divides a dataset into multiple subsets based on shared characteristics. While filtering restricts analysis to a single subset, grouping creates multiple subsets for comparison. <dfn class="terminology">Binning</dfn> is a special type of grouping that uses ranges of continuous values.</div>
+<div class="para" id="subsection-grouping-3">Grouping is fundamental for making comparisons and is often a prerequisite for summarizing data. The way you define groups can dramatically affect what patterns emerge from your analysis.</div>
+<details id="example-grouping-histogram" class="example example-like born-hidden-knowl"><summary class="knowl__link"><h4 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">19</span><span class="period">.</span><span class="space"> </span><span class="title">Height Data Grouping.</span>
+</h4></summary><article class="example example-like knowl__content"><div class="para" id="example-grouping-histogram-2">To create a histogram of height data, you group people into height ranges (bins). Choosing narrow bins (5 cm ranges) versus wide bins (20 cm ranges) will reveal very different patterns in the distribution.</div></article></details><div class="para logical" id="subsection-grouping-5">
+<div class="para"><em class="emphasis">Learning Progression Connections:</em></div>
+<ul class="disc" id="subsection-grouping-5-2">
+<li id="subsection-grouping-5-2-1"><div class="para" id="p-derived-subsection-grouping-5-2-1">Frequency Tables (C.1.4): “Organize data into frequency tables based on shared characteristics”</div></li>
+<li id="subsection-grouping-5-2-2"><div class="para" id="p-derived-subsection-grouping-5-2-2">Comparing Variables (C.2.1): “Use reasoning about distributions to compare two groups”</div></li>
+<li id="subsection-grouping-5-2-3"><div class="para" id="p-derived-subsection-grouping-5-2-3">Summarizing Groups (B.1.4): “Create summary measures for groups”</div></li>
+</ul>
+</div></section><section class="subsection" id="subsection-summarizing"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">Summarizing: Creating Aggregate Measures</span>
+</h3>
+<div class="para" id="subsection-summarizing-2">
+<dfn class="terminology">Summarizing</dfn> produces aggregate values that describe groups or entire datasets. While the mean is common, summary measures include any statistic that consolidates multiple values into a single measure: median, mode, standard deviation, counts, percentages, etc.</div>
+<div class="para" id="subsection-summarizing-3">Summarizing often works together with grouping to create simpler displays that highlight overall patterns. However, this consolidation always involves information loss — when showing only measures of center, variability information disappears.</div>
+<details id="example-summarizing-heights" class="example example-like born-hidden-knowl"><summary class="knowl__link"><h4 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">20</span><span class="period">.</span><span class="space"> </span><span class="title">Height by Age and Gender.</span>
+</h4></summary><article class="example example-like knowl__content"><div class="para logical" id="example-summarizing-heights-2">
+<div class="para">Starting with 800 individual height measurements, you can:</div>
+<ol class="decimal" id="example-summarizing-heights-2-1">
+<li id="example-summarizing-heights-2-1-1"><div class="para" id="p-derived-example-summarizing-heights-2-1-1">Group by age and gender (creating 30 groups)</div></li>
+<li id="example-summarizing-heights-2-1-2"><div class="para" id="p-derived-example-summarizing-heights-2-1-2">Calculate mean height for each group (summarizing)</div></li>
+<li id="example-summarizing-heights-2-1-3"><div class="para" id="p-derived-example-summarizing-heights-2-1-3">Create a graph with 30 points instead of 800, clearly showing growth patterns</div></li>
+</ol>
+</div></article></details><div class="para logical" id="subsection-summarizing-5">
+<div class="para"><em class="emphasis">Learning Progression Connections:</em></div>
+<ul class="disc" id="subsection-summarizing-5-2">
+<li id="subsection-summarizing-5-2-1"><div class="para" id="p-derived-subsection-summarizing-5-2-1">Measures of Center (C.1.1): “Calculate summaries for categorical and numeric data”</div></li>
+<li id="subsection-summarizing-5-2-2"><div class="para" id="p-derived-subsection-summarizing-5-2-2">Measures of Spread (C.1.2): “Calculate standard deviation and interquartile range”</div></li>
+<li id="subsection-summarizing-5-2-3"><div class="para" id="p-derived-subsection-summarizing-5-2-3">Understanding Distributions (C.2.2): “Represent variability using numerical measures”</div></li>
+</ul>
+</div></section><section class="subsection" id="subsection-calculating"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">Calculating: Creating New Attributes</span>
+</h3>
+<div class="para" id="subsection-calculating-2">
+<dfn class="terminology">Calculating</dfn> creates new attributes (columns) using formulas applied to existing data. New attributes can be conceptual (like Body Mass Index combining height and weight) or convenience attributes (like converting units or creating categories).</div>
+<div class="para logical" id="subsection-calculating-3">
+<div class="para">Calculated attributes expand analytical possibilities by:</div>
+<ul class="disc" id="subsection-calculating-3-1">
+<li id="subsection-calculating-3-1-1"><div class="para" id="p-derived-subsection-calculating-3-1-1">Combining multiple measurements into meaningful indices</div></li>
+<li id="subsection-calculating-3-1-2"><div class="para" id="p-derived-subsection-calculating-3-1-2">Converting continuous variables into categories</div></li>
+<li id="subsection-calculating-3-1-3"><div class="para" id="p-derived-subsection-calculating-3-1-3">Creating relative measures (percentages, ratios)</div></li>
+<li id="subsection-calculating-3-1-4"><div class="para" id="p-derived-subsection-calculating-3-1-4">Standardizing units or formats</div></li>
+</ul>
+</div>
+<details id="example-calculating-bmi" class="example example-like born-hidden-knowl"><summary class="knowl__link"><h4 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">21</span><span class="period">.</span><span class="space"> </span><span class="title">Body Mass Index Calculation.</span>
+</h4></summary><article class="example example-like knowl__content"><div class="para" id="example-calculating-bmi-2">From height (cm) and weight (kg) measurements, calculate BMI:</div>
+<div class="para" id="example-calculating-bmi-3">BMI = (weight / height²) × 10000</div>
+<div class="para" id="example-calculating-bmi-4">This new attribute provides health professionals with a standardized measure that’s more informative than weight alone.</div></article></details><div class="para logical" id="subsection-calculating-5">
+<div class="para"><em class="emphasis">Learning Progression Connections:</em></div>
+<ul class="disc" id="subsection-calculating-5-2">
+<li id="subsection-calculating-5-2-1"><div class="para" id="p-derived-subsection-calculating-5-2-1">Processing and Transformation (B.1.3): “Use calculations and logic statements to create new attributes”</div></li>
+<li id="subsection-calculating-5-2-2"><div class="para" id="p-derived-subsection-calculating-5-2-2">Defining Relationships (C.2.3): “Use data to create new groupings or construct new measures”</div></li>
+<li id="subsection-calculating-5-2-3"><div class="para" id="p-derived-subsection-calculating-5-2-3">Tool Application (C.4.1): “Perform data analysis using digital tools”</div></li>
+</ul>
+</div></section><section class="subsection" id="subsection-merging"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">Merging and Joining: Combining Datasets</span>
+</h3>
+<div class="para" id="subsection-merging-2">
+<dfn class="terminology">Merging</dfn> and <dfn class="terminology">joining</dfn> combine multiple datasets. Simple merging concatenates datasets about the same phenomenon from different sources. Joining adds new attributes about existing cases by connecting datasets through common identifiers.</div>
+<div class="para" id="subsection-merging-3">Real-world data often comes in separate tables that must be connected. Health surveys, for example, might store demographic information separately from medical measurements, requiring joins to create complete analytical datasets.</div>
+<details id="example-joining-health-data" class="example example-like born-hidden-knowl"><summary class="knowl__link"><h4 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">22</span><span class="period">.</span><span class="space"> </span><span class="title">Health Survey Data Joining.</span>
+</h4></summary><article class="example example-like knowl__content"><div class="para logical" id="example-joining-health-data-2">
+<div class="para">The NHANES health survey stores data in separate tables:</div>
+<ul class="disc" id="example-joining-health-data-2-1">
+<li id="example-joining-health-data-2-1-1"><div class="para" id="p-derived-example-joining-health-data-2-1-1">
+<em class="emphasis">Demographics table</em>: ID, Age, Gender</div></li>
+<li id="example-joining-health-data-2-1-2"><div class="para" id="p-derived-example-joining-health-data-2-1-2">
+<em class="emphasis">Measurements table</em>: ID, Height, Weight, Blood Pressure</div></li>
+</ul>
+<div class="para">Using the ID field, you can join these tables to analyze relationships between demographic characteristics and health measurements.</div>
+</div></article></details><div class="para logical" id="subsection-merging-5">
+<div class="para"><em class="emphasis">Learning Progression Connections:</em></div>
+<ul class="disc" id="subsection-merging-5-2">
+<li id="subsection-merging-5-2-1"><div class="para" id="p-derived-subsection-merging-5-2-1">Processing and Transformation (B.1.3): “Use an identifying attribute to merge datasets”</div></li>
+<li id="subsection-merging-5-2-2"><div class="para" id="p-derived-subsection-merging-5-2-2">Complexity of Structure (B.4.4): “Merge multiple datasets while maintaining appropriate case structure”</div></li>
+<li id="subsection-merging-5-2-3"><div class="para" id="p-derived-subsection-merging-5-2-3">Finding Secondary Data (B.2.4): “Combine multiple secondary datasets to create comprehensive data”</div></li>
+</ul>
+</div></section><section class="subsection" id="subsection-making-hierarchy"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">Making Hierarchy: Restructuring Data Relationships</span>
+</h3>
+<div class="para" id="subsection-making-hierarchy-2">
+<dfn class="terminology">Making hierarchy</dfn> organizes data into nested levels where some cases become “parents” containing other “child” cases. This move is particularly powerful because it provides an elegant way to think about grouping and summarizing.</div>
+<div class="para logical" id="subsection-making-hierarchy-3">
+<div class="para">Hierarchical organization allows analysts to:</div>
+<ul class="disc" id="subsection-making-hierarchy-3-1">
+<li id="subsection-making-hierarchy-3-1-1"><div class="para" id="p-derived-subsection-making-hierarchy-3-1-1">Manipulate dataset structure for specific purposes</div></li>
+<li id="subsection-making-hierarchy-3-1-2"><div class="para" id="p-derived-subsection-making-hierarchy-3-1-2">Create summary measures as first-class variables</div></li>
+<li id="subsection-making-hierarchy-3-1-3"><div class="para" id="p-derived-subsection-making-hierarchy-3-1-3">Work with naturally nested data (students within schools, individuals within households)</div></li>
+<li id="subsection-making-hierarchy-3-1-4"><div class="para" id="p-derived-subsection-making-hierarchy-3-1-4">Build more sophisticated analytical models</div></li>
+</ul>
+</div>
+<details id="example-hierarchy-households" class="example example-like born-hidden-knowl"><summary class="knowl__link"><h4 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">23</span><span class="period">.</span><span class="space"> </span><span class="title">Household Data Hierarchy.</span>
+</h4></summary><article class="example example-like knowl__content"><div class="para logical" id="example-hierarchy-households-2">
+<div class="para">Census data includes both individual and household information. By creating a hierarchy with households as parents and individuals as children, you can:</div>
+<ul class="disc" id="example-hierarchy-households-2-1">
+<li id="example-hierarchy-households-2-1-1"><div class="para" id="p-derived-example-hierarchy-households-2-1-1">Calculate household size (count of individuals per household)</div></li>
+<li id="example-hierarchy-households-2-1-2"><div class="para" id="p-derived-example-hierarchy-households-2-1-2">Analyze relationships between household characteristics and individual outcomes</div></li>
+<li id="example-hierarchy-households-2-1-3"><div class="para" id="p-derived-example-hierarchy-households-2-1-3">Compare household-level patterns across different regions</div></li>
+</ul>
+</div></article></details><div class="para logical" id="subsection-making-hierarchy-5">
+<div class="para"><em class="emphasis">Learning Progression Connections:</em></div>
+<ul class="disc" id="subsection-making-hierarchy-5-2">
+<li id="subsection-making-hierarchy-5-2-1"><div class="para" id="p-derived-subsection-making-hierarchy-5-2-1">Organizing and Structure (B.1.2): “Create hierarchical data structures with multiple related tables”</div></li>
+<li id="subsection-making-hierarchy-5-2-2"><div class="para" id="p-derived-subsection-making-hierarchy-5-2-2">Understanding Modeling (C.5.1): “Recognize that models simplify complex systems”</div></li>
+<li id="subsection-making-hierarchy-5-2-3"><div class="para" id="p-derived-subsection-making-hierarchy-5-2-3">Complexity of Structure (B.4.4): “Design data structures for longitudinal data and multiple aggregation levels”</div></li>
+</ul>
+</div></section></section></div>
+<div id="ptx-content-footer" class="ptx-content-footer">
+<a class="previous-button button" href="section-what-are-data-moves.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="section-data-moves-in-practice.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer" class="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="338 3000 8772 6866" role="img"><title>PreTeXt logo</title><g style="stroke-width:.025in; stroke:currentColor; fill:none"><polyline points="472,3590 472,9732 " style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png" alt="Runstone Academy logo"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png" alt="MathJax logo"></a>
+</div>
+</body>
+</html>
