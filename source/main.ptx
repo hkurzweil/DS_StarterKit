@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <!-- we first include a file which contains the docinfo element: -->
+ <xi:include href="./docinfo.ptx" />
+
+
+ <book xml:id="my-great-book">
+   <title>Data Science Starter Kit</title>
+   <subtitle>A Step-by-Step Guide to Implementing Data Science in K-12 Classrooms</subtitle>
+
+
+   <!-- Include frontmatter -->
+   <xi:include href="./frontmatter.ptx" />
+
+
+   <!-- Include chapters -->
+   <xi:include href="./ch-intro-datascience.ptx" />
+   <xi:include href="./ch-learning-progressions.ptx" />
+   <xi:include href="./ch-overcoming-data-anxiety.ptx" />
+   <xi:include href="./ch-data-moves.ptx" />
+  
+   <!-- Include backmatter -->
+   <xi:include href="./backmatter.ptx" />
+  
+  
+ </book>
+</pretext>
+
