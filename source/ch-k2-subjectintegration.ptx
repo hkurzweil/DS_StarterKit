@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="k2-subject-integration" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>K-2 Subject Integration Playbook: Data Science Across the Curriculum</title>
+  
+  <introduction>
+    <p>
+      Data science isn't another subject to add to your already packed K-2 day. Instead, it's a way of thinking that naturally enhances every subject you're already teaching. Young children are constantly collecting information, organizing what they find, and sharing their discoveries - which means data science thinking is already happening in your classroom!
+    </p>
+    
+    <p>
+      This chapter will show you specific, practical ways to bring out the data science thinking that's already embedded in your reading, math, science, social studies, and arts instruction. You'll discover that you don't need new curriculum - you need new eyes to see the data science potential in what you're already doing.
+    </p>
+    
+    <p>
+      <alert>Chapter Objectives</alert>
+    </p>
+    <p>By the end of this chapter, you will be able to:</p>
+    <p>
+      <m>\bullet</m> Identify natural data science connections in every subject area
+    </p>
+    <p>
+      <m>\bullet</m> Enhance existing lessons with data science thinking
+    </p>
+    <p>
+      <m>\bullet</m> Use subject-specific content to build data science skills
+    </p>
+    <p>
+      <m>\bullet</m> Plan integrated lessons that serve multiple learning goals
+    </p>
+    <p>
+      <m>\bullet</m> Help students see connections between subjects through data
+    </p>
+  </introduction>
+
+  <section xml:id="k2-ela-connections">
+    <title>English Language Arts: Stories, Information, and Communication</title>
+    
+    <introduction>
+      <p>
+        ELA instruction naturally connects to data science through information gathering, organizing ideas, and communicating findings. Young children love to share what they've learned, making ELA the perfect partner for data science communication skills.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-ela-reading-connections">
+      <title>Reading: Finding Information and Patterns</title>
+      
+      <example xml:id="example-favorite-books">
+        <title>Favorite Books Data Investigation</title>
+        <p>
+          <alert>The Activity:</alert> After reading several books together, students vote on their favorite and create a simple display.
+        </p>
+        <p>
+          <alert>ELA Learning:</alert> Discussing characters, settings, preferences, making connections between books
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Collecting information, organizing responses, comparing groups, creating simple graphs
+        </p>
+        <p>
+          <alert>Integration Magic:</alert> Students can explain WHY they voted as they did, supporting their opinions with evidence from the text
+        </p>
+      </example>
+
+      <insight xml:id="insight-reading-data-connections">
+        <title>Natural Reading-Data Connections</title>
+        <p>
+          <alert>Character analysis:</alert> <q>How many characters are in this story? Which character appears most often?</q>
+        </p>
+        <p>
+          <alert>Story patterns:</alert> <q>What happens first, next, then? Do we see this pattern in other stories?</q>
+        </p>
+        <p>
+          <alert>Book features:</alert> <q>How many pages? How many pictures? How many words on this page?</q>
+        </p>
+        <p>
+          <alert>Reading preferences:</alert> <q>What kinds of books do we like? What do our families like to read?</q>
+        </p>
+      </insight>
+
+      <activity xml:id="activity-reading-enhancement">
+        <title>Enhancing Your Reading Instruction</title>
+        <statement>
+          <p>
+            Think about a book you've recently read with your class. How could you add data science thinking?
+          </p>
+          <p>
+            <alert>Information collecting:</alert> What could students count, measure, or observe?
+          </p>
+          <p>
+            <alert>Organizing:</alert> How could students sort or group information from the story?
+          </p>
+          <p>
+            <alert>Sharing:</alert> How could students present what they discovered?
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="k2-ela-writing-connections">
+      <title>Writing: Recording and Sharing Discoveries</title>
+      
+      <p>
+        Writing is the perfect tool for documenting data science investigations. Young children can record their observations, describe their findings, and share their discoveries through various writing formats.
+      </p>
+
+      <example xml:id="example-weather-journal">
+        <title>Weather Observation Journal</title>
+        <p>
+          <alert>The Activity:</alert> Students keep daily weather journals with pictures, words, and simple measurements.
+        </p>
+        <p>
+          <alert>ELA Learning:</alert> Daily writing practice, descriptive language, sequencing, using pictures and words together
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Systematic observation, recording data over time, noticing patterns
+        </p>
+        <p>
+          <alert>Writing Formats:</alert> Lists, descriptions, comparisons, explanations of what they noticed
+        </p>
+      </example>
+
+      <insight xml:id="insight-writing-formats">
+        <title>Data Science Writing Formats for K-2</title>
+        <p>
+          <alert>Observation logs:</alert> <q>Today I saw... Yesterday I saw... Tomorrow I think...</q>
+        </p>
+        <p>
+          <alert>Comparison writing:</alert> <q>This group has more than that group because...</q>
+        </p>
+        <p>
+          <alert>Explanation writing:</alert> <q>We found out that... This happened because...</q>
+        </p>
+        <p>
+          <alert>Prediction writing:</alert> <q>I think... will happen next because...</q>
+        </p>
+        <p>
+          <alert>Question writing:</alert> <q>I wonder... Next time I want to find out...</q>
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="k2-ela-speaking-listening">
+      <title>Speaking and Listening: Sharing Data Stories</title>
+      
+      <p>
+        Young children are natural storytellers who love to share their discoveries. Data science investigations give them meaningful content for speaking and listening practice.
+      </p>
+
+      <example xml:id="example-show-and-tell">
+        <title>Data Science Show and Tell</title>
+        <p>
+          <alert>Traditional show and tell:</alert> <q>This is my toy. I like it because it's fun.</q>
+        </p>
+        <p>
+          <alert>Data science enhanced:</alert> <q>I collected information about our class pets. Here's what I found out: Most kids have dogs, but some have cats. Three kids don't have pets. I made this chart to show everyone.</q>
+        </p>
+        <p>
+          <alert>Speaking skills:</alert> Clear presentation, using visual aids, explaining reasoning
+        </p>
+        <p>
+          <alert>Listening skills:</alert> Asking questions, making connections, offering ideas
+        </p>
+      </example>
+
+      <note xml:id="note-presentation-skills">
+        <title>Building Presentation Skills</title>
+        <p>
+          Start simple: <q>What did you find out?</q> <q>What surprised you?</q> <q>What questions do you have now?</q> These basic prompts help students learn to communicate their discoveries clearly.
+        </p>
+      </note>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-math-synergies">
+    <title>Mathematics: Numbers, Patterns, and Problem Solving</title>
+    
+    <introduction>
+      <p>
+        Math and data science are natural partners, but data science brings real-world context and purpose to mathematical concepts. Instead of abstract numbers, students work with meaningful information about their world.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-math-counting-measuring">
+      <title>Counting and Measurement: Real Data, Real Purpose</title>
+      
+      <example xml:id="example-classroom-measurement">
+        <title>How Tall Are We?</title>
+        <p>
+          <alert>The Investigation:</alert> Students measure their heights and organize the information.
+        </p>
+        <p>
+          <alert>Math Learning:</alert> Non-standard measurement, comparing lengths, ordering from shortest to tallest
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Collecting measurements, organizing data, looking for patterns
+        </p>
+        <p>
+          <alert>Real-World Connections:</alert> <q>Are taller kids older? Do taller kids have longer arms? What do you think?</q>
+        </p>
+      </example>
+
+      <insight xml:id="insight-measurement-opportunities">
+        <title>Measurement Data Opportunities</title>
+        <p>
+          <alert>Physical measurements:</alert> Height, arm span, foot length, how far we can jump
+        </p>
+        <p>
+          <alert>Time measurements:</alert> How long activities take, daily schedule tracking
+        </p>
+        <p>
+          <alert>Counting investigations:</alert> Steps to the cafeteria, books in our classroom, buttons on our clothes
+        </p>
+        <p>
+          <alert>Comparison studies:</alert> Which container holds more? Which path is shorter?
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="k2-math-geometry-shapes">
+      <title>Geometry and Shapes: Finding Patterns in Our World</title>
+      
+      <p>
+        Shape recognition and classification naturally connect to data science sorting and organizing skills. Students can collect and analyze shape data from their environment.
+      </p>
+
+      <example xml:id="example-shape-hunt">
+        <title>Playground Shape Investigation</title>
+        <p>
+          <alert>The Investigation:</alert> Students go on a shape hunt around the playground and organize what they find.
+        </p>
+        <p>
+          <alert>Math Learning:</alert> Shape recognition, classification, attributes of shapes
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Systematic observation, categorizing data, comparing quantities
+        </p>
+        <p>
+          <alert>Extensions:</alert> <q>Which shapes are most common? Why do you think builders use lots of rectangles? Where do we see circles?</q>
+        </p>
+      </example>
+
+      <activity xml:id="activity-math-integration">
+        <title>Finding Math-Data Connections</title>
+        <statement>
+          <p>
+            Look at your upcoming math lessons. Where could you add data collection and analysis?
+          </p>
+          <p>
+            <alert>Number work:</alert> What could students count that they care about?
+          </p>
+          <p>
+            <alert>Measurement:</alert> What could they measure and compare?
+          </p>
+          <p>
+            <alert>Geometry:</alert> What shapes could they find and organize?
+          </p>
+          <p>
+            <alert>Patterns:</alert> What patterns could they discover in real data?
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="k2-math-graphs-charts">
+      <title>Graphs and Charts: Making Math Visual</title>
+      
+      <p>
+        Young children can create and interpret simple graphs using real objects, pictures, and basic charts. This makes abstract mathematical concepts concrete and meaningful.
+      </p>
+
+      <example xml:id="example-snack-graph">
+        <title>Our Snack Preferences</title>
+        <p>
+          <alert>The Activity:</alert> Students vote on favorite snacks and create a human graph, then a picture graph.
+        </p>
+        <p>
+          <alert>Math Learning:</alert> One-to-one correspondence, comparing quantities, more/less/equal concepts
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Survey data collection, visual representation, interpreting results
+        </p>
+        <p>
+          <alert>Progression:</alert> Human graph → Object graph → Picture graph → Simple bar graph
+        </p>
+      </example>
+
+      <insight xml:id="insight-developmentally-appropriate-graphs">
+        <title>Developmentally Appropriate Graphing</title>
+        <p>
+          <alert>Start concrete:</alert> Students stand in groups, use real objects to make graphs
+        </p>
+        <p>
+          <alert>Add representation:</alert> Pictures or drawings to represent data
+        </p>
+        <p>
+          <alert>Move toward abstraction:</alert> Simple bar graphs with adult support
+        </p>
+        <p>
+          <alert>Always interpret:</alert> <q>What does our graph tell us? What surprises you?</q>
+        </p>
+      </insight>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-science-applications">
+    <title>Science: Observation, Investigation, and Discovery</title>
+    
+    <introduction>
+      <p>
+        Science and data science are perfect partners for young children. Both emphasize observation, asking questions, and finding answers through investigation. Data science tools help students organize and make sense of their scientific discoveries.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-science-observation">
+      <title>Observation and Recording: Systematic Science</title>
+      
+      <example xml:id="example-plant-growth">
+        <title>Watching Our Bean Plants Grow</title>
+        <p>
+          <alert>The Investigation:</alert> Students plant beans and record daily observations over several weeks.
+        </p>
+        <p>
+          <alert>Science Learning:</alert> Plant life cycles, needs of living things, changes over time
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Systematic observation, recording data over time, tracking changes
+        </p>
+        <p>
+          <alert>Data Tools:</alert> Simple charts, drawings with dates, measurement records
+        </p>
+        <p>
+          <alert>Analysis:</alert> <q>Which plants grew fastest? What do you think helped them grow? What patterns do you notice?</q>
+        </p>
+      </example>
+
+      <insight xml:id="insight-observation-skills">
+        <title>Building Scientific Observation Skills</title>
+        <p>
+          <alert>Use senses systematically:</alert> <q>What do you see? Hear? Feel? Smell?</q>
+        </p>
+        <p>
+          <alert>Record regularly:</alert> Daily or weekly observations with dates
+        </p>
+        <p>
+          <alert>Notice changes:</alert> <q>What's different from yesterday? What stayed the same?</q>
+        </p>
+        <p>
+          <alert>Ask questions:</alert> <q>Why do you think that happened? What would happen if...?</q>
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="k2-science-classification">
+      <title>Classification and Sorting: Organizing the Natural World</title>
+      
+      <p>
+        Young children naturally sort and classify objects. Science provides meaningful contexts for these data science skills while building understanding of the natural world.
+      </p>
+
+      <example xml:id="example-leaf-investigation">
+        <title>Leaf Collection Investigation</title>
+        <p>
+          <alert>The Investigation:</alert> Students collect leaves and sort them in multiple ways.
+        </p>
+        <p>
+          <alert>Science Learning:</alert> Plant characteristics, diversity in nature, seasonal changes
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Classification by attributes, multiple sorting criteria, organizing data
+        </p>
+        <p>
+          <alert>Sorting Options:</alert> Size, color, shape, texture, tree type
+        </p>
+        <p>
+          <alert>Extensions:</alert> <q>Can we sort the same leaves in different ways? Which way helps us learn the most?</q>
+        </p>
+      </example>
+
+      <note xml:id="note-classification-thinking">
+        <title>Developing Classification Thinking</title>
+        <p>
+          Help students understand that the same objects can be grouped in different ways depending on what question you're trying to answer. This flexible thinking is crucial for both science and data science.
+        </p>
+      </note>
+    </subsection>
+
+    <subsection xml:id="k2-science-experimentation">
+      <title>Simple Experiments: Testing Ideas with Data</title>
+      
+      <p>
+        Young children can conduct simple experiments and use data to evaluate their predictions. This builds both scientific thinking and data analysis skills.
+      </p>
+
+      <example xml:id="example-sink-float">
+        <title>Sink or Float Predictions</title>
+        <p>
+          <alert>The Investigation:</alert> Students predict whether objects will sink or float, then test and record results.
+        </p>
+        <p>
+          <alert>Science Learning:</alert> Properties of materials, density concepts, making and testing predictions
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Hypothesis testing, recording results, comparing predictions to outcomes
+        </p>
+        <p>
+          <alert>Data Collection:</alert> Prediction chart, results chart, comparing accuracy
+        </p>
+        <p>
+          <alert>Analysis:</alert> <q>How many did we predict correctly? What surprised us? What helped us make good predictions?</q>
+        </p>
+      </example>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-social-studies-power">
+    <title>Social Studies: Understanding Our Community Through Data</title>
+    
+    <introduction>
+      <p>
+        Social studies provides rich opportunities for data science learning as students investigate their families, school, and community. Young children can collect and analyze information about people and places that matter to them.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-social-studies-family-community">
+      <title>Family and Community Investigations</title>
+      
+      <example xml:id="example-family-traditions">
+        <title>Our Family Traditions</title>
+        <p>
+          <alert>The Investigation:</alert> Students interview family members about traditions and share findings with the class.
+        </p>
+        <p>
+          <alert>Social Studies Learning:</alert> Family diversity, cultural traditions, community connections
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Interview skills, organizing information, finding patterns across families
+        </p>
+        <p>
+          <alert>Data Organization:</alert> Charts showing different traditions, countries of origin, languages spoken
+        </p>
+        <p>
+          <alert>Discoveries:</alert> <q>What traditions do many families share? What makes each family special? How are we similar and different?</q>
+        </p>
+      </example>
+
+      <insight xml:id="insight-community-data">
+        <title>Community Data Opportunities</title>
+        <p>
+          <alert>School investigations:</alert> How do students get to school? What jobs do people have here? What languages are spoken?
+        </p>
+        <p>
+          <alert>Neighborhood studies:</alert> What kinds of buildings do we see? What services are available? What do people do for fun?
+        </p>
+        <p>
+          <alert>Historical connections:</alert> How has our community changed? What was here before? What's different now?
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="k2-social-studies-geography">
+      <title>Geography and Mapping: Spatial Data for Young Learners</title>
+      
+      <p>
+        Maps are a form of data visualization that young children can understand and create. Simple mapping activities build both geographic understanding and data representation skills.
+      </p>
+
+      <example xml:id="example-classroom-map">
+        <title>Mapping Our Classroom</title>
+        <p>
+          <alert>The Investigation:</alert> Students create a map of their classroom and use it to answer questions.
+        </p>
+        <p>
+          <alert>Social Studies Learning:</alert> Spatial relationships, symbols and representations, using maps
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Spatial data, visual representation, using data to answer questions
+        </p>
+        <p>
+          <alert>Questions to Explore:</alert> <q>What's the shortest path to the library? Where do most students sit? Which area is used most often?</q>
+        </p>
+      </example>
+    </subsection>
+
+    <subsection xml:id="k2-social-studies-civic-engagement">
+      <title>Civic Engagement: Making Decisions with Data</title>
+      
+      <p>
+        Young children can participate in simple democratic processes and understand how information helps people make decisions together.
+      </p>
+
+      <example xml:id="example-class-decisions">
+        <title>Choosing Our Class Pet</title>
+        <p>
+          <alert>The Investigation:</alert> Students research different classroom pets and vote on which to adopt.
+        </p>
+        <p>
+          <alert>Social Studies Learning:</alert> Democratic decision-making, considering multiple perspectives, compromise
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Research and information gathering, comparing options, voting and tallying
+        </p>
+        <p>
+          <alert>Process:</alert> Research care requirements, costs, and benefits; discuss findings; vote; explain decision
+        </p>
+      </example>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-arts-creativity">
+    <title>Arts and Creative Expression: Data Through Creative Lenses</title>
+    
+    <introduction>
+      <p>
+        The arts provide creative ways to collect, represent, and communicate data. Young children can explore data science concepts through music, visual arts, and creative movement.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-arts-visual">
+      <title>Visual Arts: Creating and Reading Data Representations</title>
+      
+      <example xml:id="example-color-investigation">
+        <title>Colors in Our World</title>
+        <p>
+          <alert>The Investigation:</alert> Students collect examples of different colors in their environment and create artistic displays.
+        </p>
+        <p>
+          <alert>Arts Learning:</alert> Color recognition and mixing, artistic arrangement, creative expression
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Systematic collection, categorization, visual representation
+        </p>
+        <p>
+          <alert>Creative Extensions:</alert> Color collages, painted graphs, artistic interpretations of data patterns
+        </p>
+      </example>
+
+      <insight xml:id="insight-artistic-data-representation">
+        <title>Artistic Data Representation Ideas</title>
+        <p>
+          <alert>Pattern artwork:</alert> Using data patterns to create designs and decorations
+        </p>
+        <p>
+          <alert>Sculpture graphs:</alert> Three-dimensional representations of data using clay or blocks
+        </p>
+        <p>
+          <alert>Photo documentation:</alert> Using pictures to collect and share data
+        </p>
+        <p>
+          <alert>Collaborative murals:</alert> Large-scale visual representations of class data
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="k2-arts-music-movement">
+      <title>Music and Movement: Rhythm, Patterns, and Data</title>
+      
+      <p>
+        Music naturally involves patterns, counting, and sequences that connect to data science concepts. Movement activities can help students embody data and mathematical relationships.
+      </p>
+
+      <example xml:id="example-rhythm-patterns">
+        <title>Musical Pattern Investigation</title>
+        <p>
+          <alert>The Investigation:</alert> Students explore rhythm patterns in different songs and create their own patterns.
+        </p>
+        <p>
+          <alert>Music Learning:</alert> Rhythm, beat, pattern recognition, musical creation
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Pattern analysis, systematic recording, comparing sequences
+        </p>
+        <p>
+          <alert>Movement Connection:</alert> Students can clap, march, or dance to represent data patterns
+        </p>
+      </example>
+
+      <note xml:id="note-embodied-learning">
+        <title>Embodied Data Learning</title>
+        <p>
+          Young children learn through their bodies. Have them become human graphs, act out data patterns, or use movement to represent different categories. This makes abstract concepts concrete and memorable.
+        </p>
+      </note>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-integration-strategies">
+    <title>Integration Strategies: Making It All Work Together</title>
+    
+    <introduction>
+      <p>
+        Now that you've seen data science connections across all subjects, let's explore practical strategies for weaving these connections into your daily teaching without overwhelming yourself or your students.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-planning-integration">
+      <title>Planning for Natural Integration</title>
+      
+      <insight xml:id="insight-integration-planning">
+        <title>Integration Planning Framework</title>
+        <p>
+          <alert>Start with your existing lesson:</alert> What are you already teaching?
+        </p>
+        <p>
+          <alert>Look for data opportunities:</alert> What could students count, sort, measure, or observe?
+        </p>
+        <p>
+          <alert>Add one data element:</alert> Don't try to do everything at once
+        </p>
+        <p>
+          <alert>Connect to student interests:</alert> What do your students care about?
+        </p>
+        <p>
+          <alert>Plan for sharing:</alert> How will students communicate what they learn?
+        </p>
+      </insight>
+
+      <activity xml:id="activity-lesson-enhancement">
+        <title>Enhancing an Existing Lesson</title>
+        <statement>
+          <p>
+            Choose one lesson you're teaching this week. How could you add data science thinking?
+          </p>
+          <p>
+            <alert>Current lesson topic:</alert> _______________
+          </p>
+          <p>
+            <alert>Data science addition:</alert> What could students investigate?
+          </p>
+          <p>
+            <alert>Subject connections:</alert> How does this enhance your original learning goals?
+          </p>
+          <p>
+            <alert>Student engagement:</alert> Why would this interest your students?
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="k2-time-management">
+      <title>Time Management and Realistic Expectations</title>
+      
+      <p>
+        Data science integration doesn't require extra time when done thoughtfully. Instead, it can make your existing instruction more engaging and meaningful.
+      </p>
+
+      <example xml:id="example-time-efficient">
+        <title>Time-Efficient Integration Examples</title>
+        <p>
+          <alert>Morning meeting enhancement:</alert> <q>Let's count how many people walked to school today and how many rode the bus</q> (2 minutes)
+        </p>
+        <p>
+          <alert>Transition activity:</alert> <q>Everyone wearing red stand here, everyone wearing blue stand there</q> (1 minute)
+        </p>
+        <p>
+          <alert>Snack time observation:</alert> <q>What do you notice about our snacks today?</q> (3 minutes)
+        </p>
+        <p>
+          <alert>Cleanup enhancement:</alert> <q>Let's count how many books we're putting away and see if it's more or less than yesterday</q> (2 minutes)
+        </p>
+      </example>
+
+      <note xml:id="note-start-small">
+        <title>Start Small and Build</title>
+        <p>
+          Begin with tiny moments that feel natural. As you and your students get comfortable with data science thinking, you can gradually add more sophisticated investigations. The goal is to build habits of thinking, not to create elaborate projects.
+        </p>
+      </note>
+    </subsection>
+
+    <subsection xml:id="k2-assessment-integration">
+      <title>Assessment That Serves Multiple Purposes</title>
+      
+      <p>
+        When you integrate data science with other subjects, your assessment can capture learning across multiple areas simultaneously.
+      </p>
+
+      <insight xml:id="insight-integrated-assessmentk2">
+        <title>Multi-Purpose Assessment Strategies</title>
+        <p>
+          <alert>Observation during investigations:</alert> Note both subject-specific and data science learning
+        </p>
+        <p>
+          <alert>Student explanations:</alert> Ask students to explain both what they found AND how they found it
+        </p>
+        <p>
+          <alert>Portfolio collections:</alert> Save examples that show growth in multiple areas
+        </p>
+        <p>
+          <alert>Parent communication:</alert> Share how data science enhances other subject learning
+        </p>
+      </insight>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-chapter2-wrap-up">
+    <title>Chapter Wrap-Up: Your K-2 Integration Toolkit</title>
+    
+    <p>
+      You now have a comprehensive toolkit for integrating data science thinking across every subject in your K-2 classroom. You've seen that data science doesn't compete with other subjects - it enhances them by adding purpose, engagement, and real-world connections.
+    </p>
+
+    <p>
+      Remember that the goal isn't to dramatically change what you're teaching, but to bring out the data science thinking that's already naturally present in young children's learning. Start small, build gradually, and celebrate the moments when students naturally ask questions, sort information, or share discoveries.
+    </p>
+
+    <note xml:id="final-reflection-integrationk2">
+      <title>Reflection: Your Integration Plan</title>
+      <p>
+        Before moving to the next chapter, take a moment to plan:
+      </p>
+      <p>
+        1. Which subject area feels most natural for starting data science integration?
+      </p>
+      <p>
+        2. What's one small change you could make to a lesson this week?
+      </p>
+      <p>
+        3. How will you help students see connections between subjects through data?
+      </p>
+      <p>
+        4. What support do you need to feel confident with integration?
+      </p>
+      <p>
+        5. How will you know if the integration is working for your students?
+      </p>
+    </note>
+
+    <p>
+      In the next chapter, we'll dive into practical classroom implementation strategies, including lesson planning templates, activity structures, and day-to-day management techniques that make data science integration smooth and sustainable in your K-2 classroom.
+    </p>
+  </section>
+
+  <references xml:id="references-k2-integration">
+    <title>References and Further Reading</title>
+    <biblio type="raw" xml:id="biblio-integrated-curriculum">
+      Drake, S. M., &amp; Burns, R. C. (2004). <em>Meeting Standards Through Integrated Curriculum</em>. Alexandria, VA: ASCD.
+    </biblio>
+    <biblio type="raw" xml:id="biblio-early-childhood-integration">
+      Katz, L. G., &amp; Chard, S. C. (2000). <em>Engaging Children's Minds: The Project Approach</em>. Stamford, CT: Ablex Publishing.
+    </biblio>
+  </references>
+</chapter>
