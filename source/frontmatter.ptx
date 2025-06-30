@@ -7,9 +7,9 @@
   <bibinfo>
   
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Hannah Kurzweil</personname>
+      <department>K-12 Educator Professional Development for Data Science</department>
+      <institution>Data Science 4 Everyone</institution>
     </author>
     <date>
       <today />
@@ -22,7 +22,7 @@
     <copyright>
       <year>2020<ndash />2024</year>
       <holder>You</holder>
-      <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
+      <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. This license allows you to use and copy this material, with attribution, but does not allow use of material for commercial purposes. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
       </shortlicense>
     </copyright>
   
