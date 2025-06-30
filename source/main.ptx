@@ -29,30 +29,38 @@
     <xi:include href="./ch-k2-datasciencedna.ptx" />
     <xi:include href="./ch-k2-subjectintegration.ptx" />
     <xi:include href="./ch-k2-classroomtoolkit.ptx" />
+    <xi:include href="./ch-k2-assessmenttools.ptx" />
     </part>
 
     <part xml:id="part-3through5">
     <title>Grades 3-5 Implementation Guide</title>
     <xi:include href="./ch-35-datasciencedna.ptx" />
     <xi:include href="./ch-35-subjectintegration.ptx" />
+    <xi:include href="./ch-35-classroomtoolkit.ptx" />
+    <xi:include href="./ch-35-assessmenttools.ptx" />
     </part>
 
     <part xml:id="part-6through8">
     <title>Grades 6-8 Implementation Guide</title>
     <xi:include href="./ch-middleschool-datasciencedna.ptx" />
     <xi:include href="./ch-middleschool-subjectintegration.ptx" />
+    <xi:include href="./ch-middleschool-classroomtoolkit.ptx" />
+    <xi:include href="./ch-middleschool-assessmenttools.ptx" />
     </part>
 
     <part xml:id="part-9through10">
     <title>Grades 9-10 Implementation Guide</title>
     <xi:include href="./ch-lowerhs-datasciencedna.ptx" />
     <xi:include href="./ch-lowerhs-subjectintegration.ptx" />
+    <xi:include href="./ch-lowerhs-classroomtoolkit.ptx" />
+    <xi:include href="./ch-lowerhs-assessmenttools.ptx" />
     </part>
 
     <part xml:id="part-11through12">
     <title>Grades 11-12 Implementation Guide</title>
     <xi:include href="./ch-upperhs-datasciencedna.ptx" />
     <xi:include href="./ch-upperhs-subjectintegration.ptx" />
+    <xi:include href="./ch-upperhs-classroomtoolkit.ptx" />
     </part>
   
    <!-- Include backmatter -->

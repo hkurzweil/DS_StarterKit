@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="k2-assessment-growth" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>K-2 Assessment &amp; Growth Monitoring: Tracking Early Data Science Development</title>
+  
+  <introduction>
+    <p>
+      Assessment in early elementary focuses on observing natural data science thinking as it emerges through play, exploration, and everyday activities. Your goal is to notice and nurture the foundational skills that will support future data science learning, while keeping assessment simple, joyful, and integrated into regular classroom routines.
+    </p>
+    
+    <p>
+      This chapter provides practical tools for recognizing data science growth in young learners without adding complexity to your already full teaching day. All assessment strategies are designed to take minutes, not hours, and to provide useful information about student development.
+    </p>
+    
+    <p>
+      <alert>Assessment Priorities for K-2</alert>
+    </p>
+    <p>Focus your assessment attention on these key areas:</p>
+    <p>
+      <m>\bullet</m> Curiosity and questioning about the world around them
+    </p>
+    <p>
+      <m>\bullet</m> Ability to sort, group, and organize objects by characteristics
+    </p>
+    <p>
+      <m>\bullet</m> Recognition of simple patterns and differences
+    </p>
+    <p>
+      <m>\bullet</m> Beginning understanding that information can answer questions
+    </p>
+    <p>
+      <m>\bullet</m> Communication of observations and thinking
+    </p>
+  </introduction>
+
+  <section xml:id="k2-formative-assessment">
+    <title>Quick Daily &amp; Weekly Checks</title>
+    
+    <introduction>
+      <p>
+        Formative assessment in K-2 happens through observation during regular activities. These quick checks help you understand how students are developing foundational data science thinking without interrupting the flow of learning.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-observation-tools">
+      <title>Classroom Observation Strategies</title>
+      
+      <p>
+        Use these simple observation techniques during regular classroom activities to assess data science development.
+      </p>
+
+      <example xml:id="example-sorting-observation-k2">
+        <title>Sorting &amp; Categorizing Quick Check</title>
+        <p>
+          <alert>During center time or free play, observe:</alert>
+        </p>
+        <p>
+          • Does the child naturally sort toys, blocks, or materials by color, size, or type?
+        </p>
+        <p>
+          • Can they explain why they grouped items together?
+        </p>
+        <p>
+          • Do they notice when items don't belong in their groups?
+        </p>
+        <p>
+          • Can they create different groupings of the same materials?
+        </p>
+        <p>
+          <alert>Quick Documentation:</alert>
+        </p>
+        <p>
+          • Take a photo of their sorting work
+        </p>
+        <p>
+          • Jot down one sentence about their explanation
+        </p>
+        <p>
+          • Note: Developing/Secure/Advanced for future reference
+        </p>
+      </example>
+
+      <activity xml:id="activity-pattern-recognition-k2">
+        <title>Pattern Recognition During Daily Routines</title>
+        <statement>
+          <p>
+            <alert>Morning Circle Patterns:</alert>
+          </p>
+          <p>
+            • "What do you notice about how we're sitting today?" (boy-girl-boy-girl)
+          </p>
+          <p>
+            • "How is today's weather the same or different from yesterday?"
+          </p>
+          <p>
+            • "What pattern do you see in our daily schedule?"
+          </p>
+          <p>
+            <alert>What to Listen For:</alert>
+          </p>
+          <p>
+            • Use of comparison words (same, different, more, less)
+          </p>
+          <p>
+            • Noticing repeated elements or sequences
+          </p>
+          <p>
+            • Making predictions based on patterns they observe
+          </p>
+          <p>
+            <alert>Quick Assessment:</alert>
+          </p>
+          <p>
+            • Thumbs up if they notice patterns independently
+          </p>
+          <p>
+            • Thumbs sideways if they see patterns with prompting
+          </p>
+          <p>
+            • Note 2-3 students each day for systematic observation
+          </p>
+        </statement>
+      </activity>
+
+      <insight xml:id="insight-questioning-development-k2">
+        <title>Recognizing Data Science Questioning</title>
+        <p>
+          <alert>Beginning questioners ask:</alert> "What is this?" "How many?" "Which one?"
+        </p>
+        <p>
+          <alert>Developing questioners ask:</alert> "Why are these different?" "What if we changed this?"
+        </p>
+        <p>
+          <alert>Advanced questioners ask:</alert> "How could we find out?" "What would happen if...?"
+        </p>
+        <p>
+          <alert>Assessment strategy:</alert> Keep a simple tally of question types you hear from each student over a week
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="k2-hands-on-checks">
+      <title>Hands-On Assessment Activities</title>
+      
+      <p>
+        These 5-minute activities can be used during transitions or small group time to quickly assess specific data science skills.
+      </p>
+
+      <example xml:id="example-data-collection-check-k2">
+        <title>Simple Data Collection Assessment</title>
+        <p>
+          <alert>Materials Needed:</alert> Collection of small objects (buttons, blocks, crayons)
+        </p>
+        <p>
+          <alert>Quick Assessment (2-3 minutes):</alert>
+        </p>
+        <p>
+          • Give student a mixed collection: "Can you put these in groups that make sense to you?"
+        </p>
+        <p>
+          • Ask: "How did you decide to group them this way?"
+        </p>
+        <p>
+          • "Could you group them a different way?"
+        </p>
+        <p>
+          • "Which group has the most? How do you know?"
+        </p>
+        <p>
+          <alert>What You're Assessing:</alert>
+        </p>
+        <p>
+          • Ability to categorize by attributes (A.1.1 Data types and forms)
+        </p>
+        <p>
+          • Flexibility in thinking about groupings
+        </p>
+        <p>
+          • Basic counting and comparison skills
+        </p>
+        <p>
+          • Communication of reasoning
+        </p>
+      </example>
+
+      <activity xml:id="activity-graph-reading-k2">
+        <title>Picture Graph Quick Check</title>
+        <statement>
+          <p>
+            <alert>Show a simple picture graph (favorite pets, colors, foods) and ask:</alert>
+          </p>
+          <p>
+            • "What does this picture tell us?"
+          </p>
+          <p>
+            • "Which one has the most? The least?"
+          </p>
+          <p>
+            • "How many people chose [specific option]?"
+          </p>
+          <p>
+            • "What questions could this graph help us answer?"
+          </p>
+          <p>
+            <alert>Assessment Focus:</alert>
+          </p>
+          <p>
+            • Understanding that graphs show information (E.1.1 Sense-making with visualizations)
+          </p>
+          <p>
+            • Ability to read simple visual data
+          </p>
+          <p>
+            • Making comparisons from visual information
+          </p>
+          <p>
+            • Connecting graphs to real questions
+          </p>
+        </statement>
+      </activity>
+
+      <note xml:id="note-assessment-timing-k2">
+        <title>Making Assessment Manageable</title>
+        <p>
+          Assess 3-4 students per day during regular activities rather than trying to assess everyone at once. Rotate through your class list systematically. A simple sticky note with student initials and quick observations works perfectly for documentation.
+        </p>
+      </note>
+    </subsection>
+
+    <subsection xml:id="k2-digital-assessment">
+      <title>Simple Digital Assessment Tools</title>
+      
+      <p>
+        Even young students can engage with basic digital assessment tools that provide immediate feedback and data for teachers.
+      </p>
+
+      <example xml:id="example-digital-sorting-k2">
+        <title>Digital Sorting Assessment</title>
+        <p>
+          <alert>Using tablets or computers:</alert>
+        </p>
+        <p>
+          • Simple drag-and-drop sorting games
+        </p>
+        <p>
+          • Online pattern completion activities
+        </p>
+        <p>
+          • Basic graphing tools where students can add their own data
+        </p>
+        <p>
+          <alert>Assessment Benefits:</alert>
+        </p>
+        <p>
+          • Automatic tracking of student responses
+        </p>
+        <p>
+          • Immediate feedback for students
+        </p>
+        <p>
+          • Easy data collection for teachers
+        </p>
+        <p>
+          • Engaging format that feels like play
+        </p>
+        <p>
+          <alert>Recommended Tools:</alert>
+        </p>
+        <p>
+          • Khan Academy Kids (sorting and patterns)
+        </p>
+        <p>
+          • Scratch Jr. (creating simple data representations)
+        </p>
+        <p>
+          • Virtual manipulatives for sorting and grouping
+        </p>
+      </example>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-self-assessment">
+    <title>Kid-Friendly Self-Assessment</title>
+    
+    <introduction>
+      <p>
+        Self-assessment for young children should be visual, simple, and fun. The goal is to help students begin thinking about their own learning while providing teachers with insight into student self-perception and confidence.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-visual-self-assessment">
+      <title>Picture-Based Self-Assessment Tools</title>
+      
+      <p>
+        Young children respond well to visual self-assessment tools that require minimal reading and allow for honest self-reflection.
+      </p>
+
+      <example xml:id="example-emoji-assessment-k2">
+        <title>Emoji Learning Check-In</title>
+        <p>
+          <alert>After data science activities, students choose an emoji that shows how they feel:</alert>
+        </p>
+        <p>
+          😊 "I understood this and could help a friend"
+        </p>
+        <p>
+          😐 "I understood some of it"
+        </p>
+        <p>
+          😕 "I need more help with this"
+        </p>
+        <p>
+          <alert>Implementation:</alert>
+        </p>
+        <p>
+          • Display emoji posters in your classroom
+        </p>
+        <p>
+          • Students point to or place a sticky note by their choice
+        </p>
+        <p>
+          • Use during transitions or as exit tickets
+        </p>
+        <p>
+          • Follow up with students who indicate they need help
+        </p>
+      </example>
+
+      <activity xml:id="activity-thumbs-assessment-k2">
+        <title>Thumbs Up Assessment Variations</title>
+        <statement>
+          <p>
+            <alert>Basic Thumbs Assessment:</alert>
+          </p>
+          <p>
+            • Thumbs up: "I can do this by myself"
+          </p>
+          <p>
+            • Thumbs sideways: "I can do this with help"
+          </p>
+          <p>
+            • Thumbs down: "I need to learn more about this"
+          </p>
+          <p>
+            <alert>Enhanced Versions:</alert>
+          </p>
+          <p>
+            • Use colored cards instead of thumbs for easier teacher observation
+          </p>
+          <p>
+            • Add a "teaching thumb" - pointing up means "I could teach this to someone"
+          </p>
+          <p>
+            • Create thumb voting for "Which graph is easier to read?"
+          </p>
+          <p>
+            <alert>Data Science Applications:</alert>
+          </p>
+          <p>
+            • After sorting activities: "How confident are you at grouping objects?"
+          </p>
+          <p>
+            • After pattern work: "Can you find patterns in our classroom?"
+          </p>
+          <p>
+            • After graph reading: "Do you understand what this chart tells us?"
+          </p>
+        </statement>
+      </activity>
+
+      <insight xml:id="insight-honest-self-assessment-k2">
+        <title>Encouraging Honest Self-Assessment</title>
+        <p>
+          <alert>Create safe spaces:</alert> Emphasize that all answers are good answers and help you teach better
+        </p>
+        <p>
+          <alert>Model uncertainty:</alert> Share your own learning challenges and growth
+        </p>
+        <p>
+          <alert>Celebrate growth:</alert> Focus on progress rather than perfection
+        </p>
+        <p>
+          <alert>Follow through:</alert> Always provide additional support when students indicate they need it
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="k2-reflection-tools">
+      <title>Simple Reflection Activities</title>
+      
+      <p>
+        Basic reflection helps students think about their learning process and builds metacognitive awareness that will serve them throughout their education.
+      </p>
+
+      <example xml:id="example-learning-path-k2">
+        <title>My Learning Path</title>
+        <p>
+          <alert>Create a simple visual learning path for each unit:</alert>
+        </p>
+        <p>
+          • Step 1: We learned to sort objects
+        </p>
+        <p>
+          • Step 2: We found patterns in our sorting
+        </p>
+        <p>
+          • Step 3: We made graphs of our data
+        </p>
+        <p>
+          • Step 4: We answered questions with our graphs
+        </p>
+        <p>
+          <alert>Student Self-Assessment:</alert>
+        </p>
+        <p>
+          • Students place a star sticker next to steps they feel confident about
+        </p>
+        <p>
+          • They draw a question mark next to steps they want to practice more
+        </p>
+        <p>
+          • They color in the path as they progress through learning
+        </p>
+      </example>
+
+      <activity xml:id="activity-show-and-tell-assessment-k2">
+        <title>Data Science Show and Tell</title>
+        <statement>
+          <p>
+            <alert>Weekly Structure:</alert>
+          </p>
+          <p>
+            • Students choose one data science activity from the week to share
+          </p>
+          <p>
+            • They explain what they learned or discovered
+          </p>
+          <p>
+            • Classmates ask questions or share similar experiences
+          </p>
+          <p>
+            <alert>Assessment Opportunities:</alert>
+          </p>
+          <p>
+            • Listen for data science vocabulary in their explanations
+          </p>
+          <p>
+            • Note their comfort level discussing data concepts
+          </p>
+          <p>
+            • Observe peer questions and connections
+          </p>
+          <p>
+            • Document growth in communication skills over time
+          </p>
+          <p>
+            <alert>Support Strategies:</alert>
+          </p>
+          <p>
+            • Provide sentence starters: "I learned that..." "I discovered..." "I was surprised when..."
+          </p>
+          <p>
+            • Allow students to bring props or work samples
+          </p>
+          <p>
+            • Encourage drawing or acting out their learning
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="k2-goal-setting">
+      <title>Simple Goal Setting for Young Learners</title>
+      
+      <p>
+        Even kindergarteners can participate in simple goal setting that helps them take ownership of their learning.
+      </p>
+
+      <example xml:id="example-learning-goals-k2">
+        <title>Picture Goal Setting</title>
+        <p>
+          <alert>Create visual goal cards with pictures and simple text:</alert>
+        </p>
+        <p>
+          • "I want to get better at sorting by colors"
+        </p>
+        <p>
+          • "I want to find more patterns around me"
+        </p>
+        <p>
+          • "I want to ask good questions about data"
+        </p>
+        <p>
+          • "I want to explain my thinking to others"
+        </p>
+        <p>
+          <alert>Implementation:</alert>
+        </p>
+        <p>
+          • Students choose 1-2 goals each month
+        </p>
+        <p>
+          • Place goal cards in student folders or on display
+        </p>
+        <p>
+          • Check in weekly: "How are you doing with your goal?"
+        </p>
+        <p>
+          • Celebrate when goals are achieved and set new ones
+        </p>
+      </example>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-portfolio-development">
+    <title>Simple Portfolio Systems</title>
+    
+    <introduction>
+      <p>
+        K-2 portfolios should be easy to maintain and focus on capturing growth through work samples, photos, and simple documentation. The goal is to show progress over time without creating excessive work for teachers.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-work-sample-collection">
+      <title>Collecting Evidence of Learning</title>
+      
+      <p>
+        Focus on collecting authentic evidence of student thinking and growth in data science concepts.
+      </p>
+
+      <example xml:id="example-photo-documentation-k2">
+        <title>Photo-Based Portfolio Documentation</title>
+        <p>
+          <alert>Essential Photos to Capture:</alert>
+        </p>
+        <p>
+          • Students sorting manipulatives with their explanation written nearby
+        </p>
+        <p>
+          • Completed pictographs or simple charts students have created
+        </p>
+        <p>
+          • Pattern creations using blocks, beads, or other materials
+        </p>
+        <p>
+          • Students presenting their data work to classmates
+        </p>
+        <p>
+          <alert>Simple Documentation System:</alert>
+        </p>
+        <p>
+          • Use tablet or phone camera during activities
+        </p>
+        <p>
+          • Add brief voice memo with date and student explanation
+        </p>
+        <p>
+          • Store in digital folders organized by student name
+        </p>
+        <p>
+          • Print 2-3 key photos per month for physical portfolios
+        </p>
+      </example>
+
+      <activity xml:id="activity-work-sample-selection-k2">
+        <title>Student-Selected Work Samples</title>
+        <statement>
+          <p>
+            <alert>Monthly Portfolio Conference (5 minutes per student):</alert>
+          </p>
+          <p>
+            • Show student their work from the past month
+          </p>
+          <p>
+            • Ask: "Which piece shows your best data science thinking?"
+          </p>
+          <p>
+            • Have them explain why they chose that piece
+          </p>
+          <p>
+            • Include their choice in the portfolio with their explanation
+          </p>
+          <p>
+            <alert>Documentation Template:</alert>
+          </p>
+          <p>
+            • Student Name: _______________
+          </p>
+          <p>
+            • Date: _______________
+          </p>
+          <p>
+            • Work Selected: _______________
+          </p>
+          <p>
+            • Student Says: "I picked this because..."
+          </p>
+          <p>
+            • Teacher Notes: _______________
+          </p>
+        </statement>
+      </activity>
+
+      <insight xml:id="insight-meaningful-artifacts-k2">
+        <title>Choosing Meaningful Portfolio Artifacts</title>
+        <p>
+          <alert>Look for evidence of:</alert> Problem-solving processes, not just correct answers
+        </p>
+        <p>
+          <alert>Include samples that show:</alert> How students think about data problems over time
+        </p>
+        <p>
+          <alert>Capture growth in:</alert> Vocabulary use, question-asking, and explanation skills
+        </p>
+        <p>
+          <alert>Document progression in:</alert> Independence, confidence, and complexity of thinking
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="k2-growth-tracking">
+      <title>Simple Growth Tracking Systems</title>
+      
+      <p>
+        Use straightforward methods to track student progress that provide useful information without overwhelming data collection.
+      </p>
+
+      <example xml:id="example-skills-checklist-k2">
+        <title>Data Science Skills Development Checklist</title>
+        <p>
+          <alert>Fundamental Skills Progression:</alert>
+        </p>
+        <p>
+          <alert>Sorting &amp; Categorizing (A.1.1):</alert>
+        </p>
+        <p>
+          □ Sorts by one attribute (color, size, shape)
+        </p>
+        <p>
+          □ Sorts by multiple attributes
+        </p>
+        <p>
+          □ Explains sorting decisions
+        </p>
+        <p>
+          □ Re-sorts same objects in different ways
+        </p>
+        <p>
+          <alert>Pattern Recognition (C.2.3):</alert>
+        </p>
+        <p>
+          □ Notices simple patterns in daily life
+        </p>
+        <p>
+          □ Continues established patterns
+        </p>
+        <p>
+          □ Creates original patterns
+        </p>
+        <p>
+          □ Describes patterns in their own words
+        </p>
+        <p>
+          <alert>Data Communication (E.1.4):</alert>
+        </p>
+        <p>
+          □ Shares observations about data
+        </p>
+        <p>
+          □ Answers questions about simple graphs
+        </p>
+        <p>
+          □ Explains their data work to others
+        </p>
+        <p>
+          □ Asks questions about data they see
+        </p>
+        <p>
+          <alert>Use:</alert> Check skills as you observe them during regular activities. Date each observation.
+        </p>
+      </example>
+
+      <activity xml:id="activity-progress-monitoring-k2">
+        <title>Three-Point Progress Monitoring</title>
+        <statement>
+          <p>
+            <alert>Collect data at three key points each year:</alert>
+          </p>
+          <p>
+            • Beginning of year baseline (October)
+          </p>
+          <p>
+            • Mid-year check-in (January)
+          </p>
+          <p>
+            • End of year assessment (May)
+          </p>
+          <p>
+            <alert>Use the same simple activities each time:</alert>
+          </p>
+          <p>
+            • Free sorting with mixed objects
+          </p>
+          <p>
+            • Pattern completion task
+          </p>
+          <p>
+            • Simple graph reading
+          </p>
+          <p>
+            • Brief conversation about their thinking
+          </p>
+          <p>
+            <alert>Document growth by comparing:</alert>
+          </p>
+          <p>
+            • Complexity of sorting strategies
+          </p>
+          <p>
+            • Sophistication of pattern recognition
+          </p>
+          <p>
+            • Vocabulary development
+          </p>
+          <p>
+            • Confidence and independence
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="k2-family-communication">
+      <title>Sharing Growth with Families</title>
+      
+      <p>
+        Make portfolio contents accessible and meaningful to families while celebrating student growth in data science thinking.
+      </p>
+
+      <example xml:id="example-family-portfolio-k2">
+        <title>Family-Friendly Portfolio Sharing</title>
+        <p>
+          <alert>Portfolio Contents for Home:</alert>
+        </p>
+        <p>
+          • 2-3 photos of student engaged in data science work with brief explanations
+        </p>
+        <p>
+          • Work samples showing growth from beginning to end of marking period
+        </p>
+        <p>
+          • Simple note explaining what data science skills the child is developing
+        </p>
+        <p>
+          • Suggestions for extending learning at home
+        </p>
+        <p>
+          <alert>Sample Parent Note:</alert>
+        </p>
+        <p>
+          "This month, [Student Name] has been learning to sort and organize objects by their characteristics. 
+          The attached photo shows them grouping buttons by color and size. This type of thinking helps 
+          children understand how to organize information and find patterns - important skills for math 
+          and science learning. At home, you can extend this learning by having your child help sort 
+          laundry, organize toys, or group items while grocery shopping."
+        </p>
+      </example>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-next-level-preparation">
+    <title>Preparing for Grade 3-5</title>
+    
+    <introduction>
+      <p>
+        By the end of grade 2, students should have solid foundational skills that will support more structured data science work in grades 3-5. Focus on ensuring these building blocks are strong.
+      </p>
+    </introduction>
+
+    <subsection xml:id="k2-readiness-indicators">
+      <title>Grade 3-5 Readiness Indicators</title>
+      
+      <p>
+        Look for these key indicators that students are ready for more formal data science learning.
+      </p>
+
+      <insight xml:id="insight-readiness-checklist-k2">
+        <title>Essential Readiness Skills</title>
+        <p>
+          <alert>Data Organization (B.1.2):</alert> Can sort objects by multiple attributes and explain their reasoning
+        </p>
+        <p>
+          <alert>Pattern Recognition (C.2.3):</alert> Notices patterns in their environment and can extend or create patterns
+        </p>
+        <p>
+          <alert>Basic Counting (C.1.1):</alert> Accurately counts collections and compares quantities
+        </p>
+        <p>
+          <alert>Question Formation (A.3.1):</alert> Asks questions that can be answered by collecting information
+        </p>
+        <p>
+          <alert>Communication (E.1.4):</alert> Can explain their thinking and observations to others
+        </p>
+        <p>
+          <alert>Graph Reading (E.1.4):</alert> Understands that pictures and graphs show information
+        </p>
+        <p>
+          <alert>Curiosity (A.3.5):</alert> Shows interest in investigating questions about their world
+        </p>
+      </insight>
+
+      <example xml:id="example-readiness-assessment-k2">
+        <title>End-of-Grade-2 Readiness Check</title>
+        <p>
+          <alert>Quick Assessment Activity (10 minutes):</alert>
+        </p>
+        <p>
+          • Provide collection of objects (buttons, blocks, small toys)
+        </p>
+        <p>
+          • Ask: "How could we organize these to learn something interesting about them?"
+        </p>
+        <p>
+          • Observe their approach and ask follow-up questions
+        </p>
+        <p>
+          • Show simple graph and ask what they notice
+        </p>
+        <p>
+          <alert>Ready for Grade 3-5 if student:</alert>
+        </p>
+        <p>
+          • Independently creates logical groupings
+        </p>
+        <p>
+          • Can explain their organizational strategy
+        </p>
+        <p>
+          • Shows flexibility by trying different groupings
+        </p>
+        <p>
+          • Asks questions about the data they've organized
+        </p>
+        <p>
+          • Understands basic information from simple graphs
+        </p>
+      </example>
+
+      <activity xml:id="activity-gap-identification-k2">
+        <title>Identifying and Addressing Learning Gaps</title>
+        <statement>
+          <p>
+            <alert>Common Areas Needing Additional Support:</alert>
+          </p>
+          <p>
+            • Students who sort randomly without clear criteria
+          </p>
+          <p>
+            • Difficulty explaining their thinking or reasoning
+          </p>
+          <p>
+            • Limited questioning or curiosity about data
+          </p>
+          <p>
+            • Discomfort with variability or "messy" data situations
+          </p>
+          <p>
+            <alert>Bridge Activities for Summer or Early Grade 3:</alert>
+          </p>
+          <p>
+            • Family data collection projects (favorite foods, bedtime routines)
+          </p>
+          <p>
+            • Nature pattern scavenger hunts
+          </p>
+          <p>
+            • Simple cooking activities that involve measuring and comparing
+          </p>
+          <p>
+            • Games that require sorting and organizing (card games, puzzles)
+          </p>
+          <p>
+            <alert>Communication with Grade 3 Teachers:</alert>
+          </p>
+          <p>
+            • Share portfolio highlights and readiness assessment results
+          </p>
+          <p>
+            • Identify students who may need additional support
+          </p>
+          <p>
+            • Recommend specific areas for continued development
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="k2-transition-activities">
+      <title>Bridge Activities for Data Science Readiness</title>
+      
+      <p>
+        Use these activities in late grade 2 or early grade 3 to help students transition to more structured data science work.
+      </p>
+
+      <example xml:id="example-bridge-projects-k2">
+        <title>Data Science Bridge Projects</title>
+        <p>
+          <alert>Classroom Survey Project:</alert>
+        </p>
+        <p>
+          • Students help design a simple question for classmates
+        </p>
+        <p>
+          • Practice collecting data by asking friends
+        </p>
+        <p>
+          • Work together to organize and display results
+        </p>
+        <p>
+          • Discuss what they learned from their survey
+        </p>
+        <p>
+          <alert>Nature Data Collection:</alert>
+        </p>
+        <p>
+          • Count and categorize objects found on nature walks
+        </p>
+        <p>
+          • Create simple charts showing their findings
+        </p>
+        <p>
+          • Compare data from different locations or seasons
+        </p>
+        <p>
+          • Generate questions for further investigation
+        </p>
+        <p>
+          <alert>Family Data Sharing:</alert>
+        </p>
+        <p>
+          • Students interview family members about preferences or experiences
+        </p>
+        <p>
+          • Bring data back to school to share with class
+        </p>
+        <p>
+          • Practice presenting their findings to peers
+        </p>
+          <p>
+          • Connect home and school learning experiences
+        </p>
+      </example>
+
+      <note xml:id="note-transition-support-k2">
+        <title>Supporting Successful Transitions</title>
+        <p>
+          Remember that students develop at different rates. Some may be ready for more complex data work earlier, while others need additional time with foundational skills. Focus on building confidence and curiosity rather than rushing to advanced concepts.
+        </p>
+      </note>
+    </subsection>
+
+    <subsection xml:id="k2-communication-next-teachers">
+      <title>Communicating Growth to Next-Level Teachers</title>
+      
+      <p>
+        Effective communication with receiving teachers helps ensure continuity in student data science development.
+      </p>
+
+      <example xml:id="example-transition-documentation-k2">
+        <title>Student Data Science Profile for Grade 3 Teachers</title>
+        <p>
+          <alert>Essential Information to Share:</alert>
+        </p>
+        <p>
+          • Student's favorite types of data science activities
+        </p>
+        <p>
+          • Areas of strength in data science thinking
+        </p>
+        <p>
+          • Skills that may need continued development
+        </p>
+        <p>
+          • Effective teaching strategies for this student
+        </p>
+        <p>
+          • Portfolio highlights showing growth over time
+        </p>
+        <p>
+          <alert>Sample Profile:</alert>
+        </p>
+        <p>
+          "[Student Name] shows strong interest in sorting and organizing activities. 
+          They excel at finding patterns in visual data and enjoy explaining their 
+          discoveries to classmates. May need support with asking investigative questions 
+          and shows some hesitation with open-ended data tasks. Responds well to hands-on 
+          activities and peer collaboration. Portfolio shows significant growth in 
+          vocabulary and confidence from fall to spring."
+        </p>
+      </example>
+    </subsection>
+  </section>
+
+  <section xml:id="k2-assessment-wrap-up">
+    <title>Assessment Wrap-Up: Celebrating Early Data Science Growth</title>
+    
+    <p>
+      Assessment in K-2 should feel natural and joyful while providing you with useful information about student development. Focus on observing authentic data science thinking as it emerges through play and exploration, and celebrate the curiosity and questioning that will drive future learning.
+    </p>
+
+    <note xml:id="final-assessment-reflection-k2">
+      <title>Final Reflection: Your K-2 Assessment Practice</title>
+      <p>
+        As you implement these assessment strategies, remember:
+      </p>
+      <p>
+        • Keep it simple - assessment should enhance, not overwhelm your teaching
+      </p>
+      <p>
+        • Focus on growth - celebrate progress over perfection
+      </p>
+      <p>
+        • Stay flexible - adjust strategies based on your students' needs and interests
+      </p>
+      <p>
+        • Document authentically - capture real learning moments rather than forced demonstrations
+      </p>
+      <p>
+        • Communicate clearly - help families understand and support data science development
+      </p>
+      <p>
+        • Build confidence - ensure all students see themselves as capable data science thinkers
+      </p>
+    </note>
+
+    <p>
+      Your assessment practices lay the foundation for students' entire data science journey. By nurturing curiosity, celebrating discovery, and building confidence in these early years, you're preparing students not just for the next grade level, but for a lifetime of data-informed thinking and decision-making.
+    </p>
+  </section>
+</chapter>

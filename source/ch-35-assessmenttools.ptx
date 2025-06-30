@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="grades-3-5-assessment-growth" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Grades 3-5 Assessment &amp; Growth Monitoring: Building Data Science Confidence and Skills</title>
+  
+  <introduction>
+    <p>
+      Assessment in intermediate elementary focuses on observing how students apply data science concepts to real questions while developing independence and confidence. Your goal is to track growth in statistical reasoning, data communication, and problem-solving while maintaining assessment practices that enhance rather than interrupt learning.
+    </p>
+    
+    <p>
+      This chapter provides practical tools for assessing data science development as students transition from concrete manipulatives to more abstract thinking. All strategies are designed to provide meaningful information about student progress while remaining manageable within your existing classroom routines.
+    </p>
+    
+    <p>
+      <alert>Assessment Priorities for Grades 3-5</alert>
+    </p>
+    <p>Focus your assessment attention on these key areas:</p>
+    <p>
+      <m>\bullet</m> Statistical reasoning with real data and meaningful questions
+    </p>
+    <p>
+      <m>\bullet</m> Communication of findings using data science vocabulary
+    </p>
+    <p>
+      <m>\bullet</m> Understanding of variability and uncertainty in data
+    </p>
+    <p>
+      <m>\bullet</m> Ability to critique and create data visualizations
+    </p>
+    <p>
+      <m>\bullet</m> Application of data science to address authentic problems
+    </p>
+    <p>
+      <m>\bullet</m> Development of ethical reasoning about data collection and use
+    </p>
+  </introduction>
+
+  <section xml:id="grades-3-5-formative-assessment1">
+    <title>Quick Daily &amp; Weekly Checks</title>
+    
+    <introduction>
+      <p>
+        Formative assessment in grades 3-5 can be slightly more structured while remaining quick and authentic. These checks help you understand how students are developing data science reasoning and identify areas needing support.
+      </p>
+    </introduction>
+
+    <subsection xml:id="grades-3-5-observation-strategies">
+      <title>Enhanced Classroom Observation</title>
+      
+      <p>
+        Build on observational skills from earlier grades with more sophisticated attention to data science reasoning and communication.
+      </p>
+
+      <example xml:id="example-data-analysis-observation-3-5">
+        <title>Data Analysis Process Observation</title>
+        <p>
+          <alert>During data science activities, watch for:</alert>
+        </p>
+        <p>
+          <alert>Question Formation (A.3.1):</alert>
+        </p>
+        <p>
+          • Does the student ask questions that can be answered with data?
+        </p>
+        <p>
+          • Do they refine questions based on available data?
+        </p>
+        <p>
+          • Can they distinguish between questions that require data vs. opinion?
+        </p>
+        <p>
+          <alert>Data Organization (B.1.2):</alert>
+        </p>
+        <p>
+          • Do they organize data systematically and logically?
+        </p>
+        <p>
+          • Can they explain their organizational choices?
+        </p>
+        <p>
+          • Do they recognize when data needs cleaning or correction?
+        </p>
+        <p>
+          <alert>Pattern Recognition (C.2.3):</alert>
+        </p>
+        <p>
+          • Do they notice trends and patterns in data displays?
+        </p>
+        <p>
+          • Can they distinguish between meaningful patterns and random variation?
+        </p>
+        <p>
+          • Do they make appropriate predictions based on patterns?
+        </p>
+        <p>
+          <alert>Quick Documentation:</alert>
+        </p>
+        <p>
+          • Use a simple 3-point scale: Developing/Proficient/Advanced
+        </p>
+        <p>
+          • Focus on 4-5 students per data science lesson
+        </p>
+        <p>
+          • Note specific examples of reasoning or misconceptions
+        </p>
+      </example>
+
+      <activity xml:id="activity-statistical-thinking-check-3-5">
+        <title>Statistical Thinking Quick Assessments</title>
+        <statement>
+          <p>
+            <alert>Variability Understanding (C.3.1):</alert>
+          </p>
+          <p>
+            • Show two dot plots with different spreads
+          </p>
+          <p>
+            • Ask: "What do you notice about these two groups?"
+          </p>
+          <p>
+            • Listen for recognition of differences in spread or consistency
+          </p>
+          <p>
+            <alert>Center and Spread (C.1.1, C.1.2):</alert>
+          </p>
+          <p>
+            • Display a simple dataset: "What's a typical value for this group?"
+          </p>
+          <p>
+            • "Are most values close to that typical value or spread out?"
+          </p>
+          <p>
+            • Note whether they consider more than just the highest/lowest values
+          </p>
+          <p>
+            <alert>Graph Interpretation (E.1.4):</alert>
+          </p>
+          <p>
+            • Show a bar graph or histogram
+          </p>
+          <p>
+            • Ask: "What story does this graph tell?"
+          </p>
+          <p>
+            • "What questions could this graph help us answer?"
+          </p>
+          <p>
+            • Assess depth of interpretation beyond basic reading
+          </p>
+          <p>
+            <alert>Time Required:</alert> 3-5 minutes during math warm-up or transition
+          </p>
+        </statement>
+      </activity>
+
+      <insight xml:id="insight-misconception-identification-3-5">
+        <title>Common Data Science Misconceptions in Grades 3-5</title>
+        <p>
+          <alert>Graph misreadings:</alert> Reading individual data points instead of overall patterns
+        </p>
+        <p>
+          <alert>Causation assumptions:</alert> Assuming any relationship shows cause and effect
+        </p>
+        <p>
+          <alert>Sample size ignorance:</alert> Making broad claims from very small datasets
+        </p>
+        <p>
+          <alert>Average misconceptions:</alert> Thinking the average must be an actual data value
+        </p>
+        <p>
+          <alert>Variability confusion:</alert> Expecting all data points to be exactly the same
+        </p>
+        <p>
+          <alert>Use observations to:</alert> Plan targeted instruction and address misconceptions promptly
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="grades-3-5-exit-tickets">
+      <title>Data Science Exit Tickets</title>
+      
+      <p>
+        Use brief exit tickets to assess understanding at the end of data science lessons while building student reflection habits.
+      </p>
+
+      <example xml:id="example-exit-ticket-formats-3-5">
+        <title>Quick Assessment Exit Ticket Formats</title>
+        <p>
+          <alert>Graph Reading Exit Ticket:</alert>
+        </p>
+        <p>
+          • Display simple graph related to lesson content
+        </p>
+        <p>
+          • Ask: "Write one thing this graph tells us and one question it raises"
+        </p>
+        <p>
+          • Assesses both comprehension and inquiry thinking
+        </p>
+        <p>
+          <alert>Data Ethics Quick Check:</alert>
+        </p>
+        <p>
+          • Describe a data collection scenario
+        </p>
+        <p>
+          • Ask: "Is this a fair way to collect data? Why or why not?"
+        </p>
+        <p>
+          • Builds ethical reasoning (A.2.1, A.2.2)
+        </p>
+        <p>
+          <alert>Vocabulary Application:</alert>
+        </p>
+        <p>
+          • "Use the word 'variability' in a sentence that shows you understand what it means"
+        </p>
+        <p>
+          • Assesses conceptual understanding beyond definitions
+        </p>
+        <p>
+          <alert>Process Reflection:</alert>
+        </p>
+        <p>
+          • "What was the most important step in analyzing our data today?"
+        </p>
+        <p>
+          • Helps students think about data science as a process
+        </p>
+      </example>
+
+      <activity xml:id="activity-digital-quick-polls-3-5">
+        <title>Digital Quick Polls and Checks</title>
+        <statement>
+          <p>
+            <alert>Real-Time Understanding Checks:</alert>
+          </p>
+          <p>
+            • Use tools like Padlet, Mentimeter, or Google Forms
+          </p>
+          <p>
+            • Ask: "Which graph shows more variability?" with two options
+          </p>
+          <p>
+            • Immediate feedback shows class understanding patterns
+          </p>
+          <p>
+            <alert>Prediction and Reasoning:</alert>
+          </p>
+          <p>
+            • Before revealing data results: "What do you predict we'll find?"
+          </p>
+          <p>
+            • After analysis: "Were you surprised by any results? Why?"
+          </p>
+          <p>
+            • Builds statistical reasoning and expectation comparison
+          </p>
+          <p>
+            <alert>Concept Application:</alert>
+          </p>
+          <p>
+            • "Give an example of data that would show a lot of variability"
+          </p>
+          <p>
+            • "Describe a situation where we should be careful about bias in data"
+          </p>
+          <p>
+            • Assesses transfer of concepts to new situations
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="grades-3-5-project-checkpoints">
+      <title>Project-Based Assessment Checkpoints</title>
+      
+      <p>
+        Use structured checkpoints during longer data science projects to provide feedback and assess progress systematically.
+      </p>
+
+      <example xml:id="example-project-checkpoint-system-3-5">
+        <title>Data Investigation Project Checkpoints</title>
+        <p>
+          <alert>Checkpoint 1: Question Development (Day 2 of project)</alert>
+        </p>
+        <p>
+          • Student writes their investigation question
+        </p>
+        <p>
+          • Peer feedback: "Is this question answerable with data?"
+        </p>
+        <p>
+          • Teacher check: Question quality and feasibility
+        </p>
+        <p>
+          <alert>Checkpoint 2: Data Collection Plan (Day 4)</alert>
+        </p>
+        <p>
+          • Students outline how they will gather data
+        </p>
+        <p>
+          • Assessment focus: Appropriate methods and ethical considerations
+        </p>
+        <p>
+          • Quick conference with teacher for approval/suggestions
+        </p>
+        <p>
+          <alert>Checkpoint 3: Data Organization (Day 7)</alert>
+        </p>
+        <p>
+          • Students show their organized data
+        </p>
+        <p>
+          • Assess: Systematic organization and data quality
+        </p>
+        <p>
+          • Peer consultation on clarity and completeness
+        </p>
+        <p>
+          <alert>Checkpoint 4: Analysis and Conclusions (Day 10)</alert>
+        </p>
+        <p>
+          • Students present findings to small group
+        </p>
+        <p>
+          • Assess: Appropriate analysis methods and reasonable conclusions
+        </p>
+        <p>
+          • Focus on evidence-based reasoning
+        </p>
+      </example>
+
+      <note xml:id="note-checkpoint-efficiency-3-5">
+        <title>Making Checkpoints Manageable</title>
+        <p>
+          Rotate through small groups for checkpoint conferences rather than meeting with every student individually. Use peer review and self-assessment to handle some checkpoints, reserving teacher time for the most crucial assessment points.
+        </p>
+      </note>
+    </subsection>
+  </section>
+
+  <section xml:id="grades-3-5-self-assessment1">
+    <title>Student Self-Assessment Development</title>
+    
+    <introduction>
+      <p>
+        Grades 3-5 students can engage in more sophisticated self-assessment that combines visual elements with beginning written reflection. Help students develop metacognitive awareness of their data science learning.
+      </p>
+    </introduction>
+
+    <subsection xml:id="grades-3-5-reflection-tools">
+      <title>Written and Visual Reflection Tools</title>
+      
+      <p>
+        Combine visual self-assessment tools with simple written reflection to deepen student awareness of their learning.
+      </p>
+
+      <example xml:id="example-learning-ladder-3-5">
+        <title>Data Science Learning Ladder</title>
+        <p>
+          <alert>Create a visual ladder with learning goals:</alert>
+        </p>
+        <p>
+          Step 5: I can teach someone else about this concept
+        </p>
+        <p>
+          Step 4: I can apply this to new situations
+        </p>
+        <p>
+          Step 3: I understand this and can explain it
+        </p>
+        <p>
+          Step 2: I understand this with help
+        </p>
+        <p>
+          Step 1: I'm just beginning to learn this
+        </p>
+        <p>
+          <alert>Implementation:</alert>
+        </p>
+        <p>
+          • Students place a marker at their current level for each major concept
+        </p>
+        <p>
+          • Add brief written explanation: "I'm at Step 3 because..."
+        </p>
+        <p>
+          • Review and update monthly to track growth
+        </p>
+        <p>
+          • Use for goal setting and instructional planning
+        </p>
+      </example>
+
+      <activity xml:id="activity-data-science-reflection-journal-3-5">
+        <title>Data Science Reflection Journal</title>
+        <statement>
+          <p>
+            <alert>Weekly Reflection Prompts:</alert>
+          </p>
+          <p>
+            • "This week in data science, I learned..."
+          </p>
+          <p>
+            • "I was surprised when..."
+          </p>
+          <p>
+            • "I'm still wondering about..."
+          </p>
+          <p>
+            • "I could use data science to investigate..."
+          </p>
+          <p>
+            <alert>Project Reflection Questions:</alert>
+          </p>
+          <p>
+            • "What was the hardest part of this data investigation?"
+          </p>
+          <p>
+            • "If I did this project again, I would..."
+          </p>
+          <p>
+            • "The most interesting thing I discovered was..."
+          </p>
+          <p>
+            • "This reminds me of... (connections to other learning)"
+          </p>
+          <p>
+            <alert>Assessment Use:</alert>
+          </p>
+          <p>
+            • Review journals monthly for insights into student thinking
+          </p>
+          <p>
+            • Look for growth in vocabulary and conceptual understanding
+          </p>
+          <p>
+            • Identify students who may need additional support or challenge
+          </p>
+        </statement>
+      </activity>
+
+      <insight xml:id="insight-self-assessment-development-3-5">
+        <title>Building Self-Assessment Skills in Intermediate Grades</title>
+        <p>
+          <alert>Model self-reflection:</alert> Share your own learning challenges and growth in data science
+        </p>
+        <p>
+          <alert>Provide sentence starters:</alert> Help students articulate their thinking clearly
+        </p>
+        <p>
+          <alert>Connect to goals:</alert> Link self-assessment to personal learning objectives
+        </p>
+        <p>
+          <alert>Celebrate honesty:</alert> Reward accurate self-assessment over inflated confidence
+        </p>
+        <p>
+          <alert>Use for instruction:</alert> Let self-assessments guide your teaching decisions
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="grades-3-5-peer-assessment">
+      <title>Peer Assessment and Collaboration</title>
+      
+      <p>
+        Introduce structured peer assessment opportunities that help students learn from each other while developing evaluation skills.
+      </p>
+
+      <example xml:id="example-graph-gallery-walk-3-5">
+        <title>Data Visualization Gallery Walk Assessment</title>
+        <p>
+          <alert>Setup:</alert>
+        </p>
+        <p>
+          • Students post their graphs or charts around the classroom
+        </p>
+        <p>
+          • Provide sticky notes and assessment criteria
+        </p>
+          <p>
+          • Students rotate to review peer work
+        </p>
+        <p>
+          <alert>Assessment Criteria for Peers:</alert>
+        </p>
+        <p>
+          • Clear and informative title
+        </p>
+        <p>
+          • Easy to understand what the data shows
+        </p>
+        <p>
+          • Appropriate graph type for the data
+        </p>
+        <p>
+          • Neat and organized presentation
+        </p>
+        <p>
+          <alert>Feedback Format:</alert>
+        </p>
+        <p>
+          • "One thing I learned from your graph..."
+        </p>
+        <p>
+          • "One question your graph raises for me..."
+        </p>
+        <p>
+          • "One suggestion to make it even clearer..."
+        </p>
+        <p>
+          <alert>Assessment Value:</alert>
+        </p>
+        <p>
+          • Students see multiple approaches to similar problems
+        </p>
+        <p>
+          • Practice giving and receiving constructive feedback
+        </p>
+        <p>
+          • Develop critical evaluation skills
+        </p>
+      </example>
+
+      <activity xml:id="activity-data-science-peer-tutoring-3-5">
+        <title>Peer Tutoring and Explanation Practice</title>
+        <statement>
+          <p>
+            <alert>Explanation Partner System:</alert>
+          </p>
+          <p>
+            • Pair students with different strength areas
+          </p>
+          <p>
+            • Partner A explains their analysis process to Partner B
+          </p>
+          <p>
+            • Partner B asks clarifying questions and provides feedback
+          </p>
+          <p>
+            • Switch roles for different concepts
+          </p>
+          <p>
+            <alert>Assessment Opportunities:</alert>
+          </p>
+          <p>
+            • Listen to explanations for understanding depth
+          </p>
+          <p>
+            • Note students who ask insightful questions
+          </p>
+          <p>
+            • Observe collaboration and communication skills
+          </p>
+          <p>
+            • Document examples of peer learning and support
+          </p>
+          <p>
+            <alert>Feedback Training:</alert>
+          </p>
+          <p>
+            • Teach students to give specific, helpful feedback
+          </p>
+          <p>
+            • Model appropriate questioning techniques
+          </p>
+          <p>
+            • Practice receiving feedback gracefully
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="grades-3-5-goal-setting">
+      <title>Learning Goal Setting and Monitoring</title>
+      
+      <p>
+        Help students set specific, achievable goals for their data science learning and track progress toward those goals.
+      </p>
+
+      <example xml:id="example-smart-goals-3-5">
+        <title>Data Science SMART Goals for Students</title>
+        <p>
+          <alert>Goal Categories:</alert>
+        </p>
+        <p>
+          <alert>Technical Skills:</alert>
+        </p>
+        <p>
+          • "I want to get better at creating clear graph titles"
+        </p>
+        <p>
+          • "I want to learn to organize data in different ways"
+        </p>
+        <p>
+          • "I want to improve my ability to spot patterns in data"
+        </p>
+        <p>
+          <alert>Thinking Skills:</alert>
+        </p>
+        <p>
+          • "I want to ask better questions that can be answered with data"
+        </p>
+        <p>
+          • "I want to think about why data might be biased"
+        </p>
+        <p>
+          • "I want to make connections between data and real life"
+        </p>
+        <p>
+          <alert>Communication Skills:</alert>
+        </p>
+        <p>
+          • "I want to explain my data findings more clearly"
+        </p>
+        <p>
+          • "I want to ask good questions about other people's data work"
+        </p>
+        <p>
+          • "I want to present my data work confidently"
+        </p>
+        <p>
+          <alert>Goal Monitoring:</alert>
+        </p>
+        <p>
+          • Weekly check-ins: "How am I doing with my goal?"
+        </p>
+        <p>
+          • Monthly goal review and revision
+        </p>
+        <p>
+          • Celebration when goals are achieved
+        </p>
+      </example>
+    </subsection>
+  </section>
+
+  <section xml:id="grades-3-5-portfolio-development">
+    <title>Organized Portfolio Systems</title>
+    
+    <introduction>
+      <p>
+        Grades 3-5 portfolios can be more systematic while remaining manageable. Focus on documenting growth in data science thinking and building student ownership of their learning documentation.
+      </p>
+    </introduction>
+
+    <subsection xml:id="grades-3-5-portfolio-organization">
+      <title>Student-Managed Portfolio Organization</title>
+      
+      <p>
+        Teach students to take ownership of organizing and reflecting on their portfolio contents.
+      </p>
+
+      <example xml:id="example-portfolio-sections-3-5">
+        <title>Data Science Portfolio Organization System</title>
+        <p>
+          <alert>Portfolio Sections:</alert>
+        </p>
+        <p>
+          <alert>Section 1: My Data Questions</alert>
+        </p>
+        <p>
+          • Collection of investigation questions students have developed
+        </p>
+        <p>
+          • Shows growth in question formulation skills (A.3.1)
+        </p>
+        <p>
+          • Include both answered and "still wondering" questions
+        </p>
+        <p>
+          <alert>Section 2: Data Collection and Organization</alert>
+        </p>
+        <p>
+          • Examples of how students have organized different types of data
+        </p>
+        <p>
+          • Documentation of data collection methods (B.2.1)
+        </p>
+        <p>
+          • Evidence of improving organizational strategies
+        </p>
+        <p>
+          <alert>Section 3: Graphs and Visualizations</alert>
+        </p>
+        <p>
+          • Student-created graphs showing progression over time
+        </p>
+        <p>
+          • Examples of different graph types for different data (E.1.6)
+        </p>
+        <p>
+          • Reflection on what makes graphs clear and useful
+        </p>
+        <p>
+          <alert>Section 4: Discoveries and Conclusions</alert>
+        </p>
+        <p>
+          • Written summaries of findings from data investigations
+        </p>
+        <p>
+          • Evidence of statistical reasoning development (D.1.1)
+        </p>
+        <p>
+          • Examples of connecting data to real-world implications
+        </p>
+        <p>
+          <alert>Section 5: Learning Reflections</alert>
+        </p>
+        <p>
+          • Monthly reflection entries about growth and challenges
+        </p>
+        <p>
+          • Goal setting and progress monitoring documents
+        </p>
+        <p>
+          • Connections between data science and other subjects
+        </p>
+      </example>
+
+      <activity xml:id="activity-portfolio-conferences-3-5">
+        <title>Student-Led Portfolio Conferences</title>
+        <statement>
+          <p>
+            <alert>Preparation:</alert>
+          </p>
+          <p>
+            • Students select 3-4 pieces that show their best learning
+          </p>
+          <p>
+            • They prepare explanations for why they chose each piece
+          </p>
+          <p>
+            • Practice presenting their portfolio story to a peer first
+          </p>
+          <p>
+            <alert>Conference Structure (10-12 minutes):</alert>
+          </p>
+          <p>
+            • Student presents portfolio highlights (5-6 minutes)
+          </p>
+          <p>
+            • Teacher asks follow-up questions about learning (3-4 minutes)
+          </p>
+          <p>
+            • Together set goals for continued growth (2-3 minutes)
+          </p>
+          <p>
+            <alert>Assessment Focus:</alert>
+          </p>
+          <p>
+            • Quality of student reflection and self-analysis
+          </p>
+          <p>
+            • Evidence of growth in data science understanding
+          </p>
+          <p>
+            • Ability to articulate learning and set meaningful goals
+          </p>
+          <p>
+            • Communication skills and confidence in presenting work
+          </p>
+        </statement>
+      </activity>
+
+      <insight xml:id="insight-portfolio-ownership-3-5">
+        <title>Building Student Ownership of Portfolio Development</title>
+        <p>
+          <alert>Choice in selection:</alert> Let students choose which work samples best represent their learning
+        </p>
+        <p>
+          <alert>Reflection requirements:</alert> Include written reflection with each portfolio entry
+        </p>
+        <p>
+          <alert>Growth documentation:</alert> Help students see and articulate their progress over time
+        </p>
+        <p>
+          <alert>Goal connection:</alert> Link portfolio contents to personal learning goals
+        </p>
+        <p>
+          <alert>Authentic audience:</alert> Provide opportunities to share portfolios with families and peers
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="grades-3-5-digital-portfolios">
+      <title>Digital Portfolio Tools and Management</title>
+      
+      <p>
+        Introduce digital portfolio options that help students organize work and develop technology skills.
+      </p>
+
+      <example xml:id="example-digital-portfolio-options-3-5">
+        <title>Digital Portfolio Platform Options</title>
+        <p>
+          <alert>Simple Blog Platforms:</alert>
+        </p>
+        <p>
+          • Students create posts about their data science investigations
+        </p>
+        <p>
+          • Include photos of data collection and analysis work
+        </p>
+        <p>
+          • Write reflections on learning and discoveries
+        </p>
+        <p>
+          • Share with families and other classes
+        </p>
+        <p>
+          <alert>Google Sites or Similar:</alert>
+        </p>
+        <p>
+          • Create organized sections for different types of work
+        </p>
+        <p>
+          • Upload documents, images, and videos
+        </p>
+        <p>
+          • Build skills in digital organization and presentation
+        </p>
+        <p>
+          • Easy sharing and collaboration features
+        </p>
+        <p>
+          <alert>Class Documentation Platform:</alert>
+        </p>
+        <p>
+          • Shared class blog or website featuring student work
+        </p>
+        <p>
+          • Students contribute posts about their investigations
+        </p>
+        <p>
+          • Build audience awareness and communication skills
+        </p>
+        <p>
+          • Celebrate learning and create community connections
+        </p>
+        <p>
+          <alert>Benefits:</alert>
+        </p>
+        <p>
+          • Easy organization and searchability
+        </p>
+        <p>
+          • Multimedia integration capabilities
+        </p>
+        <p>
+          • Convenient sharing with families
+        </p>
+        <p>
+          • Preparation for digital literacy skills
+        </p>
+      </example>
+
+      <note xml:id="note-digital-portfolio-considerations-3-5">
+        <title>Digital Portfolio Implementation Considerations</title>
+        <p>
+          Ensure you have appropriate permissions and privacy settings for any digital platforms. Consider starting with simple tools and gradually building complexity as students develop digital skills. Always have non-digital alternatives for students who need them.
+        </p>
+      </note>
+    </subsection>
+
+    <subsection xml:id="grades-3-5-growth-documentation">
+      <title>Systematic Growth Documentation</title>
+      
+      <p>
+        Use consistent methods to track and document student progress in data science concepts and skills.
+      </p>
+
+      <example xml:id="example-growth-tracking-system-3-5">
+        <title>Data Science Skills Growth Tracking</title>
+        <p>
+          <alert>Quarterly Assessment Focus Areas:</alert>
+        </p>
+        <p>
+          <alert>Quarter 1: Foundations</alert>
+        </p>
+        <p>
+          • Question formulation and data collection (A.3.1, B.2.1)
+        </p>
+        <p>
+          • Basic data organization and representation (B.1.2, E.1.1)
+        </p>
+        <p>
+          • Simple pattern recognition (C.2.3)
+        </p>
+        <p>
+          <alert>Quarter 2: Analysis</alert>
+        </p>
+        <p>
+          • Understanding of center and spread (C.1.1, C.1.2)
+        </p>
+        <p>
+          • Graph creation and interpretation (E.1.3, E.1.4)
+        </p>
+        <p>
+          • Beginning statistical reasoning (D.1.1)
+        </p>
+        <p>
+          <alert>Quarter 3: Communication</alert>
+        </p>
+        <p>
+          • Clear explanation of findings (E.2.2)
+        </p>
+        <p>
+          • Appropriate graph selection (E.1.6)
+        </p>
+        <p>
+          • Critique of data representations (E.1.5)
+        </p>
+        <p>
+          <alert>Quarter 4: Application</alert>
+        </p>
+        <p>
+          • Independent investigation completion (A.3.1)
+        </p>
+        <p>
+          • Ethical reasoning about data (A.2.1, A.2.2)
+        </p>
+        <p>
+          • Transfer of skills to new contexts (A.3.4)
+        </p>
+        <p>
+          <alert>Documentation Method:</alert>
+        </p>
+        <p>
+          • Use same assessment task at beginning and end of each quarter
+        </p>
+        <p>
+          • Document growth with work samples and brief observations
+        </p>
+        <p>
+          • Include student self-assessment and goal setting
+        </p>
+      </example>
+
+      <activity xml:id="activity-data-science-showcase-3-5">
+        <title>End-of-Unit Learning Showcase</title>
+        <statement>
+          <p>
+            <alert>Showcase Format:</alert>
+          </p>
+          <p>
+            • Students prepare a 3-4 minute presentation of their best data science work
+          </p>
+          <p>
+            • Include explanation of their process and key findings
+          </p>
+          <p>
+            • Answer questions from classmates and guests
+          </p>
+          <p>
+            <alert>Assessment Criteria:</alert>
+          </p>
+          <p>
+            • Clear communication of data science concepts
+          </p>
+          <p>
+            • Evidence of statistical reasoning in explanations
+          </p>
+          <p>
+            • Appropriate use of data science vocabulary
+          </p>
+          <p>
+            • Ability to respond to questions about their work
+          </p>
+          <p>
+            <alert>Documentation:</alert>
+          </p>
+          <p>
+            • Video record presentations for portfolio inclusion
+          </p>
+          <p>
+            • Note specific examples of growth and achievement
+          </p>
+          <p>
+            • Collect feedback from audience members
+          </p>
+          <p>
+            • Use for parent communication and grade reporting
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+  </section>
+
+  <section xml:id="grades-3-5-next-level-preparation">
+    <title>Preparing for Grade 6-8</title>
+    
+    <introduction>
+      <p>
+        By the end of grade 5, students should have solid foundations in statistical thinking and data science processes that will support more sophisticated work in middle school. Focus on ensuring readiness for formal statistical analysis and independent investigation.
+      </p>
+    </introduction>
+
+    <subsection xml:id="grades-3-5-readiness-indicators">
+      <title>Middle School Readiness Assessment</title>
+      
+      <p>
+        Identify key indicators that students are prepared for the increased independence and complexity of middle school data science work.
+      </p>
+
+      <insight xml:id="insight-readiness-skills-3-5">
+        <title>Essential Skills for Grade 6-8 Success</title>
+        <p>
+          <alert>Statistical Reasoning (D.1.1):</alert> Can make reasonable inferences from data and explain their reasoning
+        </p>
+        <p>
+          <alert>Variability Understanding (C.3.1):</alert> Recognizes that variation is natural and can describe different types of variation
+        </p>
+        <p>
+          <alert>Investigation Process (A.3.1):</alert> Can complete a full data investigation cycle with minimal guidance
+        </p>
+        <p>
+          <alert>Communication Skills (E.2.2):</alert> Explains data science work clearly to different audiences
+        </p>
+        <p>
+          <alert>Critical Thinking (A.2.2):</alert> Questions data sources and considers potential bias
+        </p>
+        <p>
+          <alert>Technology Integration (C.4.1):</alert> Uses digital tools appropriately for data analysis and presentation
+        </p>
+        <p>
+          <alert>Ethical Awareness (A.2.1):</alert> Considers fairness and privacy in data collection and use
+        </p>
+      </insight>
+
+      <example xml:id="example-readiness-assessment-task-3-5">
+        <title>End-of-Grade-5 Comprehensive Assessment</title>
+        <p>
+          <alert>Independent Investigation Task:</alert>
+        </p>
+        <p>
+          • Provide students with a real dataset relevant to their interests
+        </p>
+        <p>
+          • Ask them to develop three questions the data could help answer
+        </p>
+        <p>
+          • Have them analyze the data and present findings
+        </p>
+        <p>
+          • Include discussion of limitations and potential bias
+        </p>
+        <p>
+          <alert>Assessment Rubric:</alert>
+        </p>
+        <p>
+          <alert>Advanced (Ready for Accelerated MS Work):</alert>
+        </p>
+        <p>
+          • Develops sophisticated, answerable questions
+        </p>
+        <p>
+          • Uses appropriate analysis methods independently
+        </p>
+        <p>
+          • Makes reasonable inferences supported by evidence
+        </p>
+        <p>
+          • Identifies multiple sources of bias or limitation
+        </p>
+        <p>
+          • Communicates findings clearly with appropriate vocabulary
+        </p>
+        <p>
+          <alert>Proficient (Ready for Standard MS Work):</alert>
+        </p>
+        <p>
+          • Develops clear, answerable questions with some support
+        </p>
+        <p>
+          • Uses basic analysis methods appropriately
+        </p>
+        <p>
+          • Makes reasonable conclusions from data
+        </p>
+        <p>
+          • Recognizes some limitations or bias issues
+        </p>
+        <p>
+          • Explains work clearly with developing vocabulary
+        </p>
+        <p>
+          <alert>Developing (Needs Bridge Support):</alert>
+        </p>
+        <p>
+          • Needs significant support to develop appropriate questions
+        </p>
+        <p>
+          • Struggles with analysis method selection
+        </p>
+        <p>
+          • Makes conclusions but may not be well-supported
+        </p>
+        <p>
+          • Limited awareness of data quality issues
+        </p>
+        <p>
+          • Communication needs improvement
+        </p>
+      </example>
+
+      <activity xml:id="activity-self-assessment-readiness-3-5">
+        <title>Student Self-Assessment of Middle School Readiness</title>
+        <statement>
+          <p>
+            <alert>Readiness Self-Check Questions:</alert>
+          </p>
+          <p>
+            • "I can create questions that can be answered with data"
+          </p>
+          <p>
+            • "I can organize data and create appropriate graphs"
+          </p>
+          <p>
+            • "I can explain what patterns in data mean"
+          </p>
+          <p>
+            • "I can present my data work to others clearly"
+          </p>
+          <p>
+            • "I can identify when data might not be fair or complete"
+          </p>
+          <p>
+            • "I can use technology tools to help with data analysis"
+          </p>
+          <p>
+            • "I am curious about using data to answer questions"
+          </p>
+          <p>
+            <alert>Response Format:</alert>
+          </p>
+          <p>
+            • 4-point scale: Not yet / Sometimes / Usually / Always
+          </p>
+          <p>
+            • Include space for examples or explanations
+          </p>
+          <p>
+            • Compare with teacher assessment for goal setting
+        </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="grades-3-5-gap-addressing">
+      <title>Addressing Learning Gaps</title>
+      
+      <p>
+        Identify and address common areas where students may need additional support before moving to middle school data science work.
+      </p>
+
+      <example xml:id="example-intervention-strategies-3-5">
+        <title>Targeted Support for Common Learning Gaps</title>
+        <p>
+          <alert>Weak Statistical Reasoning:</alert>
+        </p>
+        <p>
+          • Provide more practice with "What does this data tell us?" discussions
+        </p>
+        <p>
+          • Use real-world contexts to make statistical concepts concrete
+        </p>
+        <p>
+          • Practice distinguishing between data descriptions and interpretations
+        </p>
+        <p>
+          • Work on connecting data findings to broader contexts
+        </p>
+        <p>
+          <alert>Limited Understanding of Variability:</alert>
+        </p>
+        <p>
+          • Conduct repeated sampling activities to show natural variation
+        </p>
+        <p>
+          • Practice describing differences between groups or datasets
+        </p>
+        <p>
+          • Use hands-on activities to explore measurement variability
+        </p>
+        <p>
+          • Discuss why variability occurs in different contexts
+        </p>
+        <p>
+          <alert>Poor Communication Skills:</alert>
+        </p>
+        <p>
+          • Practice explaining data work to different audiences
+        </p>
+        <p>
+          • Work on data science vocabulary development
+        </p>
+        <p>
+          • Provide sentence starters for data explanations
+        </p>
+        <p>
+          • Practice creating clear, informative graph titles and labels
+        </p>
+        <p>
+          <alert>Technology Integration Difficulties:</alert>
+        </p>
+        <p>
+          • Start with simple, user-friendly digital tools
+        </p>
+        <p>
+          • Provide step-by-step tutorials and support
+        </p>
+        <p>
+          • Allow choice between digital and non-digital options initially
+        </p>
+        <p>
+          • Build skills gradually through scaffolded practice
+        </p>
+      </example>
+
+      <activity xml:id="activity-summer-bridge-projects-3-5">
+        <title>Summer Bridge Activities for Middle School Preparation</title>
+        <statement>
+          <p>
+            <alert>Family Data Projects:</alert>
+          </p>
+          <p>
+            • Track family activities or preferences over summer
+          </p>
+          <p>
+            • Create graphs showing data from family surveys
+          </p>
+          <p>
+            • Compare data from different time periods or family members
+          </p>
+          <p>
+            • Practice explaining findings to family members
+        </p>
+          <p>
+            <alert>Community Data Investigations:</alert>
+          </p>
+          <p>
+            • Research local weather patterns or events
+          </p>
+          <p>
+            • Collect data during community activities or trips
+          </p>
+          <p>
+            • Interview neighbors or community members about interests
+          </p>
+          <p>
+            • Present findings in creative formats (posters, videos, blogs)
+          </p>
+          <p>
+            <alert>Reading and Media Literacy:</alert>
+          </p>
+          <p>
+            • Find examples of graphs or statistics in news articles
+          </p>
+          <p>
+            • Practice asking questions about data they encounter
+          </p>
+          <p>
+            • Discuss with family members what graphs and statistics mean
+          </p>
+          <p>
+            • Keep a journal of interesting data discoveries
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="grades-3-5-transition-communication">
+      <title>Transition Communication with Middle School</title>
+      
+      <p>
+        Provide comprehensive information to middle school teachers about student data science development and readiness levels.
+      </p>
+
+      <example xml:id="example-transition-documentation-3-5">
+        <title>Student Data Science Portfolio for Middle School</title>
+        <p>
+          <alert>Portfolio Transition Package:</alert>
+        </p>
+        <p>
+          <alert>Executive Summary:</alert>
+        </p>
+        <p>
+          • Student's overall data science readiness level
+        </p>
+        <p>
+          • Key strengths and areas for continued development
+        </p>
+        <p>
+          • Recommended placement and support strategies
+        </p>
+        <p>
+          • Special interests or motivations in data science
+        </p>
+        <p>
+          <alert>Work Sample Highlights:</alert>
+        </p>
+        <p>
+          • Best example of independent data investigation
+        </p>
+        <p>
+          • Evidence of statistical reasoning development
+        </p>
+        <p>
+          • Sample of clear data communication
+        </p>
+        <p>
+          • Example of ethical reasoning or critical thinking
+        </p>
+        <p>
+          <alert>Assessment Results:</alert>
+        </p>
+        <p>
+          • End-of-grade readiness assessment scores
+        </p>
+        <p>
+          • Growth documentation from beginning to end of elementary
+        </p>
+        <p>
+          • Student self-assessment of readiness and interests
+        </p>
+        <p>
+          • Teacher recommendations for continued learning
+        </p>
+        <p>
+          <alert>Learning Preferences and Strategies:</alert>
+        </p>
+        <p>
+          • Effective instructional approaches for this student
+        </p>
+        <p>
+          • Technology comfort and skill level
+        </p>
+        <p>
+          • Collaboration preferences and social learning strengths
+        </p>
+        <p>
+          • Areas where additional support may be beneficial
+        </p>
+      </example>
+    </subsection>
+  </section>
+
+  <section xml:id="grades-3-5-assessment-wrap-up">
+    <title>Assessment Wrap-Up: Supporting Data Science Growth and Transition</title>
+    
+    <p>
+      Assessment in grades 3-5 bridges the concrete thinking of early elementary with the abstract reasoning required in middle school. Focus on building student confidence and independence while ensuring solid foundations in statistical thinking and data science processes.
+    </p>
+
+    <note xml:id="final-assessment-reflection-3-5">
+      <title>Final Reflection: Your 3-5 Assessment Practice</title>
+      <p>
+        As you implement these assessment strategies, remember:
+      </p>
+      <p>
+        • Balance structure with flexibility - students need guidance but also opportunities for independent thinking
+      </p>
+      <p>
+        • Emphasize process over product - how students think about data is as important as their final answers
+      </p>
+      <p>
+        • Build on student interests - use topics and contexts that engage and motivate learners
+      </p>
+      <p>
+        • Support risk-taking - encourage students to ask challenging questions and explore complex ideas
+      </p>
+      <p>
+        • Connect to real world - help students see the relevance of data science to their lives and community
+      </p>
+      <p>
+        • Prepare for transition - ensure students are ready for the increased independence of middle school
+      </p>
+    </note>
+
+    <p>
+      Your assessment practices in grades 3-5 are crucial for building the confidence and skills students need for middle school data science success. By combining systematic skill development with authentic, engaging contexts, you help students see themselves as capable data scientists ready to tackle increasingly complex questions and challenges.
+    </p>
+  </section>
+</chapter>
