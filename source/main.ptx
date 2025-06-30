@@ -8,7 +8,7 @@
 
  <book xml:id="my-great-book">
    <title>Data Science Starter Kit</title>
-   <subtitle>A Step-by-Step Guide to Implementing Data Science in K-12 Classrooms</subtitle>
+   <subtitle>A Step-by-Step Guide for Teachers Wanting to Implement Data Science in their K-12 Classrooms</subtitle>
 
 
    <!-- Include frontmatter -->
@@ -16,10 +16,28 @@
 
 
    <!-- Include chapters -->
+    <part xml:id="part-foundation">
+    <title>Data Science Foundation - All Teachers</title>
    <xi:include href="./ch-intro-datascience.ptx" />
-   <xi:include href="./ch-learning-progressions.ptx" />
    <xi:include href="./ch-overcoming-data-anxiety.ptx" />
+   <xi:include href="./ch-learning-progressions.ptx" />
    <xi:include href="./ch-data-moves.ptx" />
+    </part>
+
+    <part xml:id="part-k2">
+    <title>K-2 Implementation Guide</title>
+    <xi:include href="./ch-k2-datasciencedna.ptx" />
+    </part>
+
+    <part xml:id="part-3through5">
+    <title>Grades 3-5 Implementation Guide</title>
+    <xi:include href="./ch-35-datasciencedna.ptx" />
+    </part>
+
+    <part xml:id="part-6through8">
+    <title>Grades 6-8 Implementation Guide</title>
+    <xi:include href="./ch-middleschool-datasciencedna.ptx" />
+    </part>
   
    <!-- Include backmatter -->
    <xi:include href="./backmatter.ptx" />

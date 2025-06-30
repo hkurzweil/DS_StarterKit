@@ -1,554 +1,675 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
-<chapter xml:id="ch-learning-progressions">
- <title>Understanding Data Science Learning Progressions</title>
-
-
- <introduction>
-   <p>
-     This is a text to get a pull request from github. Data science learning progressions provide a roadmap for developing students' data literacy from kindergarten through grade 12. These progressions are organized into five interconnected strands that together form a comprehensive framework for data science education. Understanding these progressions will help you identify where your students are in their data science journey and plan instruction that builds systematically toward more sophisticated data practices.
-   </p>
- </introduction>
-
-
- <section xml:id="sec-five-strands">
-   <title>The Five Strands of Data Science Learning</title>
-
-
-   <subsection xml:id="subsec-strand-a">
-     <title>Strand A: Data Literacy and Responsibility</title>
-    
-     <p>
-       <term>Focus:</term> This strand establishes the foundational understanding of what data is and how it should be approached responsibly. It emphasizes that data is created by people, contains inherent variability, and provides only partial information about the world.
-     </p>
-    
-     <p>
-       <term>Why It Matters:</term> In our data-driven society, students need to understand not just how to work with data, but what data represents and the ethical considerations involved in its collection and use. This strand develops critical thinking about data sources, biases, and the power dynamics involved in data work. Students learn to approach data with both curiosity and healthy skepticism.
-     </p>
-    
-     <p>
-       <term>Key Progressive Elements:</term>
-     </p>
-     <p>
-       <term>K-2:</term> Students begin by recognizing that data can answer questions and that there are different types of information we can collect
-     </p>
-     <p>
-       <term>3-5:</term> Students understand that data is created by people making decisions about what to measure and how
-     </p>
-     <p>
-       <term>6-8:</term> Students recognize limitations in data and begin to identify bias and ethical considerations
-     </p>
-     <p>
-       <term>9-10:</term> Students analyze how data collection methods affect interpretation and develop strategies for responsible data use
-     </p>
-     <p>
-       <term>11-12:</term> Students critically evaluate data sources, understand complex ethical implications, and take agency in their own data practices
-     </p>
-   </subsection>
-
-
-   <subsection xml:id="subsec-strand-b">
-     <title>Strand B: Creation and Curation</title>
-    
-     <p>
-       <term>Focus:</term> This strand covers where data comes from and how it should be collected, organized, and formatted to be useful. It encompasses both creating new data and working with existing datasets, emphasizing that real-world data is often messy and requires careful curation.
-     </p>
-    
-     <p>
-       <term>Why It Matters:</term> Students need to understand that high-quality analysis begins with high-quality data. This strand teaches students to be thoughtful about data collection methods, to recognize and address data quality issues, and to organize data in ways that facilitate meaningful analysis. These skills are essential for both consuming and producing reliable data-based conclusions.
-     </p>
-    
-     <p>
-       <term>Key Progressive Elements:</term>
-     </p>
-     <p>
-       <term>K-2:</term> Students collect and organize simple data using basic tools like counting and sorting
-     </p>
-     <p>
-       <term>3-5:</term> Students design simple investigations and organize data in tables with multiple attributes
-     </p>
-     <p>
-       <term>6-8:</term> Students learn to clean data, identify errors and missing values, and work with more complex data structures
-     </p>
-     <p>
-       <term>9-10:</term> Students design sophisticated data collection methods, work with multiple datasets, and understand sampling and bias
-     </p>
-     <p>
-       <term>11-12:</term> Students develop comprehensive data management systems and work with complex, real-world datasets requiring advanced cleaning and organization
-     </p>
-   </subsection>
-
-
-   <subsection xml:id="subsec-strand-c">
-     <title>Strand C: Analysis and Modeling Techniques</title>
-    
-     <p>
-       <term>Focus:</term> This strand develops students' ability to analyze data using various techniques, from basic summary statistics to complex modeling approaches. It emphasizes understanding which techniques to use for different types of data and questions, and includes both traditional statistical methods and modern computational approaches.
-     </p>
-    
-     <p>
-       <term>Why It Matters:</term> Analysis transforms raw data into insights. This strand ensures students can move beyond simply describing data to identifying patterns, relationships, and trends that inform decision-making. As data becomes increasingly complex and abundant, students need both conceptual understanding and practical skills with digital tools.
-     </p>
-    
-     <p>
-       <term>Key Progressive Elements:</term>
-     </p>
-     <p>
-       <term>K-2:</term> Students describe data using simple comparisons and identify basic patterns through sorting and grouping
-     </p>
-     <p>
-       <term>3-5:</term> Students calculate simple summary statistics and use digital tools to create basic visualizations
-     </p>
-     <p>
-       <term>6-8:</term> Students work with measures of center and spread, identify relationships between variables, and begin using advanced digital tools
-     </p>
-     <p>
-       <term>9-10:</term> Students conduct statistical analyses, work with correlation and regression, and use simulation methods
-     </p>
-     <p>
-       <term>11-12:</term> Students apply advanced statistical techniques, work with machine learning concepts, and create sophisticated models
-     </p>
-   </subsection>
-
-
-   <subsection xml:id="subsec-strand-d">
-     <title>Strand D: Interpreting Problems and Results</title>
-    
-     <p>
-       <term>Focus:</term> This strand focuses on making and justifying claims from data within appropriate contexts. It emphasizes understanding the relationship between questions, data, and valid conclusions, including the limitations of what can be inferred from any dataset.
-     </p>
-    
-     <p>
-       <term>Why It Matters:</term> The ability to draw valid conclusions from data is perhaps the most important skill in our information-rich world. This strand teaches students to think probabilistically, understand uncertainty, and communicate findings appropriately. It also develops skills in identifying when data supports or contradicts claims made by others.
-     </p>
-    
-     <p>
-       <term>Key Progressive Elements:</term>
-     </p>
-     <p>
-       <term>K-2:</term> Students make simple claims based on data and recognize that different conclusions might be drawn from the same information
-     </p>
-     <p>
-       <term>3-5:</term> Students begin using probabilistic language and understand that conclusions should be supported by evidence
-     </p>
-     <p>
-       <term>6-8:</term> Students learn to qualify their conclusions with appropriate uncertainty language and recognize correlation versus causation
-     </p>
-     <p>
-       <term>9-10:</term> Students apply formal statistical concepts, understand sampling and generalization, and evaluate the strength of evidence
-     </p>
-     <p>
-       <term>11-12:</term> Students use advanced statistical inference, understand complex experimental design, and critically evaluate claims in media and research
-     </p>
-   </subsection>
-
-
-   <subsection xml:id="subsec-strand-e">
-     <title>Strand E: Visualization and Communication</title>
-    
-     <p>
-       <term>Focus:</term> This strand develops students' ability to create effective visualizations and communicate findings to different audiences. It encompasses both the technical skills of creating graphs and charts and the communication skills needed to tell compelling, accurate stories with data.
-     </p>
-    
-     <p>
-       <term>Why It Matters:</term> Data visualization is both a tool for analysis and a medium for communication. Students need to understand how different visual representations highlight different aspects of data, and how to choose appropriate formats for their audiences and purposes. In a world filled with data visualizations, students also need to be critical consumers who can identify misleading or inappropriate visual representations.
-     </p>
-    
-     <p>
-       <term>Key Progressive Elements:</term>
-     </p>
-     <p>
-       <term>K-2:</term> Students create simple visual representations like pictographs and bar charts using hands-on materials
-     </p>
-     <p>
-       <term>3-5:</term> Students use digital tools to create basic visualizations and begin connecting visuals to narratives
-     </p>
-     <p>
-       <term>6-8:</term> Students create more complex visualizations, understand design principles, and adapt their communication for different audiences
-     </p>
-     <p>
-       <term>9-10:</term> Students create sophisticated multi-variable visualizations, understand advanced design principles, and use data for advocacy
-     </p>
-     <p>
-       <term>11-12:</term> Students create publication-quality visualizations, understand accessibility considerations, and communicate complex analyses to diverse audiences
-     </p>
-   </subsection>
- </section>
-
-
- <section xml:id="sec-strands-together">
-   <title>How the Strands Work Together</title>
+<chapter xml:id="month3-learning-landscape" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Understanding the Data Science Learning Landscape</title>
   
-   <p>
-     These five strands are not meant to be taught in isolation. Instead, they represent different aspects of data science practice that should be integrated throughout instruction. A single data science investigation might involve:
-   </p>
-  
-   <p>
-     <term>Strand A concepts</term> when considering the source and limitations of data
-   </p>
-   <p>
-     <term>Strand B skills</term> when collecting and organizing the dataset
-   </p>
-   <p>
-     <term>Strand C techniques</term> when analyzing patterns and relationships
-   </p>
-   <p>
-     <term>Strand D reasoning</term> when interpreting results and making claims
-   </p>
-   <p>
-     <term>Strand E communication</term> when sharing findings with others
-   </p>
-  
-   <p>
-     The learning progressions show how each strand develops sophistication over time, but students at any grade level can engage with concepts from all five strands at an appropriate level of complexity.
-   </p>
- </section>
+  <introduction>
+    <p>
+      Welcome to the next section of learning in your data science education journey! In the previous months, you've explored what data science education is and worked through your own relationship with data. Now it's time to dive into the roadmap that will guide your teaching: the Data Science 4 Everyone learning progressions.
+    </p>
+    
+    <p>
+      Think of this chapter as your orientation to a new landscape. You're about to explore a comprehensive framework that spans from kindergarten through grade 12, covering five interconnected strands of data science learning. By the end of this month, you'll understand how these progressions work together and where you fit in the bigger picture.
+    </p>
+    
+    <p>
+      <alert>Chapter Objectives</alert>
+    </p>
+    <p>By the end of this chapter, you will be able to:</p>
+    <p>
+      <m>\bullet</m> Explain how the five strands of data science learning work together as an ecosystem
+    </p>
+    <p>
+      <m>\bullet</m> Identify patterns in how data science concepts develop across grade levels
+    </p>
+    <p>
+      <m>\bullet</m> Recognize natural connections between data science and your subject area
+    </p>
+    <p>
+      <m>\bullet</m> Locate entry points for data science integration in your current curriculum
+    </p>
+    <p>
+      <m>\bullet</m> Understand the developmental appropriateness of data science concepts for different ages
+    </p>
+  </introduction>
 
+  <section xml:id="big-picture-architecture">
+    <title>The Big Picture: Data Science as an Ecosystem</title>
+    
+    <introduction>
+      <p>
+        Before we dive into specific grade levels or concepts, let's step back and see the forest before the trees. The Data Science 4 Everyone learning progressions are organized into five interconnected strands. Understanding how these strands work together is crucial for effective teaching.
+      </p>
+    </introduction>
 
- <section xml:id="sec-progressions-reflection">
-   <title>Reflection and Self-Assessment</title>
-  
-   <exercise xml:id="ex-matching-concepts">
-     <title>Part 1: Matching Concepts to Strands</title>
-     <statement>
-       <p>
-         For each concept below, identify which strand (A, B, C, D, or E) it primarily belongs to. Write the letter of the strand in the space provided.
-       </p>
+    <subsection xml:id="five-strands-ecosystem">
+      <title>The Five Strands as a Living System</title>
       
-       <p>
-         _____ 1. Understanding that all data contains some level of bias
-       </p>
+      <p>
+        Imagine data science learning as a thriving ecosystem where each component supports and enhances the others:
+      </p>
       
-       <p>
-         _____ 2. Creating effective graphs that clearly communicate findings to an audience
-       </p>
-      
-       <p>
-         _____ 3. Deciding whether a sample size is large enough to draw conclusions about a population
-       </p>
-      
-       <p>
-         _____ 4. Organizing messy data into a clean, usable format
-       </p>
-      
-       <p>
-         _____ 5. Calculating measures of center like mean and median
-       </p>
-      
-       <p>
-         _____ 6. Recognizing that data represents decisions made by people
-       </p>
-      
-       <p>
-         _____ 7. Using correlation and regression to identify relationships between variables
-       </p>
-      
-       <p>
-         _____ 8. Evaluating whether claims made in the media are supported by the presented data
-       </p>
-      
-       <p>
-         _____ 9. Designing an investigation to collect data that will answer a specific question
-       </p>
-      
-       <p>
-         _____ 10. Creating visualizations that are accessible to people with disabilities
-       </p>
-      
-       <p>
-         <em>Answer Key: 1-A, 2-E, 3-D, 4-B, 5-C, 6-A, 7-C, 8-D, 9-B, 10-E</em>
-       </p>
-     </statement>
-   </exercise>
+      <definition xml:id="def-five-strands">
+        <title>The Five Strands of Data Science Learning</title>
+        <statement>
+          <p>
+            <term>Strand A: Data Literacy and Responsibility</term> - The foundation: understanding what data is, where it comes from, and how to use it ethically
+          </p>
+          <p>
+            <term>Strand B: Creation and Curation</term> - The acquisition: collecting, organizing, and preparing data for analysis
+          </p>
+          <p>
+            <term>Strand C: Analysis and Modeling</term> - The exploration: using tools and techniques to uncover patterns and relationships
+          </p>
+          <p>
+            <term>Strand D: Interpreting Problems and Results</term> - The meaning-making: drawing conclusions and making claims based on evidence
+          </p>
+          <p>
+            <term>Strand E: Visualization and Communication</term> - The storytelling: sharing insights through clear, compelling presentations
+          </p>
+        </statement>
+      </definition>
 
+      <activity xml:id="activity-strand-connections">
+        <title>Connecting the Strands</title>
+        <statement>
+          <p>
+            Consider a simple classroom scenario: Third graders are investigating <q>What's the most popular pet in our class?</q>
+          </p>
+          <p>
+            For each strand below, write one specific thing students might do as part of this investigation:
+          </p>
+          <p>
+            1. <em>Data Literacy and Responsibility:</em> _______________
+          </p>
+          <p>
+            2. <em>Creation and Curation:</em> _______________
+          </p>
+          <p>
+            3. <em>Analysis and Modeling:</em> _______________
+          </p>
+          <p>
+            4. <em>Interpreting Problems and Results:</em> _______________
+          </p>
+          <p>
+            5. <em>Visualization and Communication:</em> _______________
+          </p>
+        </statement>
+        <solution>
+          <p>Sample responses:</p>
+          <p>
+            1. <em>Data Literacy and Responsibility:</em> Discuss why it's important to ask permission before sharing information about pets, understand that some students might not have pets
+          </p>
+          <p>
+            2. <em>Creation and Curation:</em> Create a survey, organize responses into categories, clean up any unclear answers
+          </p>
+          <p>
+            3. <em>Analysis and Modeling:</em> Count responses, compare totals, look for patterns
+          </p>
+          <p>
+            4. <em>Interpreting Problems and Results:</em> Decide what the data tells us, consider limitations (small sample size, only our class)
+          </p>
+          <p>
+            5. <em>Visualization and Communication:</em> Create a bar graph and present findings to another class
+          </p>
+        </solution>
+      </activity>
 
-   <exercise xml:id="ex-multiple-choice">
-     <title>Part 2: Multiple Choice Questions</title>
-     <statement>
-       <p>
-         Circle the letter of the best answer for each question.
-       </p>
-      
-       <p>
-         1. The data science learning progressions are organized around:
-       </p>
-       <p>
-         a) Subject areas like math, science, and social studies
-       </p>
-       <p>
-         b) Five interconnected strands that develop over time
-       </p>
-       <p>
-         c) Grade-level standards that must be mastered before moving on
-       </p>
-       <p>
-         d) Technology tools students need to learn
-       </p>
-      
-       <p>
-         2. Which statement best describes how the strands should be taught?
-       </p>
-       <p>
-         a) One strand at a time, in alphabetical order
-       </p>
-       <p>
-         b) Only the strands that align with your subject area
-       </p>
-       <p>
-         c) Integrated together within authentic data investigations
-       </p>
-       <p>
-         d) Separately, so students don't get confused
-       </p>
-      
-       <p>
-         3. A kindergarten student sorting objects by color is primarily engaging with:
-       </p>
-       <p>
-         a) Advanced statistical analysis
-       </p>
-       <p>
-         b) The same concepts as a high school student, just simpler
-       </p>
-       <p>
-         c) Foundational ideas that will develop into more sophisticated practices
-       </p>
-       <p>
-         d) Skills that are only useful in elementary school
-       </p>
-      
-       <p>
-         4. The main difference between elementary and high school expectations in the progressions is:
-       </p>
-       <p>
-         a) Elementary students can't work with real data
-       </p>
-       <p>
-         b) High school students use technology while elementary students don't
-       </p>
-       <p>
-         c) The level of complexity, sophistication, and independence expected
-       </p>
-       <p>
-         d) Elementary focuses on math while high school focuses on science
-       </p>
-      
-       <p>
-         5. When a 6th grader recognizes that a survey might not represent everyone's opinion, they are demonstrating understanding primarily from:
-       </p>
-       <p>
-         a) Strand A (Data Literacy and Responsibility)
-       </p>
-       <p>
-         b) Strand B (Creation and Curation)
-       </p>
-       <p>
-         c) Strand C (Analysis and Modeling)
-       </p>
-       <p>
-         d) Strand D (Interpreting Problems and Results)
-       </p>
-      
-       <p>
-         <em>Answer Key: 1-b, 2-c, 3-c, 4-c, 5-d</em>
-       </p>
-     </statement>
-   </exercise>
- </section>
+      <p>
+        Notice how naturally these strands flow together? In real data science work, they're not separate steps but interconnected aspects of investigation. Students might move back and forth between strands multiple times within a single project.
+      </p>
+    </subsection>
 
-
- <section xml:id="sec-applications-teaching">
-   <title>Applications to Your Teaching</title>
-  
-   <p>
-     Take some time to explore how these learning progressions might apply to your specific teaching context. Consider your grade level, subject area, and current curriculum as you respond to the following prompts.
-   </p>
-
-
-   <exercise xml:id="ex-exploring-grade-band">
-     <title>Exploring Your Grade Band</title>
-     <statement>
-       <p>
-         1. <em>Focus on Your Grade Level:</em> Look specifically at the expectations for your grade band across all five strands. What stands out to you as particularly important or challenging for your students? What seems most doable to implement?
-       </p>
-       <p>
-         Your response:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
+    <subsection xml:id="vertical-progression-patterns">
+      <title>How Concepts Grow: Vertical Progression Patterns</title>
       
-       <p>
-         2. <em>Developmental Perspective:</em> Compare the expectations for your grade band with the grade bands immediately before and after yours. What growth do you see happening? How does this help you understand what your students need to be ready for next?
-       </p>
-       <p>
-         Your response:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-      
-       <p>
-         3. <em>Current Student Capabilities:</em> Thinking about your current students, where do you see them in relation to these progressions? Are there areas where they're ahead of expectations? Areas where they need additional support?
-       </p>
-       <p>
-         Your response:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-     </statement>
-   </exercise>
+      <p>
+        One of the most powerful aspects of these learning progressions is seeing how the same fundamental concepts deepen and sophisticate over time. Let's examine how this works.
+      </p>
 
+      <example xml:id="example-variability-progression">
+        <title>Concept Growth: Understanding Variability</title>
+        <p>
+          Let's trace how students' understanding of <term>variability</term> develops across grade levels:
+        </p>
+        <tabular>
+          <row header="yes">
+            <cell>Grade Band</cell>
+            <cell>Understanding of Variability</cell>
+            <cell>Example Activity</cell>
+          </row>
+          <row>
+            <cell>K-2</cell>
+            <cell>Recognize that similar objects can differ</cell>
+            <cell>Sort leaves by size, noticing they're all different</cell>
+          </row>
+          <row>
+            <cell>3-5</cell>
+            <cell>Understand data can have many different results</cell>
+            <cell>Measure how far different paper airplanes fly</cell>
+          </row>
+          <row>
+            <cell>6-8</cell>
+            <cell>Quantify variability using range and standard deviation</cell>
+            <cell>Calculate the spread in test scores across classes</cell>
+          </row>
+          <row>
+            <cell>9-10</cell>
+            <cell>Connect variability to uncertainty in conclusions</cell>
+            <cell>Understand why poll results include margins of error</cell>
+          </row>
+          <row>
+            <cell>11-12</cell>
+            <cell>Use variability to model real-world processes</cell>
+            <cell>Analyze how measurement error affects scientific conclusions</cell>
+          </row>
+        </tabular>
+      </example>
 
-   <exercise xml:id="ex-connecting-curriculum">
-     <title>Connecting to Your Current Curriculum</title>
-     <statement>
-       <p>
-         4. <em>Identifying Existing Connections:</em> Choose one unit or lesson you currently teach. Looking at the five strands, which data science concepts are already present in this instruction, even if you haven't been thinking about them as "data science"?
-       </p>
-       <p>
-         Unit/Lesson: ________________________________________________
-       </p>
-       <p>
-         Existing data science connections:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-      
-       <p>
-         5. <em>Enhancement Opportunities:</em> Taking that same unit or lesson, how could you enhance it to more explicitly develop data science thinking? Which strands offer the most natural entry points?
-       </p>
-       <p>
-         Enhancement ideas:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-      
-       <p>
-         6. <em>Student Questions and Curiosity:</em> The progressions emphasize that data science investigations often begin with authentic questions. What questions do your students naturally ask that could be explored through data? How might you better capture and build on their curiosity?
-       </p>
-       <p>
-         Student questions with data potential:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-     </statement>
-   </exercise>
+      <note xml:id="reflection-concept-growth">
+        <title>Reflection: Concept Growth in Your Subject</title>
+        <p>
+          Think about a key concept in your subject area (like <q>evidence</q> in social studies, <q>pattern</q> in math, or <q>observation</q> in science). How does understanding of this concept deepen as students progress through school?
+        </p>
+        <p>
+          Now consider how this same principle applies to data science concepts. Students don't learn <q>statistics</q> in high school - they build statistical thinking from their earliest school experiences.
+        </p>
+      </note>
+    </subsection>
 
-
-   <exercise xml:id="ex-looking-forward">
-     <title>Looking Forward</title>
-     <statement>
-       <p>
-         7. <em>Implementation Planning:</em> Based on your exploration of the progressions, what is one specific change you could make to your teaching practice this year? What would success look like?
-       </p>
-       <p>
-         One specific change:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
+    <subsection xml:id="cross-curricular-connections">
+      <title>Cross-Curricular DNA: Data Science Everywhere</title>
       
-       <p>
-         What success would look like:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-      
-       <p>
-         8. <em>Professional Learning Goals:</em> What aspects of these progressions do you want to learn more about? What support or resources would help you implement data science thinking in your classroom?
-       </p>
-       <p>
-         Learning goals:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-      
-       <p>
-         Support needed:
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-       <p>
-         ________________________________________________________________
-       </p>
-     </statement>
-   </exercise>
- </section>
+      <p>
+        Data science isn't another subject to squeeze into an already packed curriculum. Instead, it's a way of thinking and working that enhances learning across all subjects. Let's explore how these progressions naturally connect to different disciplines.
+      </p>
 
+      <insight xml:id="insight-subject-connections">
+        <title>Subject Area Connections</title>
+        
+        <p><alert>English Language Arts</alert></p>
+        <p>
+          <m>\bullet</m> Analyzing character development patterns across stories (data analysis)
+        </p>
+        <p>
+          <m>\bullet</m> Researching and citing sources (data ethics and responsibility)
+        </p>
+        <p>
+          <m>\bullet</m> Creating infographics for persuasive essays (visualization and communication)
+        </p>
 
+        <p><alert>Mathematics</alert></p>
+        <p>
+          <m>\bullet</m> Measuring and comparing objects (creation and curation)
+        </p>
+        <p>
+          <m>\bullet</m> Looking for patterns in number sequences (analysis and modeling)
+        </p>
+        <p>
+          <m>\bullet</m> Explaining mathematical reasoning (interpreting problems and results)
+        </p>
+
+        <p><alert>Science</alert></p>
+        <p>
+          <m>\bullet</m> Collecting observations from experiments (creation and curation)
+        </p>
+        <p>
+          <m>\bullet</m> Drawing conclusions from evidence (interpreting problems and results)
+        </p>
+        <p>
+          <m>\bullet</m> Understanding measurement uncertainty (data literacy and responsibility)
+        </p>
+
+        <p><alert>Social Studies</alert></p>
+        <p>
+          <m>\bullet</m> Analyzing historical census data (analysis and modeling)
+        </p>
+        <p>
+          <m>\bullet</m> Evaluating bias in historical sources (data literacy and responsibility)
+        </p>
+        <p>
+          <m>\bullet</m> Creating maps showing demographic changes (visualization and communication)
+        </p>
+
+        <p><alert>Arts</alert></p>
+        <p>
+          <m>\bullet</m> Exploring color frequency in paintings (analysis and modeling)
+        </p>
+        <p>
+          <m>\bullet</m> Designing data-driven infographics (visualization and communication)
+        </p>
+        <p>
+          <m>\bullet</m> Surveying musical preferences (creation and curation)
+        </p>
+      </insight>
+
+      <activity xml:id="activity-find-connections">
+        <title>Finding Connections in Your Curriculum</title>
+        <statement>
+          <p>
+            Look at a unit you're currently teaching or will teach soon. For each of the five strands, identify one way data science thinking could enhance student learning in that unit:
+          </p>
+          <p>
+            <em>Unit Topic:</em> _______________
+          </p>
+          <p>
+            1. <em>Data Literacy and Responsibility:</em> _______________
+          </p>
+          <p>
+            2. <em>Creation and Curation:</em> _______________
+          </p>
+          <p>
+            3. <em>Analysis and Modeling:</em> _______________
+          </p>
+          <p>
+            4. <em>Interpreting Problems and Results:</em> _______________
+          </p>
+          <p>
+            5. <em>Visualization and Communication:</em> _______________
+          </p>
+        </statement>
+        <hint>
+          <p>
+            Don't worry about being perfect or comprehensive. The goal is to start seeing connections, not to redesign your entire curriculum!
+          </p>
+        </hint>
+      </activity>
+    </subsection>
+  </section>
+
+  <section xml:id="teacher-mindset-shifts">
+    <title>Essential Mindset Shifts for Data Science Teaching</title>
+    
+    <introduction>
+      <p>
+        Teaching data science requires some fundamental shifts in how we think about our role as educators. These mindset changes will help you feel more confident and effective as you integrate data science into your teaching.
+      </p>
+    </introduction>
+
+    <subsection xml:id="expert-to-facilitator">
+      <title>From Expert to Learning Facilitator</title>
+      
+      <p>
+        <alert>Common Teacher Fear:</alert> <q>I'm not a data scientist. How can I teach data science?</q>
+      </p>
+      
+      <p>
+        <alert>Reframe:</alert> <q>I'm a learning facilitator who helps students develop data science thinking.</q>
+      </p>
+
+      <p>
+        The learning progressions reveal an important truth: data science education at every level is about thinking, not just technical skills. Look at the K-2 progressions - students are learning to sort objects, ask questions, and organize information. These are things you already help students do!
+      </p>
+
+      <example xml:id="example-kindergarten-data-science">
+        <title>Data Science in Kindergarten</title>
+        <p>
+          Ms. Rodriguez's kindergarten class is learning about weather. Here's how she naturally incorporates data science progressions:
+        </p>
+        <p>
+          <m>\bullet</m> <em>Data Creation:</em> Students record daily weather on a chart
+        </p>
+        <p>
+          <m>\bullet</m> <em>Data Analysis:</em> They count sunny days vs. rainy days
+        </p>
+        <p>
+          <m>\bullet</m> <em>Data Interpretation:</em> They discuss which type of weather is most common
+        </p>
+        <p>
+          <m>\bullet</m> <em>Data Visualization:</em> They create a simple bar graph with colored blocks
+        </p>
+        <p>
+          <m>\bullet</m> <em>Data Responsibility:</em> They talk about why weather data helps people plan their day
+        </p>
+        <p>
+          Ms. Rodriguez doesn't need to be a meteorologist or statistician. She's guiding students through authentic data science thinking at a developmentally appropriate level.
+        </p>
+      </example>
+
+      <p>
+        Your role is to:
+      </p>
+      <p>
+        <m>\bullet</m> Ask good questions that promote data science thinking
+      </p>
+      <p>
+        <m>\bullet</m> Provide appropriate scaffolding for investigation
+      </p>
+      <p>
+        <m>\bullet</m> Help students make connections between their findings and the world
+      </p>
+      <p>
+        <m>\bullet</m> Model curiosity and critical thinking about data
+      </p>
+    </subsection>
+
+    <subsection xml:id="process-over-product">
+      <title>Process Over Product: The Investigative Mindset</title>
+      
+      <p>
+        Notice that Strand A includes <q>Investigative Dispositions</q> - this isn't about getting the right answer, it's about developing the right habits of mind.
+      </p>
+
+      <insight xml:id="insight-investigative-dispositions">
+        <title>Key Investigative Dispositions</title>
+        <p>
+          <term>The investigative process:</term> Understanding that data science is cyclical, not linear
+        </p>
+        <p>
+          <term>Iteration:</term> Expecting to revise questions and methods based on findings
+        </p>
+        <p>
+          <term>Dynamic inferences:</term> Recognizing that conclusions can change with new data
+        </p>
+        <p>
+          <term>Apply context:</term> Considering the real-world situation behind the data
+        </p>
+        <p>
+          <term>Student data agency:</term> Developing confidence and motivation to engage with data
+        </p>
+      </insight>
+
+      <p>
+        This means celebrating when students:
+      </p>
+      <p>
+        <m>\bullet</m> Ask follow-up questions after seeing initial results
+      </p>
+      <p>
+        <m>\bullet</m> Notice something unexpected in their data
+      </p>
+      <p>
+        <m>\bullet</m> Want to collect more information
+      </p>
+      <p>
+        <m>\bullet</m> Change their mind based on evidence
+      </p>
+      <p>
+        <m>\bullet</m> Consider alternative explanations
+      </p>
+
+      <activity xml:id="activity-process-mindset">
+        <title>Shifting to Process Mindset</title>
+        <statement>
+          <p>
+            Think about a recent lesson where students were investigating something (it doesn't have to be data-related). How could you have emphasized the process over the product? What questions could you have asked to highlight the investigative thinking?
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="ethics-as-foundation">
+      <title>Ethics as Foundation, Not Afterthought</title>
+      
+      <p>
+        Notice that the progressions begin with <q>Data Literacy and Responsibility</q> - ethics isn't something we add on later, it's fundamental to all data science learning.
+      </p>
+
+      <p>
+        Even young students can engage with ethical thinking about data:
+      </p>
+      <p>
+        <m>\bullet</m> <em>K-2:</em> <q>Should we ask permission before sharing information about our friends?</q>
+      </p>
+      <p>
+        <m>\bullet</m> <em>3-5:</em> <q>How might our survey questions make some students feel left out?</q>
+      </p>
+      <p>
+        <m>\bullet</m> <em>6-8:</em> <q>What are the benefits and risks of collecting this data?</q>
+      </p>
+      <p>
+        <m>\bullet</m> <em>9-12:</em> <q>How might bias in our data affect our conclusions?</q>
+      </p>
+
+      <p>
+        This ethical foundation builds students' capacity for responsible citizenship in our data-driven world.
+      </p>
+    </subsection>
+  </section>
+
+  <section xml:id="practical-navigation-tools">
+    <title>Practical Navigation Tools</title>
+    
+    <introduction>
+      <p>
+        Now that you understand the big picture, let's get practical. How do you actually start using these progressions in your teaching?
+      </p>
+    </introduction>
+
+    <subsection xml:id="identifying-entry-points">
+      <title>Finding Your Entry Points</title>
+      
+      <p>
+        You don't need to implement all five strands simultaneously. Start with what feels most natural and build from there.
+      </p>
+
+      <exercise xml:id="exercise-comfort-zone-inventory">
+        <title>Comfort Zone Inventory</title>
+        <statement>
+          <p>
+            Rate your comfort level with each strand on a scale of 1-5 (1 = very uncomfortable, 5 = very comfortable):
+          </p>
+          <p>
+            1. Data Literacy and Responsibility (ethics, understanding data sources): ___
+          </p>
+          <p>
+            2. Creation and Curation (collecting, organizing data): ___
+          </p>
+          <p>
+            3. Analysis and Modeling (finding patterns, making comparisons): ___
+          </p>
+          <p>
+            4. Interpreting Problems and Results (drawing conclusions, making claims): ___
+          </p>
+          <p>
+            5. Visualization and Communication (creating graphs, presentations): ___
+          </p>
+          <p>
+            Circle your highest scores. These are your entry points!
+          </p>
+        </statement>
+      </exercise>
+
+      <p>
+        <alert>Starting Strong:</alert> Choose 1-2 concepts from your highest-scoring strands. Plan to integrate these into existing lessons over the next month.
+      </p>
+
+      <p>
+        <alert>Growing Gradually:</alert> Once you're comfortable with your entry points, gradually add concepts from other strands.
+      </p>
+    </subsection>
+
+    <subsection xml:id="recognizing-natural-overlaps">
+      <title>Recognizing What You're Already Doing</title>
+      
+      <p>
+        You're probably already doing more data science than you realize! Let's help you see these connections.
+      </p>
+
+      <activity xml:id="activity-current-practice-audit">
+        <title>Current Practice Audit</title>
+        <statement>
+          <p>
+            For each category below, list 2-3 things you already do in your teaching:
+          </p>
+          <p>
+            1. <em>Having students collect information:</em> _______________
+          </p>
+          <p>
+            2. <em>Asking students to organize or sort things:</em> _______________
+          </p>
+          <p>
+            3. <em>Having students look for patterns:</em> _______________
+          </p>
+          <p>
+            4. <em>Asking students to explain their reasoning:</em> _______________
+          </p>
+          <p>
+            5. <em>Having students create visual displays:</em> _______________
+          </p>
+          <p>
+            Congratulations! You're already facilitating data science learning.
+          </p>
+        </statement>
+      </activity>
+
+      <p>
+        The key insight: You don't need to create entirely new lessons. You can enhance existing activities by making the data science thinking more explicit and intentional.
+      </p>
+    </subsection>
+
+    <subsection xml:id="developmental-appropriateness">
+      <title>Understanding Developmental Appropriateness</title>
+      
+      <p>
+        The progressions are carefully designed to match students' cognitive development. Understanding why certain concepts appear at certain grades will help you make good decisions about what to emphasize.
+      </p>
+
+      <principle xml:id="principle-developmental-progression">
+        <title>Developmental Progression Principles</title>
+        <statement>
+          <p>
+            <term>Concrete to Abstract:</term> Young students work with physical objects before moving to symbols and representations
+          </p>
+          <p>
+            <term>Simple to Complex:</term> Students master basic concepts before tackling multivariable thinking
+          </p>
+          <p>
+            <term>Personal to Global:</term> Students start with data about themselves and their immediate environment
+          </p>
+          <p>
+            <term>Descriptive to Inferential:</term> Students learn to describe data before making predictions or generalizations
+          </p>
+        </statement>
+      </principle>
+
+      <warning xml:id="warning-grade-level-flexibility">
+        <title>Grade Level Flexibility</title>
+        <p>
+          While the progressions provide grade-level guidance, remember that:
+        </p>
+        <p>
+          <m>\bullet</m> Students develop at different rates
+        </p>
+        <p>
+          <m>\bullet</m> Prior experience affects readiness
+        </p>
+        <p>
+          <m>\bullet</m> Context can make concepts more or less accessible
+        </p>
+        <p>
+          <m>\bullet</m> It's okay to adapt for your specific students
+        </p>
+      </warning>
+    </subsection>
+  </section>
+
+  <section xml:id="next-steps-preparation">
+    <title>Preparing for Grade-Band Specific Learning</title>
+    
+    <introduction>
+      <p>
+        You've now gained a bird's-eye view of the data science learning landscape. In the coming chapters, you'll dive deeper into your specific grade band, but first, let's make sure you're ready for that focused work.
+      </p>
+    </introduction>
+
+    <subsection xml:id="setting-priorities">
+      <title>Setting Your Priorities</title>
+      
+      <exercise xml:id="exercise-priority-setting">
+        <title>Priority Setting for Your Grade Band</title>
+        <statement>
+          <p>
+            Based on your exploration of the progressions, complete the following:
+          </p>
+          <p>
+            1. <em>My grade band focus:</em> _______________
+          </p>
+          <p>
+            2. <em>The strand I'm most excited to explore:</em> _______________
+          </p>
+          <p>
+            3. <em>The concept I think will be most challenging:</em> _______________
+          </p>
+          <p>
+            4. <em>One specific thing I want to try in the next month:</em> _______________
+          </p>
+          <p>
+            5. <em>One question I have about developmentally appropriate data science:</em> _______________
+          </p>
+        </statement>
+      </exercise>
+    </subsection>
+
+    <subsection xml:id="building-confidence">
+      <title>Building Your Confidence</title>
+      
+      <p>
+        As you prepare to dive deeper into grade-specific implementation, remember:
+      </p>
+
+      <insight xml:id="insight-confidence-builders">
+        <title>Confidence Builders</title>
+        <p>
+          <m>\bullet</m> <alert>Start small:</alert> One concept, one lesson, one step at a time
+        </p>
+        <p>
+          <m>\bullet</m> <alert>Embrace learning alongside students:</alert> It's okay not to know everything
+        </p>
+        <p>
+          <m>\bullet</m> <alert>Focus on thinking, not tools:</alert> Data science is about mindset, not software
+        </p>
+        <p>
+          <m>\bullet</m> <alert>Connect to what you know:</alert> Build on your existing strengths
+        </p>
+        <p>
+          <m>\bullet</m> <alert>Remember your why:</alert> You're preparing students for their future
+        </p>
+      </insight>
+    </subsection>
+  </section>
+
+  <section xml:id="chapter-reflection-synthesis">
+    <title>Chapter Reflection and Synthesis</title>
+    
+    <note xml:id="final-reflection">
+      <title>Final Reflection: Your Data Science Teaching Identity</title>
+      <p>
+        Take a few minutes to reflect on your journey through this chapter:
+      </p>
+      <p>
+        1. What was the most surprising thing you learned about data science education?
+      </p>
+      <p>
+        2. How has your understanding of your role as a data science educator evolved?
+      </p>
+      <p>
+        3. What connections do you see between data science and your subject area that you hadn't noticed before?
+      </p>
+      <p>
+        4. What's one specific way you'll apply what you've learned in the next two weeks?
+      </p>
+      <p>
+        5. What support do you need as you continue this journey?
+      </p>
+    </note>
+
+    <p>
+      You're now ready to dive into the specific needs and opportunities of your grade band. The foundation you've built in understanding the overall landscape will serve you well as you get more specific about implementation.
+    </p>
+
+    <p>
+      In your next chapter, you'll explore how these progressions play out specifically in your grade band, with concrete examples, common challenges, and practical strategies for bringing data science thinking to life in your classroom.
+    </p>
+  </section>
+
+  <references xml:id="references-month3">
+    <title>References and Further Reading</title>
+    <biblio type="raw" xml:id="biblio-ds4e">
+      Data Science 4 Everyone. (2024). <em>Data Science Learning Progressions</em>. Retrieved from [URL]
+    </biblio>
+    <biblio type="raw" xml:id="biblio-developmental">
+      National Research Council. (2012). <em>A Framework for K-12 Science Education: Practices, Crosscutting Concepts, and Core Ideas</em>. Washington, DC: The National Academies Press.
+    </biblio>
+  </references>
 </chapter>
