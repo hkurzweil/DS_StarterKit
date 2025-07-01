@@ -30,6 +30,7 @@
     <xi:include href="./ch-k2-subjectintegration.ptx" />
     <xi:include href="./ch-k2-classroomtoolkit.ptx" />
     <xi:include href="./ch-k2-assessmenttools.ptx" />
+    <xi:include href="./ch-k2-tyingitalltogether.ptx" />
     </part>
 
     <part xml:id="part-3through5">
@@ -38,6 +39,7 @@
     <xi:include href="./ch-35-subjectintegration.ptx" />
     <xi:include href="./ch-35-classroomtoolkit.ptx" />
     <xi:include href="./ch-35-assessmenttools.ptx" />
+    <xi:include href="./ch-35-tyingitalltogether.ptx" />
     </part>
 
     <part xml:id="part-6through8">
@@ -46,6 +48,7 @@
     <xi:include href="./ch-middleschool-subjectintegration.ptx" />
     <xi:include href="./ch-middleschool-classroomtoolkit.ptx" />
     <xi:include href="./ch-middleschool-assessmenttools.ptx" />
+    <xi:include href="./ch-middleschool-tyingitalltogether.ptx" />
     </part>
 
     <part xml:id="part-9through10">
@@ -54,6 +57,7 @@
     <xi:include href="./ch-lowerhs-subjectintegration.ptx" />
     <xi:include href="./ch-lowerhs-classroomtoolkit.ptx" />
     <xi:include href="./ch-lowerhs-assessmenttools.ptx" />
+    <xi:include href="./ch-lowerhs-tyingitalltogether.ptx" />
     </part>
 
     <part xml:id="part-11through12">
@@ -61,6 +65,8 @@
     <xi:include href="./ch-upperhs-datasciencedna.ptx" />
     <xi:include href="./ch-upperhs-subjectintegration.ptx" />
     <xi:include href="./ch-upperhs-classroomtoolkit.ptx" />
+    <xi:include href="./ch-upperhs-assessmenttools.ptx" />
+    <xi:include href="./ch-upperhs-tyingitalltogether.ptx" />
     </part>
   
    <!-- Include backmatter -->

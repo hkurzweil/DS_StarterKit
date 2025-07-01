@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="grades-11-12-assessment-growth" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Grades 11-12 Assessment &amp; Growth Monitoring: Evaluating Engaged Data Citizens</title>
+  
+  <introduction>
+    <p>
+      Assessment in grades 11-12 focuses on evaluating students' readiness to be engaged citizens and successful professionals who can apply data science skills to real-world challenges. Your role is to assess civic engagement, critical evaluation skills, and professional preparation while maintaining the high technical standards established in grades 9-10.
+    </p>
+    
+    <p>
+      This chapter provides assessment frameworks that balance traditional academic rigor with authentic evaluation of civic readiness, social impact, and professional preparation. Focus on assessing students' ability to use data science for community good while preparing them for college and career success.
+    </p>
+    
+    <p>
+      <alert>Assessment Priorities for Grades 11-12</alert>
+    </p>
+    <p>Focus your assessment attention on these key areas:</p>
+    <p>
+      <m>\bullet</m> Critical evaluation of data-driven claims in media, policy, and public discourse
+    </p>
+    <p>
+      <m>\bullet</m> Application of data science to address community problems and social issues
+    </p>
+    <p>
+      <m>\bullet</m> Ethical reasoning and responsible use of data in civic contexts
+    </p>
+    <p>
+      <m>\bullet</m> Professional communication to diverse community and policy audiences
+    </p>
+    <p>
+      <m>\bullet</m> College and career preparation with practical application skills
+    </p>
+    <p>
+      <m>\bullet</m> Innovation and entrepreneurship for social impact
+    </p>
+    <p>
+      <m>\bullet</m> Democratic participation and civic engagement through data science
+    </p>
+  </introduction>
+
+  <section xml:id="grades-11-12-formative-assessment">
+    <title>Civic Engagement and Critical Thinking Assessment</title>
+    
+    <introduction>
+      <p>
+        Formative assessment in the senior year emphasizes real-world application and civic engagement. Use approaches that assess critical thinking about data in society while building democratic participation skills.
+      </p>
+    </introduction>
+
+    <subsection xml:id="grades-11-12-media-literacy">
+      <title>Data Media Literacy Assessment</title>
+      
+      <p>
+        Assess students' ability to critically evaluate data-driven claims in news, social media, and policy discussions.
+      </p>
+
+      <example xml:id="example-weekly-media-analysis-11-12">
+        <title>Weekly Media Analysis and Fact-Checking Assessment</title>
+        <p>
+          <alert>Assessment Structure:</alert>
+        </p>
+        <p>
+          <alert>Current Events Analysis (15-20 minutes):</alert>
+        </p>
+        <p>
+          • Students select a current news article containing data-driven claims
+        </p>
+        <p>
+          • Identify the data sources, methodology, and potential limitations
+        </p>
+        <p>
+          • Evaluate the appropriateness of conclusions drawn from the data
+        </p>
+        <p>
+          • Research additional perspectives or contradictory evidence
+        </p>
+        <p>
+          <alert>Assessment Criteria:</alert>
+        </p>
+        <p>
+          <alert>Source Evaluation (A.2.2, E.3.1):</alert>
+        </p>
+        <p>
+          • Identifies original data sources and assesses credibility
+        </p>
+        <p>
+          • Recognizes potential conflicts of interest or bias
+        </p>
+        <p>
+          • Evaluates sample size, methodology, and data collection quality
+        </p>
+        <p>
+          • Considers what voices or perspectives might be missing
+        </p>
+        <p>
+          <alert>Critical Analysis (D.1.6, D.3.4):</alert>
+        </p>
+        <p>
+          • Distinguishes between correlation and causation appropriately
+        </p>
+        <p>
+          • Identifies statistical manipulation or misleading presentation
+        </p>
+        <p>
+          • Recognizes overgeneralization from limited data
+        </p>
+        <p>
+          • Questions assumptions underlying data interpretation
+        </p>
+        <p>
+          <alert>Alternative Perspectives (D.2.2):</alert>
+        </p>
+        <p>
+          • Seeks out additional data sources or studies
+        </p>
+        <p>
+          • Considers multiple explanations for observed patterns
+        </p>
+        <p>
+          • Identifies gaps in available evidence
+        </p>
+        <p>
+          • Suggests more robust approaches to investigating the question
+        </p>
+        <p>
+          <alert>Public Communication:</alert>
+        </p>
+        <p>
+          • Creates accessible summary for general audiences
+        </p>
+        <p>
+          • Explains statistical concepts without jargon
+        </p>
+        <p>
+          • Communicates uncertainty and limitations appropriately
+        </p>
+        <p>
+          • Provides actionable guidance for citizens
+        </p>
+      </example>
+
+      <activity xml:id="activity-misinformation-response-11-12">
+        <title>Misinformation Response and Counter-Narrative Development</title>
+        <statement>
+          <p>
+            <alert>Scenario-Based Assessment:</alert>
+          </p>
+          <p>
+            • Present students with examples of data misinformation from social media or news
+          </p>
+          <p>
+            • Challenge them to develop evidence-based counter-narratives
+          </p>
+          <p>
+            • Assess their ability to communicate corrections effectively and respectfully
+          </p>
+          <p>
+            • Evaluate their understanding of why misinformation spreads and how to combat it
+          </p>
+          <p>
+            <alert>Response Strategy Development:</alert>
+          </p>
+          <p>
+            • How to engage constructively with people who share misinformation
+          </p>
+          <p>
+            • Techniques for presenting alternative evidence without creating defensiveness
+          </p>
+          <p>
+            • Understanding of psychological factors that make people resistant to correction
+          </p>
+          <p>
+            • Development of positive, solution-oriented messaging
+          </p>
+          <p>
+            <alert>Assessment Focus:</alert>
+          </p>
+          <p>
+            • Quality of evidence evaluation and fact-checking process
+          </p>
+          <p>
+            • Effectiveness of communication strategy for different audiences
+          </p>
+          <p>
+            • Understanding of social and psychological dynamics of misinformation
+          </p>
+          <p>
+            • Demonstration of respectful, constructive civic engagement
+          </p>
+        </statement>
+      </activity>
+
+      <insight xml:id="insight-civic-media-literacy-11-12">
+        <title>Essential Civic Media Literacy Skills</title>
+        <p>
+          <alert>Source verification:</alert> Ability to trace claims back to original research and assess quality
+        </p>
+        <p>
+          <alert>Bias recognition:</alert> Understanding how political, economic, and social biases affect data presentation
+        </p>
+        <p>
+          <alert>Statistical manipulation detection:</alert> Recognition of common ways statistics can mislead
+        </p>
+        <p>
+          <alert>Context consideration:</alert> Understanding how social and political context affects data interpretation
+        </p>
+        <p>
+          <alert>Constructive response:</alert> Ability to address misinformation without creating conflict or defensiveness
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="grades-11-12-policy-analysis">
+      <title>Policy Impact Assessment Skills</title>
+      
+      <p>
+        Evaluate students' ability to analyze policy proposals and decisions using data science principles and civic engagement skills.
+      </p>
+
+      <example xml:id="example-policy-analysis-project-11-12">
+        <title>Policy Analysis and Civic Engagement Project</title>
+        <p>
+          <alert>Project Structure (3-4 weeks):</alert>
+        </p>
+        <p>
+          <alert>Policy Selection and Research:</alert>
+        </p>
+        <p>
+          • Students choose a current local, state, or federal policy issue
+        </p>
+        <p>
+          • Research existing data and studies related to the policy
+        </p>
+        <p>
+          • Identify stakeholders and different perspectives on the issue
+        </p>
+        <p>
+          • Understand the political and social context surrounding the policy
+        </p>
+        <p>
+          <alert>Data Investigation and Analysis:</alert>
+        </p>
+        <p>
+          • Collect and analyze relevant data using appropriate methods
+        </p>
+        <p>
+          • Evaluate the quality and limitations of available evidence
+        </p>
+        <p>
+          • Consider differential impacts on various demographic groups
+        </p>
+        <p>
+          • Identify gaps where additional data would be valuable
+        </p>
+        <p>
+          <alert>Civic Engagement and Communication:</alert>
+        </p>
+        <p>
+          • Present findings to relevant policymakers or community groups
+        </p>
+        <p>
+          • Participate in public comment periods or community forums
+        </p>
+        <p>
+          • Create accessible materials for community education
+        </p>
+        <p>
+          • Engage in respectful dialogue with those holding different views
+        </p>
+        <p>
+          <alert>Assessment Components:</alert>
+        </p>
+        <p>
+          <alert>Technical Analysis Quality:</alert>
+        </p>
+        <p>
+          • Appropriate data collection and analysis methods
+        </p>
+        <p>
+          • Accurate interpretation of statistical results
+        </p>
+        <p>
+          • Recognition of limitations and uncertainty
+        </p>
+        <p>
+          • Integration of multiple data sources and perspectives
+        </p>
+        <p>
+          <alert>Civic Engagement Effectiveness:</alert>
+        </p>
+        <p>
+          • Quality of public presentations and community engagement
+        </p>
+        <p>
+          • Ability to communicate complex findings to non-expert audiences
+        </p>
+        <p>
+          • Respectful interaction with diverse stakeholders
+        </p>
+        <p>
+          • Evidence of impact on community understanding or policy discussion
+        </p>
+        <p>
+          <alert>Critical Thinking and Ethics:</alert>
+        </p>
+        <p>
+          • Consideration of ethical implications of policy options
+        </p>
+        <p>
+          • Understanding of how different groups might be affected
+        </p>
+        <p>
+          • Recognition of value judgments underlying policy choices
+        </p>
+        <p>
+          • Acknowledgment of complexity and trade-offs in policy decisions
+        </p>
+      </example>
+
+      <activity xml:id="activity-advocacy-campaign-assessment-11-12">
+        <title>Data-Driven Advocacy Campaign Assessment</title>
+        <statement>
+          <p>
+            <alert>Campaign Development Process:</alert>
+          </p>
+          <p>
+            • Students identify a community issue they care about
+          </p>
+          <p>
+            • Research existing data and identify additional data needs
+          </p>
+          <p>
+            • Develop evidence-based arguments for their position
+          </p>
+          <p>
+            • Create a strategic campaign plan with multiple communication approaches
+          </p>
+          <p>
+            <alert>Campaign Implementation:</alert>
+          </p>
+          <p>
+            • Social media campaigns using data visualizations and accessible explanations
+          </p>
+          <p>
+            • Presentations to school board, city council, or other relevant bodies
+          </p>
+          <p>
+            • Community education events or workshops
+          </p>
+          <p>
+            • Collaboration with existing advocacy organizations
+          </p>
+          <p>
+            <alert>Assessment Criteria:</alert>
+          </p>
+          <p>
+            • Quality and appropriateness of data analysis supporting campaign
+          </p>
+          <p>
+            • Effectiveness of communication strategies for different audiences
+          </p>
+          <p>
+            • Evidence of community engagement and dialogue
+          </p>
+          <p>
+            • Demonstration of respectful, constructive advocacy approaches
+          </p>
+          <p>
+            • Reflection on campaign outcomes and lessons learned
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="grades-11-12-social-justice">
+      <title>Social Justice and Equity Analysis Assessment</title>
+      
+      <p>
+        Assess students' ability to use data science to identify and address issues of equity and social justice in their communities.
+      </p>
+
+      <example xml:id="example-equity-audit-assessment-11-12">
+        <title>Community Equity Audit and Action Plan</title>
+        <p>
+          <alert>Assessment Project Structure:</alert>
+        </p>
+        <p>
+          <alert>Issue Identification and Research:</alert>
+        </p>
+        <p>
+          • Students investigate potential equity issues in their community
+        </p>
+        <p>
+          • Research historical context and systemic factors
+        </p>
+        <p>
+          • Identify relevant data sources and collection methods
+        </p>
+        <p>
+          • Connect with affected community members and advocacy groups
+        </p>
+        <p>
+          <alert>Data Analysis and Interpretation:</alert>
+        </p>
+        <p>
+          • Analyze data disaggregated by relevant demographic characteristics
+        </p>
+        <p>
+          • Identify patterns of disparity or unequal outcomes
+        </p>
+        <p>
+          • Consider multiple potential explanations for observed differences
+        </p>
+        <p>
+          • Evaluate the role of systemic and structural factors
+        </p>
+        <p>
+          <alert>Community Engagement and Solutions:</alert>
+        </p>
+        <p>
+          • Present findings to affected communities for feedback and validation
+        </p>
+        <p>
+          • Collaborate with community organizations on solution development
+        </p>
+        <p>
+          • Propose evidence-based interventions or policy changes
+        </p>
+        <p>
+          • Consider implementation challenges and sustainability
+        </p>
+        <p>
+          <alert>Assessment Focus:</alert>
+        </p>
+        <p>
+          <alert>Analytical Rigor (A.2.2, D.3.6):</alert>
+        </p>
+        <p>
+          • Appropriate use of disaggregated data and intersectional analysis
+        </p>
+        <p>
+          • Recognition of confounding variables and alternative explanations
+        </p>
+        <p>
+          • Understanding of statistical vs. practical significance
+        </p>
+        <p>
+          • Appropriate caution in causal inference
+        </p>
+        <p>
+          <alert>Social Justice Understanding (A.2.3, E.3.2):</alert>
+        </p>
+        <p>
+          • Understanding of historical and systemic factors affecting equity
+        </p>
+        <p>
+          • Recognition of how data collection and analysis can perpetuate bias
+        </p>
+        <p>
+          • Consideration of power dynamics and representation issues
+        </p>
+        <p>
+          • Awareness of their own positionality and potential blind spots
+        </p>
+        <p>
+          <alert>Community Engagement (E.3.3):</alert>
+        </p>
+        <p>
+          • Meaningful involvement of affected communities in research process
+        </p>
+        <p>
+          • Respectful and culturally responsive approach to community interaction
+        </p>
+        <p>
+          • Recognition of community expertise and lived experience
+        </p>
+        <p>
+          • Commitment to community benefit and empowerment
+        </p>
+      </example>
+
+      <activity xml:id="activity-algorithmic-bias-investigation-11-12">
+        <title>Algorithmic Bias Investigation and Advocacy</title>
+        <statement>
+          <p>
+            <alert>Investigation Process:</alert>
+          </p>
+          <p>
+            • Students research algorithmic systems that affect their community
+          </p>
+          <p>
+            • Investigate evidence of biased outcomes or discriminatory impacts
+          </p>
+          <p>
+            • Analyze the data and processes underlying algorithmic decision-making
+          </p>
+          <p>
+            • Research legal and policy frameworks for addressing algorithmic bias
+          </p>
+          <p>
+            <alert>Community Impact Assessment:</alert>
+          </p>
+          <p>
+            • Interview community members affected by algorithmic systems
+          </p>
+          <p>
+            • Document differential impacts on various demographic groups
+          </p>
+          <p>
+            • Research advocacy efforts and policy responses to similar issues
+          </p>
+          <p>
+            • Assess effectiveness of different approaches to addressing bias
+          </p>
+          <p>
+            <alert>Action and Advocacy:</alert>
+          </p>
+          <p>
+            • Develop recommendations for improving algorithmic fairness
+          </p>
+          <p>
+            • Present findings to relevant organizations or government agencies
+          </p>
+          <p>
+            • Create educational materials for community members
+          </p>
+          <p>
+            • Collaborate with existing advocacy organizations on policy change
+          </p>
+          <p>
+            <alert>Assessment Components:</alert>
+          </p>
+          <p>
+            • Technical understanding of algorithmic bias and measurement
+          </p>
+          <p>
+            • Quality of community engagement and impact documentation
+          </p>
+          <p>
+            • Effectiveness of advocacy strategies and communication
+          </p>
+          <p>
+            • Understanding of policy and legal frameworks for addressing bias
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+  </section>
+
+  <section xml:id="grades-11-12-self-assessment">
+    <title>Civic Readiness and Professional Self-Assessment</title>
+    
+    <introduction>
+      <p>
+        Senior year self-assessment focuses on students' readiness to be engaged citizens and successful professionals. Help students develop sophisticated understanding of their civic responsibilities and professional capabilities.
+      </p>
+    </introduction>
+
+    <subsection xml:id="grades-11-12-civic-reflection">
+      <title>Civic Engagement and Democratic Participation Reflection</title>
+      
+      <p>
+        Assess students' understanding of their roles and responsibilities as data-literate citizens in a democratic society.
+      </p>
+
+      <example xml:id="example-civic-portfolio-reflection-11-12">
+        <title>Civic Engagement Portfolio and Reflection</title>
+        <p>
+          <alert>Portfolio Components:</alert>
+        </p>
+        <p>
+          <alert>Democratic Participation Documentation:</alert>
+        </p>
+        <p>
+          • Evidence of engagement in democratic processes (voting, public comment, advocacy)
+        </p>
+        <p>
+          • Examples of using data science to inform civic decisions
+        </p>
+        <p>
+          • Documentation of community education or awareness efforts
+        </p>
+        <p>
+          • Collaboration with community organizations or government agencies
+        </p>
+        <p>
+          <alert>Critical Thinking Development:</alert>
+        </p>
+        <p>
+          • Examples of fact-checking and misinformation response
+        </p>
+        <p>
+          • Analysis of media representations of data and statistics
+        </p>
+        <p>
+          • Evaluation of policy proposals using data science principles
+        </p>
+        <p>
+          • Evidence of considering multiple perspectives on complex issues
+        </p>
+        <p>
+          <alert>Social Impact Projects:</alert>
+        </p>
+        <p>
+          • Community-based research addressing local problems
+        </p>
+        <p>
+          • Advocacy campaigns or awareness efforts using data
+        </p>
+        <p>
+          • Collaboration with organizations working on social justice issues
+        </p>
+        <p>
+          • Evidence of positive impact on community understanding or policy
+        </p>
+        <p>
+          <alert>Reflection Questions:</alert>
+        </p>
+        <p>
+          • "How has learning data science changed my understanding of civic responsibility?"
+        </p>
+        <p>
+          • "What role do I see myself playing in democratic processes after graduation?"
+        </p>
+        <p>
+          • "How will I continue to use data science skills to benefit my community?"
+        </p>
+        <p>
+          • "What ethical principles will guide my use of data throughout my life?"
+        </p>
+        <p>
+          • "How can I help others become more data literate and civically engaged?"
+        </p>
+      </example>
+
+      <activity xml:id="activity-civic-leadership-assessment-11-12">
+        <title>Civic Leadership and Mentorship Assessment</title>
+        <statement>
+          <p>
+            <alert>Leadership Role Development:</alert>
+          </p>
+          <p>
+            • Students take leadership roles in community projects or school initiatives
+          </p>
+          <p>
+            • Mentor younger students in data science and civic engagement
+          </p>
+          <p>
+            • Organize or participate in community education events
+          </p>
+          <p>
+            • Collaborate with adult community leaders on data-related projects
+          </p>
+          <p>
+            <alert>Assessment Criteria:</alert>
+          </p>
+          <p>
+            • Effectiveness in motivating and supporting others
+          </p>
+          <p>
+            • Quality of mentorship and teaching to younger students
+          </p>
+          <p>
+            • Success in building collaborative relationships across age groups
+          </p>
+          <p>
+            • Evidence of positive impact on community knowledge or engagement
+          </p>
+          <p>
+            <alert>Reflection and Growth:</alert>
+          </p>
+          <p>
+            • Understanding of different leadership styles and approaches
+          </p>
+          <p>
+            • Recognition of areas for continued leadership development
+          </p>
+          <p>
+            • Plans for continued civic engagement after graduation
+          </p>
+          <p>
+            • Vision for using data science skills in future leadership roles
+          </p>
+        </statement>
+      </activity>
+
+      <insight xml:id="insight-civic-readiness-indicators-11-12">
+        <title>Civic Readiness Assessment Indicators</title>
+        <p>
+          <alert>Critical evaluation skills:</alert> Ability to assess data-driven claims in media and policy with appropriate skepticism
+        </p>
+        <p>
+          <alert>Democratic participation:</alert> Understanding of how to engage constructively in democratic processes
+        </p>
+        <p>
+          <alert>Community connection:</alert> Relationships with community organizations and commitment to ongoing engagement
+        </p>
+        <p>
+          <alert>Ethical reasoning:</alert> Sophisticated understanding of responsible data use and social implications
+        </p>
+        <p>
+          <alert>Communication skills:</alert> Ability to explain complex concepts to diverse audiences and facilitate dialogue
+        </p>
+        <p>
+          <alert>Leadership capacity:</alert> Experience mentoring others and leading collaborative projects
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="grades-11-12-career-readiness">
+      <title>Professional Readiness and Career Planning Assessment</title>
+      
+      <p>
+        Evaluate students' preparation for college and career success while maintaining focus on applying data science for social good.
+      </p>
+
+      <example xml:id="example-professional-readiness-portfolio-11-12">
+        <title>Professional Readiness Assessment Portfolio</title>
+        <p>
+          <alert>Portfolio Structure:</alert>
+        </p>
+        <p>
+          <alert>Technical Competency Documentation:</alert>
+        </p>
+        <p>
+          • Advanced data analysis projects demonstrating professional-level skills
+        </p>
+        <p>
+          • Evidence of learning new technical skills independently
+        </p>
+        <p>
+          • Examples of troubleshooting complex technical problems
+        </p>
+        <p>
+          • Portfolio of visualization and communication work
+        </p>
+        <p>
+          <alert>Professional Experience Integration:</alert>
+        </p>
+        <p>
+          • Internship or work experience documentation and reflection
+        </p>
+        <p>
+          • Professional networking and relationship building evidence
+        </p>
+        <p>
+          • Industry conference attendance or presentation experience
+        </p>
+        <p>
+          • Collaboration with professional mentors on real projects
+        </p>
+        <p>
+          <alert>College Preparation Evidence:</alert>
+        </p>
+        <p>
+          • Research experience and potential for undergraduate research participation
+        </p>
+        <p>
+          • College application materials showcasing data science experience
+        </p>
+        <p>
+          • Scholarship applications highlighting civic engagement and professional potential
+        </p>
+        <p>
+          • Letters of recommendation from community partners and professional mentors
+        </p>
+        <p>
+          <alert>Innovation and Entrepreneurship:</alert>
+        </p>
+        <p>
+          • Examples of creative problem-solving using data science
+        </p>
+        <p>
+          • Business plan or social enterprise development using data
+        </p>
+        <p>
+          • Innovation competition participation or recognition
+        </p>
+        <p>
+          • Evidence of identifying and pursuing new opportunities
+        </p>
+        <p>
+          <alert>Self-Assessment Questions:</alert>
+        </p>
+        <p>
+          • "What are my strongest data science skills and how do they prepare me for my chosen career path?"
+        </p>
+        <p>
+          • "How do I plan to continue developing data science skills in college and beyond?"
+        </p>
+        <p>
+          • "What kind of impact do I want to have through my career, and how will data science help me achieve it?"
+        </p>
+        <p>
+          • "What professional networks and relationships will support my continued growth?"
+        </p>
+        <p>
+          • "How will I balance technical excellence with ethical responsibility in my future work?"
+        </p>
+      </example>
+
+      <activity xml:id="activity-career-pathway-planning-11-12">
+        <title>Data Science Career Pathway Planning and Assessment</title>
+        <statement>
+          <p>
+            <alert>Career Exploration Process:</alert>
+          </p>
+          <p>
+            • Research multiple career pathways that integrate data science with student interests
+          </p>
+          <p>
+            • Conduct informational interviews with professionals in target fields
+          </p>
+          <p>
+            • Analyze job market trends and skill requirements for chosen pathways
+          </p>
+          <p>
+            • Develop 5-year and 10-year professional development plans
+          </p>
+          <p>
+            <alert>Skill Gap Analysis:</alert>
+          </p>
+          <p>
+            • Compare current skills with requirements for target careers
+          </p>
+          <p>
+            • Identify areas for continued development in college and early career
+          </p>
+          <p>
+            • Plan specific learning experiences and skill-building opportunities
+          </p>
+          <p>
+            • Understand the role of continued learning throughout career
+          </p>
+          <p>
+            <alert>Professional Preparation:</alert>
+          </p>
+          <p>
+            • Develop professional resume, LinkedIn profile, and portfolio
+          </p>
+          <p>
+            • Practice interview skills and professional communication
+          </p>
+          <p>
+            • Build network of professional contacts and mentors
+          </p>
+          <p>
+            • Understand workplace culture and professional expectations
+          </p>
+          <p>
+            <alert>Assessment Focus:</alert>
+          </p>
+          <p>
+            • Realistic understanding of career pathways and requirements
+          </p>
+          <p>
+            • Quality of professional development planning and goal setting
+          </p>
+          <p>
+            • Evidence of network building and professional relationship development
+          </p>
+          <p>
+            • Integration of civic engagement with professional aspirations
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="grades-11-12-innovation-assessment">
+      <title>Innovation and Entrepreneurship Assessment</title>
+      
+      <p>
+        Evaluate students' ability to identify opportunities for innovation and develop data-driven solutions to social and business challenges.
+      </p>
+
+      <example xml:id="example-social-innovation-project-11-12">
+        <title>Social Innovation and Impact Assessment</title>
+        <p>
+          <alert>Innovation Project Components:</alert>
+        </p>
+        <p>
+          <alert>Problem Identification and Research:</alert>
+        </p>
+        <p>
+          • Students identify a social problem they want to address using data science
+        </p>
+        <p>
+          • Research existing approaches and identify gaps or opportunities for improvement
+        </p>
+        <p>
+          • Analyze the root causes and systemic factors contributing to the problem
+        </p>
+        <p>
+          • Interview stakeholders and potential users to understand needs and constraints
+        </p>
+        <p>
+          <alert>Solution Development and Testing:</alert>
+        </p>
+        <p>
+          • Design a data-driven solution or intervention addressing the identified problem
+        </p>
+        <p>
+          • Develop a prototype or pilot program to test the solution
+        </p>
+        <p>
+          • Collect and analyze data on the effectiveness of the intervention
+        </p>
+        <p>
+          • Iterate and improve the solution based on testing results and user feedback
+        </p>
+        <p>
+          <alert>Impact Assessment and Sustainability:</alert>
+        </p>
+        <p>
+          • Measure and document the social impact of the innovation
+        </p>
+        <p>
+          • Develop a plan for scaling or sustaining the solution beyond the project
+        </p>
+        <p>
+          • Consider ethical implications and potential unintended consequences
+        </p>
+        <p>
+          • Explore partnerships or funding opportunities for continued development
+        </p>
+        <p>
+          <alert>Assessment Criteria:</alert>
+        </p>
+        <p>
+          <alert>Innovation Quality:</alert>
+        </p>
+        <p>
+          • Creativity and originality of approach to addressing the problem
+        </p>
+        <p>
+          • Appropriate use of data science methods and technologies
+        </p>
+        <p>
+          • Evidence of user-centered design and stakeholder engagement
+        </p>
+        <p>
+          • Feasibility and potential for real-world implementation
+        </p>
+        <p>
+          <alert>Social Impact:</alert>
+        </p>
+        <p>
+          • Clear articulation of problem and its significance to affected communities
+        </p>
+        <p>
+          • Evidence of positive impact on target problem or population
+        </p>
+        <p>
+          • Consideration of equity and accessibility in solution design
+        </p>
+        <p>
+          • Understanding of broader systemic factors and long-term sustainability
+        </p>
+        <p>
+          <alert>Professional Development:</alert>
+        </p>
+        <p>
+          • Quality of project management and execution
+        </p>
+        <p>
+          • Ability to work with diverse partners and stakeholders
+        </p>
+        <p>
+          • Communication of complex ideas to various audiences
+        </p>
+        <p>
+          • Reflection on learning and future development opportunities
+        </p>
+      </example>
+
+      <activity xml:id="activity-entrepreneurship-pitch-competition-11-12">
+        <title>Data Science Entrepreneurship Pitch Assessment</title>
+        <statement>
+          <p>
+            <alert>Competition Structure:</alert>
+          </p>
+          <p>
+            • Students develop business plans for data-driven ventures addressing social issues
+          </p>
+          <p>
+            • Present their ideas to panels of entrepreneurs, investors, and community leaders
+          </p>
+          <p>
+            • Receive feedback on both business viability and social impact potential
+          </p>
+          <p>
+            • Compete for seed funding or mentorship opportunities to develop ideas further
+          </p>
+          <p>
+            <alert>Pitch Components:</alert>
+          </p>
+          <p>
+            • Problem definition and market analysis using data
+          </p>
+          <p>
+            • Solution description and technical implementation plan
+          </p>
+          <p>
+            • Business model and sustainability strategy
+          </p>
+          <p>
+            • Social impact measurement and evaluation plan
+          </p>
+          <p>
+            • Team composition and development strategy
+          </p>
+          <p>
+            <alert>Assessment Criteria:</alert>
+          </p>
+          <p>
+            • Quality of problem analysis and market research
+          </p>
+          <p>
+            • Technical feasibility and innovation of proposed solution
+          </p>
+          <p>
+            • Business model viability and sustainability planning
+          </p>
+          <p>
+            • Potential for social impact and community benefit
+          </p>
+          <p>
+            • Quality of presentation and response to questions
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+  </section>
+
+  <section xml:id="grades-11-12-portfolio-development">
+    <title>Comprehensive Transition Portfolio Development</title>
+    
+    <introduction>
+      <p>
+        Senior year portfolios should demonstrate readiness for college success and adult civic responsibility while showcasing the full range of data science learning and application.
+      </p>
+    </introduction>
+
+    <subsection xml:id="grades-11-12-capstone-portfolio">
+      <title>Senior Capstone Portfolio Assessment</title>
+      
+      <p>
+        Create comprehensive portfolios that demonstrate mastery of data science concepts and readiness for adult civic and professional responsibilities.
+      </p>
+
+      <example xml:id="example-capstone-portfolio-structure-11-12">
+        <title>Senior Capstone Portfolio Structure and Assessment</title>
+        <p>
+          <alert>Portfolio Organization:</alert>
+        </p>
+        <p>
+          <alert>Civic Engagement Showcase:</alert>
+        </p>
+        <p>
+          • Documentation of community-based research and impact projects
+        </p>
+        <p>
+          • Evidence of democratic participation and civic leadership
+        </p>
+        <p>
+          • Examples of critical evaluation of media and policy claims
+        </p>
+        <p>
+          • Collaboration with community organizations and government agencies
+        </p>
+        <p>
+          <alert>Professional Competency Evidence:</alert>
+        </p>
+        <p>
+          • Advanced technical projects demonstrating data science mastery
+        </p>
+        <p>
+          • Professional experience through internships or work programs
+        </p>
+        <p>
+          • Industry collaboration and networking documentation
+        </p>
+        <p>
+          • Innovation and entrepreneurship project outcomes
+        </p>
+        <p>
+          <alert>Academic Achievement Documentation:</alert>
+        </p>
+        <p>
+          • Research projects meeting college-level academic standards
+        </p>
+        <p>
+          • Publication or presentation experience and recognition
+        </p>
+        <p>
+          • Academic coursework and achievement documentation
+        </p>
+        <p>
+          • College application materials and acceptance outcomes
+        </p>
+        <p>
+          <alert>Personal Growth and Vision:</alert>
+        </p>
+        <p>
+          • Reflection on learning journey and personal development
+        </p>
+        <p>
+          • Ethical framework and commitment to responsible data use
+        </p>
+        <p>
+          • Vision for continued learning and community contribution
+        </p>
+        <p>
+          • Plans for integrating data science with life and career goals
+        </p>
+        <p>
+          <alert>Assessment Rubric:</alert>
+        </p>
+        <p>
+          <alert>Civic Readiness (25%):</alert>
+        </p>
+        <p>
+          • Evidence of understanding democratic processes and civic responsibility
+        </p>
+        <p>
+          • Quality of community engagement and social impact projects
+        </p>
+        <p>
+          • Demonstration of critical thinking about data in society
+        </p>
+        <p>
+          • Commitment to continued civic participation
+        </p>
+        <p>
+          <alert>Professional Preparation (25%):</alert>
+        </p>
+        <p>
+          • Technical competency and professional skill development
+        </p>
+        <p>
+          • Industry experience and professional network building
+        </p>
+        <p>
+          • Innovation and entrepreneurship capability
+        </p>
+        <p>
+          • Readiness for college and career success</p>
+        <p>
+          <alert>Academic Excellence (25%):</alert>
+        </p>
+        <p>
+          • Quality of research and analytical work
+        </p>
+        <p>
+          • Communication and presentation skills
+        </p>
+        <p>
+          • Intellectual curiosity and continued learning orientation
+        </p>
+        <p>
+          • Recognition and achievement in academic or professional contexts
+        </p>
+        <p>
+          <alert>Personal Development (25%):</alert>
+        </p>
+        <p>
+          • Ethical reasoning and commitment to responsible practice
+        </p>
+        <p>
+          • Self-awareness and reflection on growth and learning
+        </p>
+        <p>
+          • Leadership and mentorship of others
+        </p>
+        <p>
+          • Integration of data science with personal values and life goals
+        </p>
+      </example>
+
+      <activity xml:id="activity-portfolio-defense-presentation-11-12">
+        <title>Portfolio Defense and Transition Presentation</title>
+        <statement>
+          <p>
+            <alert>Defense Structure (45-60 minutes):</alert>
+          </p>
+          <p>
+            <alert>Portfolio Presentation (20-25 minutes):</alert>
+          </p>
+          <p>
+            • Student presents highlights from their capstone portfolio
+          </p>
+          <p>
+            • Focus on growth, impact, and preparation for future challenges
+          </p>
+          <p>
+            • Include examples of civic engagement and professional development
+          </p>
+          <p>
+            • Demonstrate communication skills appropriate for diverse audiences
+          </p>
+          <p>
+            <alert>Question and Discussion Period (15-20 minutes):</alert>
+          </p>
+          <p>
+            • Panel of teachers, community members, and professionals ask questions
+          </p>
+          <p>
+            • Focus on understanding of civic responsibility and professional ethics
+          </p>
+          <p>
+            • Assessment of critical thinking and problem-solving capabilities
+          </p>
+          <p>
+            • Discussion of future plans and continued learning goals
+          </p>
+          <p>
+            <alert>Reflection and Goal Setting (10-15 minutes):</alert>
+          </p>
+          <p>
+            • Student reflects on their learning journey and achievements
+          </p>
+          <p>
+            • Discussion of lessons learned and areas for continued growth
+          </p>
+          <p>
+            • Goal setting for college and early career success
+          </p>
+          <p>
+            • Commitment to continued civic engagement and community contribution
+          </p>
+          <p>
+            <alert>Assessment Panel Composition:</alert>
+          </p>
+          <p>
+            • High school data science teachers
+          </p>
+          <p>
+            • Community partners and civic leaders
+          </p>
+          <p>
+            • College faculty or admissions representatives
+          </p>
+          <p>
+            • Industry professionals and potential employers
+          </p>
+          <p>
+            • Alumni of the program now in college or careers
+          </p>
+        </statement>
+      </activity>
+
+      <insight xml:id="insight-authentic-assessment-audiences-11-12">
+        <title>Creating Authentic Assessment Experiences</title>
+        <p>
+          <alert>Community stakeholders:</alert> Include people who can benefit from or be affected by students' work
+        </p>
+        <p>
+          <alert>Professional practitioners:</alert> Invite data scientists, analysts, and researchers to evaluate technical work
+        </p>
+        <p>
+          <alert>College representatives:</alert> Include admissions counselors or faculty who can assess college readiness
+        </p>
+        <p>
+          <alert>Peer evaluators:</alert> Include younger students who can learn from senior presentations
+        </p>
+        <p>
+          <alert>Family and community:</alert> Celebrate achievements with those who have supported student growth
+        </p>
+      </insight>
+    </subsection>
+
+    <subsection xml:id="grades-11-12-college-application">
+      <title>College Application Portfolio Excellence</title>
+      
+      <p>
+        Support students in creating compelling college application materials that showcase their data science expertise and civic engagement.
+      </p>
+
+      <example xml:id="example-college-application-support-11-12">
+        <title>Strategic College Application Portfolio Development</title>
+        <p>
+          <alert>Application Strategy Development:</alert>
+        </p>
+        <p>
+          <alert>Program Research and Selection:</alert>
+        </p>
+        <p>
+          • Research college programs that value civic engagement and social impact
+        </p>
+        <p>
+          • Identify programs with strong data science, statistics, or related offerings
+        </p>
+        <p>
+          • Understand admission requirements and selection criteria for target schools
+        </p>
+        <p>
+          • Consider fit with student values, learning style, and career goals
+        </p>
+        <p>
+          <alert>Personal Statement Development:</alert>
+        </p>
+        <p>
+          • Craft compelling narratives connecting data science learning to life goals
+        </p>
+        <p>
+          • Highlight unique perspectives and experiences gained through civic engagement
+        </p>
+        <p>
+          • Demonstrate intellectual curiosity and commitment to social impact
+        </p>
+        <p>
+          • Show understanding of how college education will support continued growth
+        </p>
+        <p>
+          <alert>Supplemental Materials Preparation:</alert>
+        </p>
+        <p>
+          • Research portfolios showcasing technical competency and critical thinking
+        </p>
+        <p>
+          • Community impact documentation with evidence of real-world application
+        </p>
+        <p>
+          • Leadership experience highlighting mentorship and collaboration skills
+        </p>
+        <p>
+          • Professional recommendations from community partners and mentors
+        </p>
+        <p>
+          <alert>Scholarship Application Strategy:</alert>
+        </p>
+        <p>
+          • Identify scholarships aligned with civic engagement and STEM achievement
+        </p>
+        <p>
+          • Develop compelling applications highlighting community impact and potential
+        </p>
+        <p>
+          • Prepare for scholarship interviews and selection processes
+        </p>
+        <p>
+          • Build relationships with scholarship organizations for continued support
+        </p>
+      </example>
+
+      <activity xml:id="activity-college-readiness-verification-11-12">
+        <title>College Readiness Verification and Preparation</title>
+        <statement>
+          <p>
+            <alert>Academic Preparation Assessment:</alert>
+          </p>
+          <p>
+            • Comprehensive review of coursework and academic achievement
+          </p>
+          <p>
+            • Standardized test preparation and performance evaluation
+          </p>
+          <p>
+            • Advanced coursework completion and dual enrollment success
+          </p>
+          <p>
+            • Independent learning and research capability demonstration
+          </p>
+          <p>
+            <alert>Professional Skills Verification:</alert>
+          </p>
+          <p>
+            • Technical competency assessment using industry standards
+          </p>
+          <p>
+            • Communication and presentation skill evaluation
+          </p>
+          <p>
+            • Collaboration and leadership experience documentation
+          </p>
+          <p>
+            • Professional networking and relationship building evidence
+          </p>
+          <p>
+            <alert>Civic Engagement Documentation:</alert>
+          </p>
+          <p>
+            • Community impact project outcomes and sustainability
+          </p>
+          <p>
+            • Democratic participation and civic leadership experience
+          </p>
+          <p>
+            • Critical thinking and media literacy skill demonstration
+          </p>
+          <p>
+            • Commitment to continued civic engagement and social responsibility
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="grades-11-12-transition-preparation">
+      <title>Professional and Life Transition Preparation</title>
+      
+      <p>
+        Prepare students for successful transition to college and adult responsibilities while maintaining commitment to civic engagement and social impact.
+      </p>
+
+      <example xml:id="example-transition-readiness-assessment-11-12">
+        <title>Comprehensive Transition Readiness Assessment</title>
+        <p>
+          <alert>Assessment Components:</alert>
+        </p>
+        <p>
+          <alert>Independent Living and Learning Skills:</alert>
+        </p>
+        <p>
+          • Ability to manage complex projects and deadlines independently
+        </p>
+        <p>
+          • Self-directed learning and problem-solving capabilities
+        </p>
+        <p>
+          • Time management and organizational skills for college success
+        </p>
+        <p>
+          • Financial literacy and responsible decision-making
+        </p>
+        <p>
+          <alert>Professional Relationship and Network Building:</alert>
+        </p>
+        <p>
+          • Established relationships with mentors and professional contacts
+        </p>
+        <p>
+          • Understanding of professional communication and etiquette
+        </p>
+        <p>
+          • Ability to seek help and support when needed
+        </p>
+        <p>
+          • Experience collaborating with diverse teams and stakeholders
+        </p>
+        <p>
+          <alert>Civic Engagement and Social Responsibility:</alert>
+        </p>
+        <p>
+          • Commitment to continued community involvement and democratic participation
+        </p>
+        <p>
+          • Understanding of social issues and role of data in addressing them
+        </p>
+        <p>
+          • Ethical framework for responsible data use throughout life
+        </p>
+        <p>
+          • Leadership skills and experience mentoring others
+        </p>
+        <p>
+          <alert>Continued Learning and Growth Orientation:</alert>
+        </p>
+        <p>
+          • Growth mindset and resilience in face of challenges
+        </p>
+        <p>
+          • Plans for continued skill development and learning
+        </p>
+        <p>
+          • Understanding of career pathways and professional development
+        </p>
+        <p>
+          • Integration of data science with broader life goals and values
+        </p>
+      </example>
+
+      <activity xml:id="activity-alumni-mentorship-preparation-11-12">
+        <title>Alumni Mentorship and Network Development</title>
+        <statement>
+          <p>
+            <alert>Alumni Connection Program:</alert>
+          </p>
+          <p>
+            • Connect graduating seniors with program alumni in college and careers
+          </p>
+          <p>
+            • Establish ongoing mentorship relationships for college transition support
+          </p>
+          <p>
+            • Create alumni network for professional development and career guidance
+          </p>
+          <p>
+            • Develop system for alumni to support current students and program development
+          </p>
+          <p>
+            <alert>Mentorship Preparation:</alert>
+          </p>
+          <p>
+            • Training in how to be an effective mentee and maintain professional relationships
+          </p>
+          <p>
+            • Understanding of mutual benefits and responsibilities in mentorship
+          </p>
+          <p>
+            • Communication skills for maintaining long-distance professional relationships
+          </p>
+          <p>
+            • Recognition of how to provide value and support to mentors and network
+          </p>
+          <p>
+            <alert>Future Contribution Planning:</alert>
+          </p>
+          <p>
+            • Commitment to supporting future students through mentorship and guest speaking
+          </p>
+          <p>
+            • Plans for continued connection with community organizations and partnerships
+          </p>
+          <p>
+            • Understanding of how to give back to program and community after graduation
+          </p>
+          <p>
+            • Vision for continued contribution to data science field and social impact
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+  </section>
+
+  <section xml:id="grades-11-12-next-level-preparation">
+    <title>Preparing Engaged Citizens and Future Leaders</title>
+    
+    <introduction>
+      <p>
+        Students completing the 11-12 program should be prepared to be engaged citizens who use data science skills throughout their lives to contribute to their communities and society. Focus on ensuring long-term commitment to civic engagement and social responsibility.
+      </p>
+    </introduction>
+
+    <subsection xml:id="grades-11-12-civic-commitment">
+      <title>Long-term Civic Engagement Commitment</title>
+      
+      <p>
+        Assess and support students' commitment to continued civic engagement and democratic participation throughout their lives.
+      </p>
+
+      <insight xml:id="insight-lifelong-civic-engagement-11-12">
+        <title>Indicators of Lifelong Civic Engagement Commitment</title>
+        <p>
+          <alert>Democratic participation:</alert> Understanding of and commitment to participating in democratic processes
+        </p>
+        <p>
+          <alert>Community connection:</alert> Established relationships with community organizations and continued involvement plans
+        </p>
+        <p>
+          <alert>Critical thinking habits:</alert> Consistent application of data science thinking to evaluate claims and make decisions
+        </p>
+        <p>
+          <alert>Social responsibility:</alert> Recognition of obligation to use privilege and skills for community benefit
+        </p>
+        <p>
+          <alert>Leadership development:</alert> Experience and commitment to leading positive change in communities
+        </p>
+        <p>
+          <alert>Mentorship orientation:</alert> Commitment to supporting and educating others throughout life
+        </p>
+      </insight>
+
+      <example xml:id="example-civic-engagement-planning-11-12">
+        <title>Long-term Civic Engagement Planning Assessment</title>
+        <p>
+          <alert>Planning Components:</alert>
+        </p>
+        <p>
+          <alert>College Civic Engagement:</alert>
+        </p>
+        <p>
+          • Plans for continued community service and engagement during college
+        </p>
+        <p>
+          • Interest in student government, advocacy organizations, or community partnerships
+        </p>
+        <p>
+          • Integration of civic engagement with academic and career preparation
+        </p>
+        <p>
+          • Commitment to using college resources for community benefit
+        </p>
+        <p>
+          <alert>Career Integration:</alert>
+        </p>
+        <p>
+          • Vision for incorporating social impact into career choices and professional work
+        </p>
+        <p>
+          • Understanding of how data science skills can address social problems
+        </p>
+        <p>
+          • Commitment to ethical practice and responsible use of professional skills
+        </p>
+        <p>
+          • Plans for pro bono work or community service throughout career
+        </p>
+        <p>
+          <alert>Community Leadership:</alert>
+        </p>
+        <p>
+          • Interest in running for office or serving on community boards and committees
+        </p>
+        <p>
+          • Commitment to mentoring young people and supporting education
+        </p>
+        <p>
+          • Vision for addressing community problems using data science skills
+        </p>
+        <p>
+          • Understanding of how to build coalitions and create positive change
+        </p>
+        <p>
+          <alert>Global Citizenship:</alert>
+        </p>
+        <p>
+          • Understanding of global challenges and role of data science in addressing them
+        </p>
+        <p>
+          • Interest in international service or global problem-solving
+        </p>
+        <p>
+          • Commitment to considering diverse perspectives and cultural contexts
+        </p>
+        <p>
+          • Vision for contributing to global knowledge and understanding
+        </p>
+      </example>
+
+      <activity xml:id="activity-civic-legacy-project-11-12">
+        <title>Civic Legacy Project Development</title>
+        <statement>
+          <p>
+            <alert>Legacy Project Components:</alert>
+          </p>
+          <p>
+            • Students design a project that will have lasting positive impact on their community
+          </p>
+          <p>
+            • Develop sustainability plan for continued operation after graduation
+          </p>
+          <p>
+            • Train younger students or community members to maintain the project
+          </p>
+          <p>
+            • Create documentation and resources for others to replicate the project
+          </p>
+          <p>
+            <alert>Project Examples:</alert>
+          </p>
+          <p>
+            • Community data dashboard providing ongoing access to local information
+          </p>
+          <p>
+            • Mentorship program connecting high school students with data science professionals
+          </p>
+          <p>
+            • Educational workshop series for community members on data literacy
+          </p>
+          <p>
+            • Advocacy toolkit helping community organizations use data for policy change
+          </p>
+          <p>
+            <alert>Assessment Focus:</alert>
+          </p>
+          <p>
+            • Quality of project design and potential for community impact
+          </p>
+          <p>
+            • Sustainability planning and resource development
+          </p>
+          <p>
+            • Leadership in training others and building capacity
+          </p>
+          <p>
+            • Demonstration of commitment to continued community engagement
+        </p>
+        </statement>
+      </activity>
+    </subsection>
+
+    <subsection xml:id="grades-11-12-program-impact">
+      <title>Program Impact and Continuous Improvement</title>
+      
+      <p>
+        Evaluate the overall effectiveness of the grades 11-12 program in preparing engaged citizens and successful graduates.
+      </p>
+
+      <example xml:id="example-program-evaluation-framework-11-12">
+        <title>Comprehensive Program Impact Assessment</title>
+        <p>
+          <alert>Evaluation Components:</alert>
+        </p>
+        <p>
+          <alert>Student Outcome Tracking:</alert>
+        </p>
+        <p>
+          • College admission success and scholarship award rates
+        </p>
+        <p>
+          • Continued civic engagement and community involvement after graduation
+        </p>
+        <p>
+          • Career success and professional achievement in data-related fields
+        </p>
+        <p>
+          • Long-term impact on communities and social problems
+        </p>
+        <p>
+          <alert>Civic Engagement Measurement:</alert>
+        </p>
+        <p>
+          • Voting rates and democratic participation among graduates
+        </p>
+        <p>
+          • Community leadership roles and service contributions
+        </p>
+        <p>
+          • Continued data literacy and critical thinking application
+        </p>
+        <p>
+          • Mentorship and education of others in data science and civic engagement
+        </p>
+        <p>
+          <alert>Community Impact Assessment:</alert>
+        </p>
+        <p>
+          • Community partner feedback on student projects and collaboration quality
+        </p>
+        <p>
+          • Documentation of policy changes or community improvements resulting from student work
+        </p>
+        <p>
+          • Increased data literacy and civic engagement in broader community
+        </p>
+        <p>
+          • Replication of student projects and initiatives in other communities
+        </p>
+        <p>
+          <alert>Program Improvement:</alert>
+        </p>
+        <p>
+          • Graduate feedback on program effectiveness and areas for improvement
+        </p>
+        <p>
+          • Community partner input on student preparation and collaboration quality
+        </p>
+        <p>
+          • Employer and college faculty assessment of graduate readiness
+        </p>
+        <p>
+          • Continuous refinement of curriculum and assessment approaches
+        </p>
+      </example>
+
+      <activity xml:id="activity-impact-documentation-system-11-12">
+        <title>Long-term Impact Documentation and Tracking</title>
+        <statement>
+          <p>
+            <alert>Documentation System Development:</alert>
+          </p>
+          <p>
+            • Create systems for tracking graduate outcomes and continued engagement
+          </p>
+          <p>
+            • Document community impact projects and their long-term sustainability
+          </p>
+          <p>
+            • Collect feedback from community partners on program effectiveness
+          </p>
+          <p>
+            • Track media coverage and recognition of student and program achievements
+          </p>
+          <p>
+            <alert>Success Story Development:</alert>
+          </p>
+          <p>
+            • Document compelling examples of student impact and achievement
+          </p>
+          <p>
+            • Create case studies of successful community partnerships and projects
+          </p>
+          <p>
+            • Highlight innovative approaches and breakthrough moments
+          </p>
+          <p>
+            • Share stories to inspire current students and support program development
+          </p>
+          <p>
+            <alert>Continuous Improvement Process:</alert>
+          </p>
+          <p>
+            • Regular program review and refinement based on outcome data
+          </p>
+          <p>
+            • Integration of graduate and community feedback into program development
+          </p>
+          <p>
+            • Professional development for staff based on best practices and emerging trends
+          </p>
+          <p>
+            • Expansion of successful approaches and modification of less effective strategies
+          </p>
+        </statement>
+      </activity>
+    </subsection>
+  </section>
+
+  <section xml:id="grades-11-12-assessment-wrap-up">
+    <title>Assessment Wrap-Up: Graduating Engaged Data Citizens</title>
+    
+    <p>
+      Assessment in grades 11-12 represents the culmination of K-12 data science education with a focus on civic engagement and social responsibility. The goal is to graduate students who will use their data science skills throughout their lives to contribute to their communities and democratic society.
+    </p>
+
+    <note xml:id="final-assessment-reflection-11-12">
+      <title>Final Reflection: Your 11-12 Civic Engagement Assessment Practice</title>
+      <p>
+        As you implement these civic-focused assessment strategies, remember:
+      </p>
+      <p>
+        • Balance rigor with relevance - maintain high academic standards while emphasizing real-world application
+      </p>
+      <p>
+        • Foster civic commitment - help students see data science as a tool for democratic participation and social good
+      </p>
+      <p>
+        • Build authentic partnerships - create genuine relationships with community organizations and stakeholders
+      </p>
+      <p>
+        • Prepare for transition - ensure students are ready for college success and lifelong civic engagement
+      </p>
+      <p>
+        • Measure real impact - assess both student learning and actual community benefit from projects
+      </p>
+      <p>
+        • Celebrate citizenship - recognize the significance of preparing engaged, thoughtful citizens
+      </p>
+    </note>
+
+    <p>
+      Your assessment practices in grades 11-12 prepare students not just for academic and professional success, but for a lifetime of engaged citizenship and social contribution. By maintaining high expectations while emphasizing civic engagement and social responsibility, you help students understand that data science skills come with both opportunities and obligations to serve the common good.
+    </p>
+
+    <p>
+      The complete K-12 assessment progression now shows a clear trajectory from simple observation and celebration in early grades to sophisticated civic engagement and professional preparation in the senior year. Each grade band builds systematically toward the ultimate goal: graduating thoughtful, skilled, and engaged citizens who will use data science to make the world a better place.
+    </p>
+  </section>
+</chapter>
