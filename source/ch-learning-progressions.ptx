@@ -38,22 +38,63 @@
     
     <introduction>
       <p>
-        Before we dive into specific grade levels or concepts, let's step back and see the forest before the trees. The Data Science 4 Everyone learning progressions are organized into five interconnected strands. Understanding how these strands work together is crucial for effective teaching.
+        Before we dive into specific grade levels or concepts, let's step back and see the forest before the trees. The Data Science 4 Everyone learning progressions are comprehensive, but they can feel overwhelming. To make them more manageable, we'll explore both the complete framework and the key outcomes that matter most to students' success.
       </p>
     </introduction>
 
-    <subsection xml:id="five-strands-ecosystem">
-      <title>The Five Strands as a Living System</title>
+    <subsection xml:id="five-major-themes">
+      <title>Five Major Themes: The Heart of Data Science Learning</title>
       
       <p>
-        Imagine data science learning as a thriving ecosystem where each component supports and enhances the others:
+        Through extensive consultation with educators, students, and employers, we've identified five major themes that capture what students really need to master. These themes provide a more accessible way to think about data science education while still connecting to the comprehensive progressions:
+      </p>
+
+      <insight xml:id="insight-major-themes">
+        <title>The Five Major Themes of Data Science Education</title>
+        
+        <p><alert>Telling Stories That Matter</alert></p>
+        <p>
+          Students learn to communicate findings clearly, create compelling visualizations, and adapt their message for different audiences while being honest about limitations.
+        </p>
+
+        <p><alert>Questioning Everything and Asking the Right Questions</alert></p>
+        <p>
+          Students develop critical thinking skills to design good research, spot misleading claims, and seek alternative explanations for any result they encounter.
+        </p>
+
+        <p><alert>Making Data Real and Connected to Everyday Life</alert></p>
+        <p>
+          Students see data science as relevant to their daily decisions, career paths, and civic engagement rather than as an abstract academic subject.
+        </p>
+
+        <p><alert>Working with Complex Information</alert></p>
+        <p>
+          Students gain practical skills in finding, cleaning, and analyzing messy real-world data using appropriate tools and techniques.
+        </p>
+
+        <p><alert>Understanding Our Data-Driven World</alert></p>
+        <p>
+          Students develop awareness of how data and AI shape society, recognizing both benefits and potential harms while learning to navigate ethical considerations.
+        </p>
+      </insight>
+
+      <p>
+        These themes encompass 25 key outcomes that research shows are most important for student success. Each theme connects to multiple strands in the comprehensive progressions, but in ways that feel more natural and less overwhelming to implement.
+      </p>
+    </subsection>
+
+    <subsection xml:id="five-strands-ecosystem">
+      <title>The Five Strands: The Complete Framework</title>
+      
+      <p>
+        The complete Data Science 4 Everyone learning progressions are organized into five interconnected strands. Understanding how these strands work together provides the detailed roadmap for comprehensive data science education:
       </p>
       
       <definition xml:id="def-five-strands">
         <title>The Five Strands of Data Science Learning</title>
         <statement>
           <p>
-            <term>Strand A: Data Literacy and Responsibility</term> - The foundation: understanding what data is, where it comes from, and how to use it ethically
+            <term>Strand A: Data Disposition</term> - The foundation: understanding what data is, where it comes from, and how to use it ethically
           </p>
           <p>
             <term>Strand B: Creation and Curation</term> - The acquisition: collecting, organizing, and preparing data for analysis
@@ -69,210 +110,206 @@
           </p>
         </statement>
       </definition>
-
-      <activity xml:id="activity-strand-connections">
-        <title>Connecting the Strands</title>
-        <statement>
-          <p>
-            Consider a simple classroom scenario: Third graders are investigating <q>What's the most popular pet in our class?</q>
-          </p>
-          <p>
-            For each strand below, write one specific thing students might do as part of this investigation:
-          </p>
-          <p>
-            1. <em>Data Literacy and Responsibility:</em> _______________
-          </p>
-          <p>
-            2. <em>Creation and Curation:</em> _______________
-          </p>
-          <p>
-            3. <em>Analysis and Modeling:</em> _______________
-          </p>
-          <p>
-            4. <em>Interpreting Problems and Results:</em> _______________
-          </p>
-          <p>
-            5. <em>Visualization and Communication:</em> _______________
-          </p>
-        </statement>
-        <solution>
-          <p>Sample responses:</p>
-          <p>
-            1. <em>Data Literacy and Responsibility:</em> Discuss why it's important to ask permission before sharing information about pets, understand that some students might not have pets
-          </p>
-          <p>
-            2. <em>Creation and Curation:</em> Create a survey, organize responses into categories, clean up any unclear answers
-          </p>
-          <p>
-            3. <em>Analysis and Modeling:</em> Count responses, compare totals, look for patterns
-          </p>
-          <p>
-            4. <em>Interpreting Problems and Results:</em> Decide what the data tells us, consider limitations (small sample size, only our class)
-          </p>
-          <p>
-            5. <em>Visualization and Communication:</em> Create a bar graph and present findings to another class
-          </p>
-        </solution>
-      </activity>
-
-      <p>
-        Notice how naturally these strands flow together? In real data science work, they're not separate steps but interconnected aspects of investigation. Students might move back and forth between strands multiple times within a single project.
-      </p>
     </subsection>
+  </section>
 
-    <subsection xml:id="vertical-progression-patterns">
-      <title>How Concepts Grow: Vertical Progression Patterns</title>
+  <section xml:id="outcome-based-approach">
+    <title>Key Outcomes: What Students Really Need to Master</title>
+    
+    <introduction>
+      <p>
+        While the complete progressions provide comprehensive detail, you might find it more helpful to start with the 25 key outcomes that research shows matter most for student success. These outcomes are organized around our five major themes and connect naturally to the detailed progressions when you're ready to dive deeper.
+      </p>
+    </introduction>
+
+    <subsection xml:id="telling-stories-theme">
+      <title>Theme 1: Telling Stories That Matter</title>
       
       <p>
-        One of the most powerful aspects of these learning progressions is seeing how the same fundamental concepts deepen and sophisticate over time. Let's examine how this works.
+        This theme focuses on communication and making data insights accessible and compelling to others. Students learn that technical analysis is only valuable if you can share it effectively.
       </p>
 
-      <example xml:id="example-variability-progression">
-        <title>Concept Growth: Understanding Variability</title>
-        <p>
-          Let's trace how students' understanding of <term>variability</term> develops across grade levels:
-        </p>
-        <tabular>
-          <row header="yes">
-            <cell>Grade Band</cell>
-            <cell>Understanding of Variability</cell>
-            <cell>Example Activity</cell>
-          </row>
-          <row>
-            <cell>K-2</cell>
-            <cell>Recognize that similar objects can differ</cell>
-            <cell>Sort leaves by size, noticing they're all different</cell>
-          </row>
-          <row>
-            <cell>3-5</cell>
-            <cell>Understand data can have many different results</cell>
-            <cell>Measure how far different paper airplanes fly</cell>
-          </row>
-          <row>
-            <cell>6-8</cell>
-            <cell>Quantify variability using range and standard deviation</cell>
-            <cell>Calculate the spread in test scores across classes</cell>
-          </row>
-          <row>
-            <cell>9-10</cell>
-            <cell>Connect variability to uncertainty in conclusions</cell>
-            <cell>Understand why poll results include margins of error</cell>
-          </row>
-          <row>
-            <cell>11-12</cell>
-            <cell>Use variability to model real-world processes</cell>
-            <cell>Analyze how measurement error affects scientific conclusions</cell>
-          </row>
-        </tabular>
-      </example>
-
-      <note xml:id="reflection-concept-growth">
-        <title>Reflection: Concept Growth in Your Subject</title>
-        <p>
-          Think about a key concept in your subject area (like <q>evidence</q> in social studies, <q>pattern</q> in math, or <q>observation</q> in science). How does understanding of this concept deepen as students progress through school?
-        </p>
-        <p>
-          Now consider how this same principle applies to data science concepts. Students don't learn <q>statistics</q> in high school - they build statistical thinking from their earliest school experiences.
-        </p>
-      </note>
-    </subsection>
-
-    <subsection xml:id="cross-curricular-connections">
-      <title>Cross-Curricular DNA: Data Science Everywhere</title>
-      
-      <p>
-        Data science isn't another subject to squeeze into an already packed curriculum. Instead, it's a way of thinking and working that enhances learning across all subjects. Let's explore how these progressions naturally connect to different disciplines.
-      </p>
-
-      <insight xml:id="insight-subject-connections">
-        <title>Subject Area Connections</title>
+      <insight xml:id="insight-storytelling-outcomes">
+        <title>Key Outcomes: Telling Stories That Matter</title>
         
-        <p><alert>English Language Arts</alert></p>
-        <p>
-          <m>\bullet</m> Analyzing character development patterns across stories (data analysis)
-        </p>
-        <p>
-          <m>\bullet</m> Researching and citing sources (data ethics and responsibility)
-        </p>
-        <p>
-          <m>\bullet</m> Creating infographics for persuasive essays (visualization and communication)
-        </p>
+        <p><alert>Storytelling:</alert> Clearly tell a story or argument with data, including effective presentation skills, plain-language vocabulary, adapting to different audiences, acknowledging limitations, and using multiple representations (visualizations, statistics, methodology descriptions).</p>
+        <p><em>Connects to:</em> Strands E (Communication), D (Results), A (Data Disposition)</p>
 
-        <p><alert>Mathematics</alert></p>
-        <p>
-          <m>\bullet</m> Measuring and comparing objects (creation and curation)
-        </p>
-        <p>
-          <m>\bullet</m> Looking for patterns in number sequences (analysis and modeling)
-        </p>
-        <p>
-          <m>\bullet</m> Explaining mathematical reasoning (interpreting problems and results)
-        </p>
-
-        <p><alert>Science</alert></p>
-        <p>
-          <m>\bullet</m> Collecting observations from experiments (creation and curation)
-        </p>
-        <p>
-          <m>\bullet</m> Drawing conclusions from evidence (interpreting problems and results)
-        </p>
-        <p>
-          <m>\bullet</m> Understanding measurement uncertainty (data literacy and responsibility)
-        </p>
-
-        <p><alert>Social Studies</alert></p>
-        <p>
-          <m>\bullet</m> Analyzing historical census data (analysis and modeling)
-        </p>
-        <p>
-          <m>\bullet</m> Evaluating bias in historical sources (data literacy and responsibility)
-        </p>
-        <p>
-          <m>\bullet</m> Creating maps showing demographic changes (visualization and communication)
-        </p>
-
-        <p><alert>Arts</alert></p>
-        <p>
-          <m>\bullet</m> Exploring color frequency in paintings (analysis and modeling)
-        </p>
-        <p>
-          <m>\bullet</m> Designing data-driven infographics (visualization and communication)
-        </p>
-        <p>
-          <m>\bullet</m> Surveying musical preferences (creation and curation)
-        </p>
+        <p><alert>Producing and Tailoring Visualizations:</alert> Deploy data visualizations relevant to the problem and audience, knowing which techniques work for different data types, using appropriate software tools, making visuals accessible, and designing for audience knowledge levels.</p>
+        <p><em>Connects to:</em> Strands E (Communication), C (Analysis)</p>
       </insight>
 
-      <activity xml:id="activity-find-connections">
-        <title>Finding Connections in Your Curriculum</title>
+      <p>
+        These outcomes emphasize that data science isn't just about finding patterns - it's about sharing insights in ways that create understanding and inspire action. Students develop both technical visualization skills and the communication savvy to reach diverse audiences.
+      </p>
+    </subsection>
+
+    <subsection xml:id="questioning-critique-theme">
+      <title>Theme 2: Questioning Everything and Asking the Right Questions</title>
+      
+      <p>
+        This theme develops critical thinking and research design skills. Students learn to approach all claims with healthy skepticism and design investigations that can actually answer the questions they're asking.
+      </p>
+
+      <insight xml:id="insight-questioning-outcomes">
+        <title>Key Outcomes: Questioning Everything and Asking the Right Questions</title>
+        
+        <p><alert>Art of Critique:</alert> Practice critiquing how data analyses may mislead through axis manipulation, graphics inflation, correlation/causation confusion, survey bias, lack of controls, overfitting, and other common problems. Regularly seek multiple sources and recognize quantitative data's limitations.</p>
+        <p><em>Connects to:</em> Strands D (Interpretation), A (Data Disposition), E (Communication)</p>
+
+        <p><alert>Hypothesis Construction:</alert> Construct questions and hypotheses that can be answered with data, including clear hypotheses, analysis plans for individual or collaborative tasks, and plans to source additional datasets. Root all plans deeply in domain context using authentic, student-driven projects.</p>
+        <p><em>Connects to:</em> Strands A (Data Disposition), D (Interpretation), B (Creation)</p>
+
+        <p><alert>Assessing Generalization Claims:</alert> Assess whether data generalizes appropriately by examining population representation, collection bias, causality claims, and validity issues. Compare competing headlines by examining underlying data and conducting power analyses.</p>
+        <p><em>Connects to:</em> Strands D (Interpretation), A (Data Disposition)</p>
+
+        <p><alert>Alternative Explanations:</alert> Identify alternative explanations and confounds for any result by checking sources, other datasets, qualitative experiences, and prior research. Recognize that data is important but insufficient evidence that must be corroborated with other information sources.</p>
+        <p><em>Connects to:</em> Strands D (Interpretation), A (Data Disposition), B (Creation)</p>
+
+        <p><alert>Research Design:</alert> Know research and survey design best practices, including differences between experiments, natural experiments, observational, and correlational analysis. Understand survey design, bias minimization, and how design choices connect to correlation vs. causation claims.</p>
+        <p><em>Connects to:</em> Strands D (Interpretation), B (Creation), A (Data Disposition)</p>
+      </insight>
+
+      <p>
+        These outcomes help students become savvy consumers and producers of research. Rather than accepting claims at face value, they learn to ask probing questions and design investigations that can provide trustworthy answers.
+      </p>
+    </subsection>
+
+    <subsection xml:id="daily-life-theme">
+      <title>Theme 3: Making Data Real and Connected to Everyday Life</title>
+      
+      <p>
+        This theme ensures data science feels relevant and applicable rather than abstract. Students see how data thinking can improve their personal decisions and civic engagement.
+      </p>
+
+      <insight xml:id="insight-daily-life-outcomes">
+        <title>Key Outcomes: Making Data Real and Connected to Everyday Life</title>
+        
+        <p><alert>Daily Life Integration:</alert> Regularly leverage data in daily life to inform personal decision-making, address societal problems, or create solutions for others. Use spreadsheets to compare options, examine data as a "first impulse" for policy arguments, and help others solve problems by sourcing relevant data.</p>
+        <p><em>Connects to:</em> Strands A (Data Disposition), D (Interpretation), E (Communication), B (Creation)</p>
+
+        <p><alert>Bayesian Probability:</alert> Practice probabilistic thinking including comfort with uncertainty, explaining variation, basic probability rules, and modeling expected value functions for decision-making. Apply "prior guess, new data, updated guess" thinking to everyday situations.</p>
+        <p><em>Connects to:</em> Strands D (Interpretation), A (Data Disposition), C (Analysis)</p>
+
+        <p><alert>Demystifying Careers:</alert> Know potential career opportunities for data-related skills across sectors, understand financial benefits of technical skills, and recognize specialization and education requirements for different data-intensive roles.</p>
+        <p><em>Connects to:</em> Strand A (Data Disposition)</p>
+      </insight>
+
+      <p>
+        These outcomes help students see data science as a practical life skill rather than an academic exercise. They learn to approach decisions with evidence-based thinking and understand how data science skills can shape their future opportunities.
+      </p>
+    </subsection>
+
+    <subsection xml:id="complex-information-theme">
+      <title>Theme 4: Working with Complex Information</title>
+      
+      <p>
+        This theme builds practical technical skills for handling real-world data challenges. Students learn that most data requires significant preparation before analysis and develop comfort with various tools and techniques.
+      </p>
+
+      <insight xml:id="insight-complex-info-outcomes">
+        <title>Key Outcomes: Working with Complex Information</title>
+        
+        <p><alert>Data Structures:</alert> Know basic types and structures of data (quantitative, qualitative, image, text), data table formats, digital data sources (primary and secondary), and applications that leverage data (recommendation algorithms, forecasting, autonomous vehicles, language models).</p>
+        <p><em>Connects to:</em> Strands B (Creation), C (Analysis), A (Data Disposition)</p>
+
+        <p><alert>Exploratory Analysis:</alert> Conduct Exploratory Data Analysis to summarize key insights at interim stages, including summary statistics, merging, subsetting, filtering, difference testing, distribution analysis, outlier identification, and pipeline validation.</p>
+        <p><em>Connects to:</em> Strands A (Data Disposition), B (Creation), C (Analysis), E (Communication)</p>
+
+        <p><alert>Data Wrangling:</alert> Employ cleaning, merging, and transformation techniques for messy real-world data, including treatment of outliers, missing data, unknown variables, and other common issues.</p>
+        <p><em>Connects to:</em> Strands B (Creation), C (Analysis), A (Data Disposition)</p>
+
+        <p><alert>Software Experience:</alert> Practice programming for data analysis using Python, R, SQL, or other scripting languages beyond spreadsheets or drag-and-drop tools.</p>
+        <p><em>Connects to:</em> Strands C (Analysis), A (Data Disposition)</p>
+
+        <p><alert>Statistical Significance:</alert> Construct simulations and tests for statistical significance using both unplugged and technology-assisted approaches, including probability distributions, bootstrapping, and modern alternatives to traditional hand-calculated tests.</p>
+        <p><em>Connects to:</em> Strands D (Interpretation), C (Analysis), A (Data Disposition)</p>
+
+        <p><alert>Sourcing and APIs:</alert> Source new data both informally (spreadsheet imports for candidate info, consumer comparisons, insurance policies) and automatically (APIs, web-scraping, advanced techniques).</p>
+        <p><em>Connects to:</em> Strands B (Creation), C (Analysis), E (Communication), A (Data Disposition)</p>
+
+        <p><alert>Multi-variable Tradeoffs:</alert> Employ multi-variable modeling using multiple approaches (linear, exponential, logistic, polynomial regression) with knowledge of modeling tradeoffs (overfitting, covariates) to make descriptive claims or predictions from complex datasets.</p>
+        <p><em>Connects to:</em> Strands D (Interpretation), C (Analysis)</p>
+
+        <p><alert>Tool Selection:</alert> Select the most appropriate software tool for each problem, understanding pros, cons, and use-cases for different tools (spreadsheets, scripting languages, visualization tools, data management tools) with ability to transition between tools.</p>
+        <p><em>Connects to:</em> Strands C (Analysis), B (Creation), A (Data Disposition)</p>
+
+        <p><alert>Iteration and Validation:</alert> Comfortably iterate and validate within analysis cycles through collecting, exploring, modeling, analyzing, communicating, and corroborating findings. Emphasize frequent double-checking and rethinking through exploratory analysis and validation steps.</p>
+        <p><em>Connects to:</em> Strands C (Analysis), D (Interpretation), E (Communication), B (Creation), A (Data Disposition)</p>
+
+        <p><alert>Reproducibility:</alert> Document data sources, analysis steps, and assumptions for later reproduction and validation by others. Practice sharing documentation through collaboration tools and create data sheets describing variables, collection dates, attribution, and other basic information.</p>
+        <p><em>Connects to:</em> Strands C (Analysis), B (Creation), D (Interpretation), A (Data Disposition)</p>
+
+        <p><alert>Automation:</alert> Implement analysis automation and simple machine-learning techniques using existing software packages with large datasets. Practice training custom models, holding data for testing/validation, and improving predictive power through competitions or end-of-year projects.</p>
+        <p><em>Connects to:</em> Strands C (Analysis), D (Interpretation), A (Data Disposition)</p>
+      </insight>
+
+      <p>
+        These outcomes ensure students can handle the messy reality of data work. They develop both the technical skills and the persistence needed to work with imperfect, real-world information sources.
+      </p>
+    </subsection>
+
+    <subsection xml:id="data-driven-world-theme">
+      <title>Theme 5: Understanding Our Data-Driven World</title>
+      
+      <p>
+        This theme helps students navigate the ethical and social dimensions of data science. Students learn to recognize how data and AI systems affect society and develop skills for responsible participation in our data-driven world.
+      </p>
+
+      <insight xml:id="insight-data-world-outcomes">
+        <title>Key Outcomes: Understanding Our Data-Driven World</title>
+        
+        <p><alert>Ethics During Analysis:</alert> Consider ethics throughout all phases of data investigation when using personal data, choosing representations or categories, leveraging data representing people responsibly, using secondary data, and testing model outputs for bias. Learn from historical examples of harmful data analysis.</p>
+        <p><em>Connects to:</em> Strands A (Data Disposition), B (Creation), C (Analysis), E (Communication)</p>
+
+        <p><alert>Bias in AI:</alert> Detect and troubleshoot bias in data-driven tools and AI models. Question data sources for technology tools, evaluate training data demographics, and test outputs against real-world examples. Understand that all data is biased but some bias reproduces harmful social norms.</p>
+        <p><em>Connects to:</em> Strands A (Data Disposition), C (Analysis), B (Creation), D (Interpretation)</p>
+
+        <p><alert>Societal Implications:</alert> Examine ethical trade-offs in societal data use including storage/security of personal data, privacy law and individual rights, benefits from open data, intellectual property, and expectations for transparency and accountability in data collection.</p>
+        <p><em>Connects to:</em> Strands A (Data Disposition), E (Communication), C (Analysis)</p>
+
+        <p><alert>AI Model Intuition:</alert> Understand how data "powers" AI tools including machine-learning approaches, large language models, recommendation algorithms, and autonomous technology. Develop intuition for questioning AI outputs using statistical concepts (sample size, outliers, generalization issues) and detecting errors or "hallucinations."</p>
+        <p><em>Connects to:</em> Strands C (Analysis), B (Creation), A (Data Disposition)</p>
+      </insight>
+
+      <p>
+        These outcomes prepare students to be thoughtful participants in our increasingly data-driven society. They learn to recognize both the power and the potential harm of data systems while developing skills for ethical decision-making.
+      </p>
+    </subsection>
+
+    <subsection xml:id="connecting-themes-strands">
+      <title>How Themes Connect to Strands</title>
+      
+      <p>
+        Notice how each outcome connects to multiple strands? This reflects the integrated nature of data science work. When students engage in authentic projects, they naturally draw on concepts from across the progressions.
+      </p>
+
+      <p>
+        The themes provide manageable entry points, while the complete strand progressions offer detailed developmental sequences when you're ready for more granular planning. You can start with themes that feel most natural to your teaching context and gradually incorporate more strand-specific concepts.
+      </p>
+
+      <activity xml:id="activity-theme-connections">
+        <title>Finding Your Theme Entry Points</title>
         <statement>
           <p>
-            Look at a unit you're currently teaching or will teach soon. For each of the five strands, identify one way data science thinking could enhance student learning in that unit:
+            Review the five themes and their outcomes. Which theme feels most connected to your current curriculum or teaching strengths?
           </p>
           <p>
-            <em>Unit Topic:</em> _______________
+            <em>Most natural theme for me:</em> _______________
           </p>
           <p>
-            1. <em>Data Literacy and Responsibility:</em> _______________
+            <em>Two specific outcomes I could start with:</em>
           </p>
           <p>
-            2. <em>Creation and Curation:</em> _______________
+            1. _______________
           </p>
           <p>
-            3. <em>Analysis and Modeling:</em> _______________
+            2. _______________
           </p>
           <p>
-            4. <em>Interpreting Problems and Results:</em> _______________
-          </p>
-          <p>
-            5. <em>Visualization and Communication:</em> _______________
+            <em>How these connect to my current teaching:</em> _______________
           </p>
         </statement>
-        <hint>
-          <p>
-            Don't worry about being perfect or comprehensive. The goal is to start seeing connections, not to redesign your entire curriculum!
-          </p>
-        </hint>
       </activity>
     </subsection>
   </section>
@@ -319,7 +356,7 @@
           <m>\bullet</m> <em>Data Visualization:</em> They create a simple bar graph with colored blocks
         </p>
         <p>
-          <m>\bullet</m> <em>Data Responsibility:</em> They talk about why weather data helps people plan their day
+          <m>\bullet</m> <em>Data Disposition:</em> They talk about why weather data helps people plan their day
         </p>
         <p>
           Ms. Rodriguez doesn't need to be a meteorologist or statistician. She's guiding students through authentic data science thinking at a developmentally appropriate level.
@@ -402,7 +439,7 @@
       <title>Ethics as Foundation, Not Afterthought</title>
       
       <p>
-        Notice that the progressions begin with <q>Data Literacy and Responsibility</q> - ethics isn't something we add on later, it's fundamental to all data science learning.
+        Notice that the progressions begin with <q>Data Disposition</q> and that ethical considerations appear in multiple themes, especially "Understanding Our Data-Driven World." Ethics isn't something we add on later - it's fundamental to all data science learning.
       </p>
 
       <p>
@@ -422,7 +459,7 @@
       </p>
 
       <p>
-        This ethical foundation builds students' capacity for responsible citizenship in our data-driven world.
+        This ethical foundation builds students' capacity for responsible citizenship in our data-driven world and connects directly to outcomes like "Ethics During Analysis," "Bias in AI," and "Societal Implications."
       </p>
     </subsection>
   </section>
@@ -432,7 +469,7 @@
     
     <introduction>
       <p>
-        Now that you understand the big picture, let's get practical. How do you actually start using these progressions in your teaching?
+        Now that you understand both the themes and the detailed progressions, let's get practical. How do you actually start using these frameworks in your teaching?
       </p>
     </introduction>
 
@@ -440,17 +477,44 @@
       <title>Finding Your Entry Points</title>
       
       <p>
-        You don't need to implement all five strands simultaneously. Start with what feels most natural and build from there.
+        You don't need to implement all five themes simultaneously, and you certainly don't need to address all 25 outcomes at once. Start with what feels most natural and build from there.
       </p>
 
-      <exercise xml:id="exercise-comfort-zone-inventory">
-        <title>Comfort Zone Inventory</title>
+      <exercise xml:id="exercise-theme-comfort-inventory">
+        <title>Theme Comfort Inventory</title>
         <statement>
           <p>
-            Rate your comfort level with each strand on a scale of 1-5 (1 = very uncomfortable, 5 = very comfortable):
+            Rate your comfort level with each theme on a scale of 1-5 (1 = very uncomfortable, 5 = very comfortable):
           </p>
           <p>
-            1. Data Literacy and Responsibility (ethics, understanding data sources): ___
+            1. Telling Stories That Matter (storytelling, visualizations): ___
+          </p>
+          <p>
+            2. Questioning Everything and Asking the Right Questions (critique, research design): ___
+          </p>
+          <p>
+            3. Making Data Real and Connected to Everyday Life (daily applications, careers): ___
+          </p>
+          <p>
+            4. Working with Complex Information (technical skills, tools): ___
+          </p>
+          <p>
+            5. Understanding Our Data-Driven World (ethics, AI, society): ___
+          </p>
+          <p>
+            Circle your highest scores. These are your entry points!
+          </p>
+        </statement>
+      </exercise>
+
+      <exercise xml:id="exercise-comfort-zone-inventory">
+        <title>Strand Comfort Inventory (for deeper planning)</title>
+        <statement>
+          <p>
+            When you're ready for more detailed planning, rate your comfort level with each strand on a scale of 1-5:
+          </p>
+          <p>
+            1. Data Disposition (ethics, understanding data sources): ___
           </p>
           <p>
             2. Creation and Curation (collecting, organizing data): ___
@@ -464,18 +528,15 @@
           <p>
             5. Visualization and Communication (creating graphs, presentations): ___
           </p>
-          <p>
-            Circle your highest scores. These are your entry points!
-          </p>
         </statement>
       </exercise>
 
       <p>
-        <alert>Starting Strong:</alert> Choose 1-2 concepts from your highest-scoring strands. Plan to integrate these into existing lessons over the next month.
+        <alert>Starting Strong:</alert> Choose 1-2 outcomes from your highest-scoring theme. Plan to integrate these into existing lessons over the next month.
       </p>
 
       <p>
-        <alert>Growing Gradually:</alert> Once you're comfortable with your entry points, gradually add concepts from other strands.
+        <alert>Growing Gradually:</alert> Once you're comfortable with your entry points, gradually add outcomes from other themes or dive deeper into specific strand progressions.
       </p>
     </subsection>
 
@@ -522,7 +583,104 @@
       <title>Understanding Developmental Appropriateness</title>
       
       <p>
-        The progressions are carefully designed to match students' cognitive development. Understanding why certain concepts appear at certain grades will help you make good decisions about what to emphasize.
+        Whether you're focusing on the manageable themes or diving into the detailed strands, one of the most powerful aspects of these learning progressions is seeing how fundamental concepts deepen and sophisticate over time. Let's examine how this developmental approach works.
+      </p>
+
+      <example xml:id="example-variability-progression">
+        <title>Concept Growth: Understanding Variability</title>
+        <p>
+          Let's trace how students' understanding of <term>variability</term> develops across grade levels. This concept appears in multiple themes and strands:
+        </p>
+        <tabular>
+          <row header="yes">
+            <cell>Grade Band</cell>
+            <cell>Understanding of Variability</cell>
+            <cell>Example Activity</cell>
+          </row>
+          <row>
+            <cell>K-2</cell>
+            <cell>Recognize that similar objects can differ</cell>
+            <cell>Sort leaves by size, noticing they're all different</cell>
+          </row>
+          <row>
+            <cell>3-5</cell>
+            <cell>Understand data can have many different results</cell>
+            <cell>Measure how far different paper airplanes fly</cell>
+          </row>
+          <row>
+            <cell>6-8</cell>
+            <cell>Quantify variability using range and standard deviation</cell>
+            <cell>Calculate the spread in test scores across classes</cell>
+          </row>
+          <row>
+            <cell>9-10</cell>
+            <cell>Connect variability to uncertainty in conclusions</cell>
+            <cell>Understand why poll results include margins of error</cell>
+          </row>
+          <row>
+            <cell>11-12</cell>
+            <cell>Use variability to model real-world processes</cell>
+            <cell>Analyze how measurement error affects scientific conclusions</cell>
+          </row>
+        </tabular>
+        <p>
+          <em>This progression supports multiple themes: Bayesian Probability (Theme 3), Statistical Significance (Theme 4), and Alternative Explanations (Theme 2). In the detailed progressions, it appears primarily in Strands A, C, and D.</em>
+        </p>
+      </example>
+
+      <activity xml:id="activity-strand-connections">
+        <title>Connecting Themes and Strands</title>
+        <statement>
+          <p>
+            Consider a simple classroom scenario: Third graders are investigating <q>What's the most popular pet in our class?</q>
+          </p>
+          <p>
+            For each strand below, write one specific thing students might do as part of this investigation:
+          </p>
+          <p>
+            1. <em>Data Disposition:</em> _______________
+          </p>
+          <p>
+            2. <em>Creation and Curation:</em> _______________
+          </p>
+          <p>
+            3. <em>Analysis and Modeling:</em> _______________
+          </p>
+          <p>
+            4. <em>Interpreting Problems and Results:</em> _______________
+          </p>
+          <p>
+            5. <em>Visualization and Communication:</em> _______________
+          </p>
+          <p>
+            Now consider: Which of the five themes does this project primarily address?
+          </p>
+        </statement>
+        <solution>
+          <p>Sample responses:</p>
+          <p>
+            1. <em>Data Disposition:</em> Discuss why it's important to ask permission before sharing information about pets, understand that some students might not have pets
+          </p>
+          <p>
+            2. <em>Creation and Curation:</em> Create a survey, organize responses into categories, clean up any unclear answers
+          </p>
+          <p>
+            3. <em>Analysis and Modeling:</em> Count responses, compare totals, look for patterns
+          </p>
+          <p>
+            4. <em>Interpreting Problems and Results:</em> Decide what the data tells us, consider limitations (small sample size, only our class)
+          </p>
+          <p>
+            5. <em>Visualization and Communication:</em> Create a bar graph and present findings to another class
+          </p>
+          <p>
+            <em>Themes addressed:</em> This project primarily connects to "Telling Stories That Matter" (Theme 1) and "Making Data Real and Connected to Everyday Life" (Theme 3).
+          </p>
+        </solution>
+      </activity>
+
+      <p>
+        Notice how naturally these strands flow together? In real data science work, they're not separate steps but interconnected aspects of investigation. The themes help you see the bigger purpose while the strands provide detailed developmental guidance.
       </p>
 
       <principle xml:id="principle-developmental-progression">
@@ -561,6 +719,130 @@
           <m>\bullet</m> It's okay to adapt for your specific students
         </p>
       </warning>
+
+      <note xml:id="reflection-concept-growth">
+        <title>Reflection: Concept Growth in Your Subject</title>
+        <p>
+          Think about a key concept in your subject area (like <q>evidence</q> in social studies, <q>pattern</q> in math, or <q>observation</q> in science). How does understanding of this concept deepen as students progress through school?
+        </p>
+        <p>
+          Now consider how this same principle applies to data science concepts. Students don't learn <q>statistics</q> in high school - they build statistical thinking from their earliest school experiences through developmentally appropriate encounters with the themes and strand concepts.
+        </p>
+      </note>
+    </subsection>
+
+    <subsection xml:id="cross-curricular-connections">
+      <title>Cross-Curricular DNA: Data Science Everywhere</title>
+      
+      <p>
+        Data science isn't another subject to squeeze into an already packed curriculum. Instead, it's a way of thinking and working that enhances learning across all subjects. The five themes provide natural entry points for integration, while the detailed progressions offer specific concepts when you need them.
+      </p>
+
+      <insight xml:id="insight-subject-connections">
+        <title>Subject Area Connections Through Themes</title>
+        
+        <p><alert>English Language Arts</alert></p>
+        <p>
+          <m>\bullet</m> <em>Telling Stories That Matter:</em> Creating infographics for persuasive essays, adapting research presentations for different audiences
+        </p>
+        <p>
+          <m>\bullet</m> <em>Questioning Everything:</em> Analyzing bias in sources, identifying alternative interpretations of historical texts
+        </p>
+        <p>
+          <m>\bullet</m> <em>Working with Complex Information:</em> Analyzing character development patterns across stories using text analysis tools
+        </p>
+        <p>
+          <em>Connects primarily to Strands A, D, and E</em>
+        </p>
+
+        <p><alert>Mathematics</alert></p>
+        <p>
+          <m>\bullet</m> <em>Working with Complex Information:</em> Measuring and comparing objects, looking for patterns in number sequences
+        </p>
+        <p>
+          <m>\bullet</m> <em>Making Data Real:</em> Using probability concepts for everyday decision-making
+        </p>
+        <p>
+          <m>\bullet</m> <em>Telling Stories That Matter:</em> Explaining mathematical reasoning clearly to different audiences
+        </p>
+        <p>
+          <em>Connects primarily to Strands C, D, and E</em>
+        </p>
+
+        <p><alert>Science</alert></p>
+        <p>
+          <m>\bullet</m> <em>Questioning Everything:</em> Designing controlled experiments, seeking alternative explanations for observations
+        </p>
+        <p>
+          <m>\bullet</m> <em>Understanding Our Data-Driven World:</em> Considering measurement uncertainty and ethical implications of research
+        </p>
+        <p>
+          <m>\bullet</m> <em>Working with Complex Information:</em> Collecting and analyzing experimental data
+        </p>
+        <p>
+          <em>Connects primarily to Strands B, C, and D</em>
+        </p>
+
+        <p><alert>Social Studies</alert></p>
+        <p>
+          <m>\bullet</m> <em>Making Data Real:</em> Using census data for civic engagement, examining policy arguments
+        </p>
+        <p>
+          <m>\bullet</m> <em>Questioning Everything:</em> Evaluating bias in historical sources, assessing generalization claims in policy debates
+        </p>
+        <p>
+          <m>\bullet</m> <em>Understanding Our Data-Driven World:</em> Exploring how data collection has been used throughout history
+        </p>
+        <p>
+          <em>Connects primarily to Strands A, D, and E</em>
+        </p>
+
+        <p><alert>Arts</alert></p>
+        <p>
+          <m>\bullet</m> <em>Telling Stories That Matter:</em> Creating data-driven infographics and visual narratives
+        </p>
+        <p>
+          <m>\bullet</m> <em>Working with Complex Information:</em> Analyzing color frequency in paintings, surveying musical preferences
+        </p>
+        <p>
+          <m>\bullet</m> <em>Understanding Our Data-Driven World:</em> Exploring how algorithms influence what art we see online
+        </p>
+        <p>
+          <em>Connects primarily to Strands E, C, and A</em>
+        </p>
+      </insight>
+
+      <activity xml:id="activity-find-connections">
+        <title>Finding Connections in Your Curriculum</title>
+        <statement>
+          <p>
+            Look at a unit you're currently teaching or will teach soon. Instead of trying to address all five strands, focus on one theme that feels most natural:
+          </p>
+          <p>
+            <em>Unit Topic:</em> _______________
+          </p>
+          <p>
+            <em>Most natural theme for this unit:</em> _______________
+          </p>
+          <p>
+            <em>Two specific outcomes from this theme I could integrate:</em>
+          </p>
+          <p>
+            1. _______________
+          </p>
+          <p>
+            2. _______________
+          </p>
+          <p>
+            <em>How this would enhance student learning in my unit:</em> _______________
+          </p>
+        </statement>
+        <hint>
+          <p>
+            Don't worry about being perfect or comprehensive. The goal is to start seeing connections, not to redesign your entire curriculum! Start with one theme and see how it feels.
+          </p>
+        </hint>
+      </activity>
     </subsection>
   </section>
 
@@ -569,7 +851,7 @@
     
     <introduction>
       <p>
-        You've now gained a bird's-eye view of the data science learning landscape. In the coming chapters, you'll dive deeper into your specific grade band, but first, let's make sure you're ready for that focused work.
+        You've now gained a bird's-eye view of the data science learning landscape through both manageable themes and comprehensive progressions. In the coming chapters, you'll dive deeper into your specific grade band, but first, let's make sure you're ready for that focused work.
       </p>
     </introduction>
 
@@ -580,22 +862,31 @@
         <title>Priority Setting for Your Grade Band</title>
         <statement>
           <p>
-            Based on your exploration of the progressions, complete the following:
+            Based on your exploration of the themes and progressions, complete the following:
           </p>
           <p>
             1. <em>My grade band focus:</em> _______________
           </p>
           <p>
-            2. <em>The strand I'm most excited to explore:</em> _______________
+            2. <em>The theme I'm most excited to explore:</em> _______________
           </p>
           <p>
-            3. <em>The concept I think will be most challenging:</em> _______________
+            3. <em>Two specific outcomes I want to start with:</em>
           </p>
           <p>
-            4. <em>One specific thing I want to try in the next month:</em> _______________
+            - _______________
           </p>
           <p>
-            5. <em>One question I have about developmentally appropriate data science:</em> _______________
+            - _______________
+          </p>
+          <p>
+            4. <em>The outcome I think will be most challenging:</em> _______________
+          </p>
+          <p>
+            5. <em>One specific thing I want to try in the next month:</em> _______________
+          </p>
+          <p>
+            6. <em>One question I have about developmentally appropriate data science:</em> _______________
           </p>
         </statement>
       </exercise>
@@ -611,7 +902,10 @@
       <insight xml:id="insight-confidence-builders">
         <title>Confidence Builders</title>
         <p>
-          <m>\bullet</m> <alert>Start small:</alert> One concept, one lesson, one step at a time
+          <m>\bullet</m> <alert>Start with themes, not strands:</alert> Pick one theme that feels natural, then explore specific strand concepts as needed
+        </p>
+        <p>
+          <m>\bullet</m> <alert>Start small:</alert> One outcome, one lesson, one step at a time
         </p>
         <p>
           <m>\bullet</m> <alert>Embrace learning alongside students:</alert> It's okay not to know everything
@@ -644,22 +938,28 @@
         2. How has your understanding of your role as a data science educator evolved?
       </p>
       <p>
-        3. What connections do you see between data science and your subject area that you hadn't noticed before?
+        3. Which of the five themes feels most connected to your current teaching strengths?
       </p>
       <p>
-        4. What's one specific way you'll apply what you've learned in the next two weeks?
+        4. What connections do you see between the themes/outcomes and your subject area that you hadn't noticed before?
       </p>
       <p>
-        5. What support do you need as you continue this journey?
+        5. What's one specific outcome you'll focus on in the next two weeks?
+      </p>
+      <p>
+        6. When you're ready for more detailed planning, which strands do you want to explore first?
+      </p>
+      <p>
+        7. What support do you need as you continue this journey?
       </p>
     </note>
 
     <p>
-      You're now ready to dive into the specific needs and opportunities of your grade band. The foundation you've built in understanding the overall landscape will serve you well as you get more specific about implementation.
+      You're now ready to dive into the specific needs and opportunities of your grade band. The foundation you've built in understanding both the manageable themes and the comprehensive progressions will serve you well as you get more specific about implementation.
     </p>
 
     <p>
-      In your next chapter, you'll explore how these progressions play out specifically in your grade band, with concrete examples, common challenges, and practical strategies for bringing data science thinking to life in your classroom.
+      In your next chapter, you'll explore how these themes and progressions play out specifically in your grade band, with concrete examples, common challenges, and practical strategies for bringing data science thinking to life in your classroom. You'll see how the outcomes translate into age-appropriate activities and how the strand progressions provide detailed developmental guidance when you need it.
     </p>
   </section>
 

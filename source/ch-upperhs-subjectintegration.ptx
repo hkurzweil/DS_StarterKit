@@ -274,9 +274,121 @@
     
     <introduction>
       <p>
-        Senior-level mathematics becomes a tool for conducting cutting-edge research that pushes the boundaries of mathematical knowledge while solving complex real-world problems. Students can contribute original mathematical insights, develop new analytical methods, and lead innovation in mathematical applications.
+        Senior-level mathematics becomes a tool for conducting cutting-edge research that pushes the boundaries of mathematical knowledge while solving complex real-world problems. Students can contribute original mathematical insights, develop new analytical methods, and lead innovation in mathematical applications. At this level, traditional mathematical concepts become powerful tools for analyzing authentic data and addressing real-world challenges.
       </p>
     </introduction>
+
+    <subsection xml:id="grades11-12-math-traditional-enhancement">
+      <title>Traditional Mathematics Enhancement: Data Science Integration in Core Curriculum</title>
+      
+      <p>
+        Senior students can experience traditional mathematical concepts like logarithms, exponential functions, and regression analysis through sophisticated data science applications that reveal the real-world power of these mathematical tools. Rather than learning abstract concepts in isolation, students explore advanced mathematics through meaningful research questions that require authentic mathematical modeling.
+      </p>
+
+      <p>
+        The following video from Bootstrap World demonstrates how traditional Algebra 2 concepts can be transformed into powerful data science learning experiences. Emmanuel Schanzer shows how students can explore logarithmic modeling using real-world health and economic data, creating opportunities for deep mathematical understanding while addressing important global questions.
+      </p>
+
+      <video xml:id="video-bootstrap-algebra2" youtube="px1fQx2JPT8" width="100%" />
+      
+      <p>
+        <em>Data Science Integration in Algebra 2: Bootstrap's Approach to Mathematical Modeling</em> - Bootstrap's Emmanuel Schanzer demonstrates how traditional Algebra 2 concepts like logarithms, exponential functions, and regression can be taught through authentic data science projects. Students explore the relationship between poverty and health using real country-level data, learning to fit logarithmic models and perform data transformations while engaging with meaningful social questions.
+      </p>
+
+      <p>
+        This approach to mathematical learning exemplifies how senior students can engage with traditional curriculum content at a sophisticated level that prepares them for advanced mathematical work in college and beyond.
+      </p>
+
+      <example xml:id="example-enhanced-algebra-projects">
+        <title>Advanced Mathematical Modeling Projects Building on Bootstrap's Approach</title>
+        <p>
+          <alert>The Extension:</alert> Students build on Bootstrap's foundational approach to develop comprehensive research projects that combine multiple mathematical concepts with original data analysis.
+        </p>
+        <p>
+          <alert>Math Learning:</alert> Logarithmic and exponential modeling, inverse functions, regression analysis, data transformation, statistical inference, model validation
+        </p>
+        <p>
+          <alert>Data Science Learning:</alert> Data collection and cleaning, exploratory data analysis, predictive modeling, model interpretation, research ethics
+        </p>
+        <p>
+          <alert>Advanced Project Development:</alert>
+        </p>
+        <p>
+          <m>\bullet</m> Extend health and economic analysis to include temporal trends and causal inference
+        </p>
+        <p>
+          <m>\bullet</m> Compare logarithmic models across different demographic groups and time periods
+        </p>
+        <p>
+          <m>\bullet</m> Develop original mathematical approaches for handling missing data and outliers
+        </p>
+        <p>
+          <m>\bullet</m> Create interactive visualizations that allow exploration of model parameters
+        </p>
+        <p>
+          <m>\bullet</m> Validate models using advanced statistical techniques and cross-validation
+        </p>
+        <p>
+          <m>\bullet</m> Present findings to public health organizations and policy researchers
+        </p>
+        <p>
+          <m>\bullet</m> Contribute analysis to academic research on global health and development
+        </p>
+        <p>
+          <alert>Mathematical Sophistication:</alert> Students master traditional concepts while developing skills in mathematical research and real-world problem solving
+        </p>
+      </example>
+
+      <insight xml:id="insight-mathematical-authenticity">
+        <title>Creating Authentic Mathematical Experiences</title>
+        <p>
+          <alert>Real-world motivation:</alert> Mathematical concepts are learned in service of answering genuine questions about important issues
+        </p>
+        <p>
+          <alert>Progressive complexity:</alert> Students begin with foundational concepts and build toward sophisticated mathematical analysis
+        </p>
+        <p>
+          <alert>Multiple representations:</alert> Mathematical relationships are explored through algebraic, geometric, and computational approaches
+        </p>
+        <p>
+          <alert>Conceptual connections:</alert> Students understand how different mathematical topics relate to each other and to real-world applications
+        </p>
+        <p>
+          <alert>Research methodology:</alert> Students learn to approach mathematical problems with the rigor and skepticism of professional researchers
+        </p>
+      </insight>
+
+      <activity xml:id="activity-curriculum-enhancement">
+        <title>Traditional Curriculum Enhancement Through Data Science</title>
+        <statement>
+          <p>
+            How could you enhance traditional mathematical topics through authentic data science applications?
+          </p>
+          <p>
+            <alert>Statistics and Probability:</alert> Election forecasting, medical testing accuracy, quality control in manufacturing
+          </p>
+          <p>
+            <alert>Trigonometry:</alert> Analyzing periodic phenomena in climate data, sound wave analysis, biological rhythms
+          </p>
+          <p>
+            <alert>Calculus:</alert> Optimization problems in resource allocation, growth and decay models in epidemiology, rate of change analysis in economics
+          </p>
+          <p>
+            <alert>Linear Algebra:</alert> Image processing and computer vision, recommendation systems, network analysis
+          </p>
+          <p>
+            What real-world datasets and questions could motivate deep engagement with these mathematical concepts?
+          </p>
+        </statement>
+      </activity>
+
+      <note xml:id="note-bootstrap-philosophy">
+        <title>Bootstrap's Educational Philosophy in Advanced Settings</title>
+        <p>
+          Bootstrap's approach of teaching programming through algebra and algebra through programming creates powerful learning experiences at all levels. For senior students, this philosophy supports sophisticated mathematical modeling work where students use "purely algebraic concepts like function definition and function application" to conduct professional-level research. The constraint of working within familiar mathematical frameworks actually enhances creativity and deep understanding.
+        </p>
+      </note>
+    </subsection>
 
     <subsection xml:id="grades11-12-math-original-research">
       <title>Original Mathematical Research: Contributing New Knowledge</title>
