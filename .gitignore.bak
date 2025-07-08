@@ -1,4 +1,4 @@
-# This file was automatically generated with PreTeXt 2.22.0.
+# This file was automatically generated with PreTeXt 2.19.1.
 # If you modify this file, PreTeXt will no longer automatically update it.
 #
 # Boilerplate list of files in a PreTeXt project for git to ignore
@@ -103,5 +103,5 @@ venv/
 codechat_config.yaml
 
 # Don't track deprecated workflows
-.github/workflows/deploy.yml
+# .github/workflows/deploy.yml
 .github/workflows/test-build.yml
